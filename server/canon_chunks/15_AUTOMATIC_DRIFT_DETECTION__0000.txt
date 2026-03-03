@@ -1,0 +1,55 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# AUTOMATIC DRIFT DETECTION (Correctness-Only)
+
+## Goal
+Detect when the AI’s current draft output diverges from established canon, file authority order, or previously confirmed decisions.
+
+**Important:** This logic must NOT trigger or force any save-file behavior. It is purely a correctness check.
+
+---
+## What “drift” means here
+Drift is any of the following:
+1. **Contradiction drift:** output conflicts with a higher-authority file.
+2. **Duplication drift:** output redefines an existing rule as if new.
+3. **Authority drift:** a lower file or patch overrides a higher file without permission.
+4. **Mode drift:** narrative proceeds while Intake Mode should be active.
+5. **Resolution drift:** dice system boundaries are crossed mid-resolution.
+6. **Inventory drift:** inventory/resources change without a recorded, in-world cause.
+
+---
+## When to run drift detection
+Run after drafting (after Double Verification Pass 2), but before sending output.
+
+---
+## Drift Detection Procedure (Deterministic)
+### Step A — Declare dependency set
+List (internally) which sections/files the draft relies on (max 3–7 anchors).
+
+### Step B — Canon consistency check
+For each anchor:
+- Confirm the draft does not conflict with the anchor’s explicit rules.
+- If conflict exists: mark as DRIFT and stop.
+
+### Step C — Duplicate rule scan (lightweight)
+Ask: “Am I introducing a new rule that already exists?”
+- If yes: DRIFT → rewrite as a reference to the existing rule or write a patch note that *clarifies* (not redefines).
+
+### Step D — Mode + authority check
+- If Intake Mode is active, narrative must not proceed.
+- If authority is unclear, escalate instead of inventing.
+
+###

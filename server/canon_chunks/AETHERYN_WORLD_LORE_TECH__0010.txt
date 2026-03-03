@@ -1,0 +1,58 @@
+mediately after a successful bite to “digest” energy.
+
+## 8) Stone-Grief Golem (Juggernaut)
+*Manifestation of mourning.*
+- **HP:** 40 | **DEF:** 18 | **ATK:** +4 | **DMG:** d20 (Slam)
+- **Behavior:** Passive until provoked or disrupted.
+- **Trigger:** Enters Rage (more aggressive) when an adjacent ally is killed.
+
+## 9) False-Face Siren (Controller)
+*Manifestation of betrayal.*
+- **HP:** 14 | **DEF:** 13 | **ATK:** +4 | **DMG:** special (Lure)
+- **Behavior:** Mimics friendly voices; isolates targets.
+- **Trigger:** Attempts to pull a target adjacent, then stun/lock them in place (engine-mappable).
+
+## 10) Rupture-Lord (Crisis Avatar — Boss)
+*Manifestation of total collapse.*
+- **HP:** 60 | **DEF:** 17 | **ATK:** +8 | **DMG:** d20 (Void-Cleave)
+- **Behavior:** Warps the scene; phase shifts.
+- **Trigger (Phase 2):** At half HP, gravity inverts; all movement costs double (engine-mappable).
+
+---
+
+End of File.
+
+---
+
+
+==============================================================================
+SECTION: TECH_CATALOG (legacy 13_TECH_CATALOG.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+# AETHERYN_WORLD_LORE_TECH.aeth (Section: TECH_CATALOG) — CORE TECH & RELICS (STARTER PACK)
+
+Status: **AUTHORITATIVE — CATALOG**
+Introduces mechanics: **YES (Item Tags + Explicit Effects)**
+Purpose: Provide a concrete starter catalog so the Operator does not hallucinate gear/relic logic.
+
+---
+
+## Tag Key (Operator Logic)
+
+- **[Consumable]**: Destroyed on use.
+- **[Volatile]**: On a bad mishap, harms the user or nearby environment (details are item-specific).
+- **[Crisis]**: Behavior shifts under high Crisis (explicitly descri

@@ -1,0 +1,45 @@
+e referenced.
+
+Frostveil Dominion:
+Icewatch Hold; Frostmere; Glacierspine Holdfast; Northwind Watch; Skarhald; Varyn; Whitebarrow; Ashwind Pass.
+
+Eryndor Confederacy:
+Valemarch; Tharwick; Goldmere; Highfield; Redbrook; Greenrise; Riverend; Sunfall Keep; Oldenmoor Hamlet.
+
+Verdantis Crownlands:
+Heartwood Spire; Silvergrove; Thornreach; Lowwood; Eastfall; Glimmerfen; Greencoast Port; Verdantbay Port.
+
+Ebonreach Covenant:
+Hollowgrave; Mirehold; Soulmarsh; Murkfield; Blackwater; Wraithwater; Duskfen.
+
+Ashmarsh Principalities:
+Cindralith; Ashgate; Riftshadow; Emberfen; Dustmere; Cinder Plains; Obsidian Hold; Ridge of Echoes.
+
+Emberlands Imperium:
+Emberdeep; Furnacehold; Dragoncrater; Ashflow; Redwaste; Sulfur Harbor; Ironblood; Scorchwind.
+
+
+### Settlement Scale Assumption (AI)
+- The playable landmass is approximately **U.S.-scale**.
+- The atlas node list above represents **charted** settlements and navigation anchors, not exhaustive habitation.
+- Unless play demands precision, treat minor habitation as **unnamed villages/hamlets/holds** inside the relevant province.
+- Do not name a new place casually. If a minor name is required, frame it as a **local nickname/rumor** or reuse an existing province/feature name.
+Local physical features: Glacierwall Range; Ashen Rift Mountains; Silverflow River.
+
+---
+
+## REGION PROFILES (Macro-Regions)
+
+### Veythar Empire
+Veythar runs on record-keeping as a form of weather control. The empire believes disorder is a kind of contagious residue: invisible until it isn’t.
+
+Governance: layered offices, overlapping mandates, and “temporary” emergency authorities that never quite expire.
+Magic posture: permissive only when logged; suspicion is procedural, not personal.
+Everyday texture: ink-stained fingertips, stamped travel slips, watchmen with ledger satchels.
+Trade: iron tools, shock-ward fittings, paper, lamp oil.
+Common taboo: unregistered miracles in public spaces.
+
+Speech + naming: clipped official phrasing; surnames often occupational or place-tied (“of Ironspire,” “Ward-Drake,” “Sealwright”).
+
+### Eldrion Kingdom
+Eldrion is polite soil and weaponized ceremony. The Sun-Court frames stability as sacred agriculture: a harvest is proof 

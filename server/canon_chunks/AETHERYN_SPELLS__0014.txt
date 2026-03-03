@@ -1,0 +1,43 @@
+pic; results remain discrete and mechanically honest
+
+---
+
+## SPELL MINTING GRAMMAR (REMINDER)
+
+Spell Name = (Verb) + (Medium) + (Constraint)
+
+- Verb examples: bind, shear, hush, sever, crown, stitch, exile, mirror, anchor, ward…
+- Medium (Aether): veil / lattice / rift / sigil / prism
+- Constraint examples: once, briefly, at a seam, in a pocket, along a bond, at a threshold, by contact…
+
+Then assign: Tier(cost) + Lane(F/T) + a distinct Risk (the balancing hook).
+
+---
+
+## CATALOG ENTRY FORMAT
+
+[Tier|Cost|Lane] Spell Name — Does: <plain effect>. Risk: <distinct cost/backlash/collateral>.
+
+---
+
+# AETHER (50)
+
+## Tier 1 (10)
+
+1.  [T1|1|F] Sigil Smudge — Does: leave a faint personal mark only you can recognize. Risk: other Touched may “feel” the residue.
+2.  [T1|1|T] Veil Blur — Does: soften your outline for a moment. Risk: your own depth-judgment warps briefly.
+3.  [T1|1|F] Lattice Nudge — Does: halt a tiny moving object for a blink (coin/key/needle). Risk: rebound snap toward you.
+4.  [T1|1|T] Prism Listen — Does: detect wards/lines of force nearby. Risk: headache + light sensitivity.
+5.  [T1|1|F] Rift Stitch — Does: “close” a tiny seam/tear in fabric/strap/rope. Risk: a weak spot appears elsewhere.
+6.  [T1|1|T] Anchor Step — Does: steady yourself against shove/fall for one beat. Risk: muscle cramp backlash.
+7.  [T1|1|F] Mirror Flicker — Does: duplicate a simple gesture/mark as a decoy beat. Risk: breaks obviously up close.
+8.  [T1|1|T] Angle Map — Does: sense clean straight paths/angles in a room. Risk: nausea in crowded geometry.
+9.  [T1|1|F] Pocket Palm — Does: hide a palm-sized item for a heartbeat. Risk: drop/fumble if startled.
+10. [T1|1|T] Threshold Muffle — Does: soften sound around a doorway briefly. Risk: muffles ally cues too.
+
+## Tier 2 (12)
+
+11. [T2|2|F] Veilstep — Does: short blink reposition (a few paces) if line-of-sight exists. Risk: ankle twist on imperfect arrival.
+12. [T2|2|T] Sigil Lock — Does: make a door/window resist opening briefly. Risk: leaves obvious “touched” residue.
+13. [T2|2|F] Lattice Snare — Does: catch a weapon-hand/wrist for a beat (contest in combat). Risk: forearm strain spike.
+14. [T2|2|T] Pocket Hide — Does: conceal a small 

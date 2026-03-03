@@ -1,0 +1,58 @@
+ust 
+Soul — life/death adjacency, identity, bonds, memory 
+Aether — space, wards, reality-lattice, residue craft 
+
+! List them numerically. 
+! No omissions. 
+! No reordering. 
+! No descriptive additions beyond minimal clarification. 
+------------------------------------------------------------------------
+
+### 13. What class are you?
+[GM NOTE — Not Player Facing]
+! Generate lore-consistent class options.
+! List numerically.
+! Each option must be meaningfully distinct.
+! No duplicates.
+! No meta commentary.
+------------------------------------------------------------------------
+
+### 14. What was your job, if any, before game start?
+
+------------------------------------------------------------------------
+
+# POST-INTAKE PROCEDURE (LOCKED)
+
+After Question 14 (per player):
+[GM NOTE — Not Player Facing]
+! 1. The GM rolls player stats one by one.
+! 2. Dice system is fully enabled for all resolutions.
+! 3. No number ranges --- each number must represent a distinct meaning.
+! 4. Each stat roll is resolved individually.
+! 5. No stat bundling.
+! 6. No pre-selection of favorable spreads.
+
+## STAT ROLLING — CORE ATTRIBUTE SET (CANON PATCH)
+
+**Roll Method:** For each stat, roll **3d6** and **sum** the dice.
+- Rolls are made **one at a time**, in the order listed below.
+- **No rerolls. No bundling. No pre-selection.**
+- Stat values range **3–18**.
+- **No number ranges** in interpretation: each value is treated as a distinct state.
+
+### Stat List (Locked)
+
+1. **STRIKE** — Applied force and weapon effectiveness.
+  Influences: attack resolution, grapples, forced movement, breaking barriers.
+
+2. **GUARD** — Structural resilience and damage endurance.
+  Influences: defense resolution, injury/poison stress, environmental survival.
+
+3. **VELOCITY** — Reaction speed and positional control.
+  Influences: initiative priority, evasion, chase tempo, acting before escalation triggers.
+
+4. **SIGHT** — Perception, awareness, and pattern detection.
+  Influences: discovery, ambush detection, reading combat states, spotting mechanisms and tells.
+
+5. **WILL** — Mental stability and resistance under pressure.
+  Influences: fear checks, coercion resistance, focus under trauma, resisting intrusiv

@@ -1,0 +1,59 @@
+e-era dates; when conflicts exist, prefer the “ACTIVE BASELINE” above.
+
+## AETHERYN — World History Chronicle (Verbatim)
+Version date: 2026-02-09
+
+---
+
+## VERBATIM SOURCE: AETH_P3_01_HIST_WorldHistoryChronicle (embedded)
+
+(Contents below are included **without modification** to preserve meaning.)
+
+---
+
+<!-- FAST-ROLE: WORLD-HISTORY -->
+
+## FILE: 07_WORLD_HISTORY.md
+
+### AETHERYN — WORLD HISTORY (AUTHORITATIVE CANON)
+Chronology: Neutral Year System (− → +)
+Scope: World / Lore
+Note: Early dates are reconstructed. Later dates are recorded. Interpretation varies by region; occurrence does not.
+
+---
+
+### −5000 to −4200 — The Unbound World
+
+Humanity exists in kin-bands, scavenger hosts, and wandering bloodlines. There are no nations. There is no law. Survival is ritualized violence.
+
+Magic is ambient and feral. It answers fear, hunger, pain, and belief more readily than intent. The dead sometimes rise. Spirits sometimes lie. Gods do not explain themselves.
+
+#### −4872 — The First Binding Death (solid truth)
+A hunter later called Uru-That-Would-Not-Die is slain and rises at dusk, hostile and aware. He is killed again. He rises again.
+Only fire, scattering, and erasure of his name end the recurrence.
+
+This is the first recognized instance of necromantic persistence.
+
+---
+
+### −4700 to −4500 — The Totem Kings
+Individuals claim protection or favor from beasts, storms, ancestors, or unnamed voices. They rule by terror and miracle.
+Sacrifice stabilizes camps. Names attract attention. Children are taught ritual deception early.
+
+---
+
+### −4190 — The Red Valley Convergence (solid truth)
+Multiple bands converge independently after shared dreams of safety.
+For three seasons food is abundant and magic quiets.
+On the fourth season, incompatible rituals fracture belief. The valley annihilates itself overnight.
+No bodies are recovered.
+
+---
+
+### −4100 to −3600 — The Scavenger Centuries
+Settlements last decades at most. Magic-users are alternately worshipped, exiled, or killed.
+
+#### −3921 — Lath of the Bone Rain
+The shaman-queen Lath-of-Hands binds an enemy’s dead to march.
+The ritual decays. The dead wander. River systems are abandoned.
+The phrase “Borrowing Tomorrow” enters memor

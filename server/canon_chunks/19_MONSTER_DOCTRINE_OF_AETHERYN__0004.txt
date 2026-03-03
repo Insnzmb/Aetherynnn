@@ -1,0 +1,16 @@
+**ATK:** +4 | **DMG:** special (Lure)
+- **Behavior:** Mimics friendly voices; isolates targets.
+- **Trigger:** Attempts to pull a target adjacent, then stun/lock them in place (engine-mappable).
+
+## 10) Rupture-Lord (Crisis Avatar — Boss)
+*Manifestation of total collapse.*
+- **HP:** 60 | **DEF:** 17 | **ATK:** +8 | **DMG:** d20 (Void-Cleave)
+- **Behavior:** Warps the scene; phase shifts.
+- **Trigger (Phase 2):** At half HP, gravity inverts; all movement costs double (engine-mappable).
+
+---
+
+End of File.
+
+---
+

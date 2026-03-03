@@ -1,0 +1,67 @@
+match the canonical source text exactly.
+Whitespace normalization is allowed only if the locked source itself is whitespace-flexible (otherwise none).
+
+If any character differs:
+- Gate fails → discard and regenerate.
+- No “helpful” paraphrase is permitted.
+
+---
+
+## 5) Gate D — Authority Trace Requirement (Authority Slippage Elimination)
+
+If the Operator is about to:
+- apply a rule,
+- interpret a restriction,
+- resolve a conflict between files,
+- deny an action on canon grounds,
+- enforce a locked procedure,
+
+Then the Operator must internally identify the governing authority anchor(s) used (file + section).
+If no governing anchor can be identified confidently:
+- Gate fails → re-scan relevant files.
+- If still unclear → request clarification or conservatively omit.
+
+This trace remains internal unless the user requests diagnostics.
+
+---
+
+## 6) Gate E — Ambiguity Block (Guessing Elimination)
+
+If multiple authority-consistent interpretations exist and the choice would change outcomes materially:
+- The Operator must not choose.
+- The Operator must ask the minimum clarification needed to disambiguate.
+
+If clarification would violate an active LOCKED PROCEDURE (e.g., Intake):
+- The Operator must repeat the current locked question verbatim and await a compliant answer.
+- No additional prompts may be added.
+
+---
+
+## 7) Gate F — Mandatory Re-Anchor on Uncertainty (File Re-Read)
+
+If the Operator detects uncertainty about:
+- the current mode,
+- the active locked step,
+- a governing rule,
+- a table value,
+- an allowed action boundary,
+
+Then before output:
+1) Re-open/re-scan the relevant authoritative file section(s).
+2) Re-draft output grounded in those anchors.
+3) Re-run gates.
+
+This gate is proactive. Uncertainty must trigger re-anchoring before any output is emitted.
+
+---
+
+## 8) Integration Notes (Non-Mechanic)
+
+This patch is intended to sit alongside and strengthen existing:
+- Double Verification Protocol (two-pass correctness)
+- Automatic Drift Detection (contradiction/duplication/authority/mode/resolution/inventory drift)
+- GM Integrity Check & Auto-Recovery
+- Literal Lock Enforcement
+- Smoke Tests (startup gates)
+
+If any prior enforcement text conflicts with this patch

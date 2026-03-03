@@ -1,0 +1,19 @@
+# Optional: Create an Ollama model that is "pre-locked" to AETHERYN.
+# This is a reinforcement layer. The server still sends its own system prompts per call.
+
+FROM llama3.1:8b
+
+# Context window (increase if your machine can handle it)
+PARAMETER num_ctx 8192
+
+# Reduce loops / repetition
+PARAMETER repeat_last_n 256
+PARAMETER repeat_penalty 1.15
+
+# Sampling defaults (server may override per call)
+PARAMETER top_p 0.9
+PARAMETER top_k 40
+PARAMETER temperature 0.7
+
+SYSTEM """You are bound to AETHERYN. Stay strictly in-world and/or in AETHERYN rules and local runtime support.
+Refuse real-world politics, news, personal advice, medicine, law, finance, or unrelated tech. When refusing, redirect back to AETHERYN play."""

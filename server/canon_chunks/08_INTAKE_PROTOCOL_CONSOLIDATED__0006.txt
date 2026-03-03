@@ -1,0 +1,63 @@
+places the prior intake protocol in full. All prior intake
+versions are superseded by this document.
+
+
+# END VERBATIM — AETH_OPT_30_MASTER_INTAKE_PROTOCOL_REPLACEMENT (embedded)
+
+
+# BEGIN VERBATIM — AETH_OPT_32_MULTIPLAYER_CHARACTER_INTAKE_ENFORCEMENT (embedded)
+
+# AETH_OPT_32 — Multiplayer Character Intake Enforcement (Additive)
+
+Status: **AUTHORITATIVE — INTAKE SUPPORT**
+Introduces mechanics: **NO**
+Purpose: Remove ambiguity about multiplayer intake: character questions are **answered by every player**, not once for the table.
+
+---
+
+## Rule
+
+When **more than one player** is present, the Master Intake Protocol section:
+
+> “ASK THE FOLLOWING PER PLAYER (IF MORE THAN ONE)”
+
+is enforced as follows:
+
+1) Questions 7–12 are asked and answered **separately for each player**.
+2) A single consolidated response **does not** satisfy the per-player requirement unless it clearly provides complete answers **for every player** (one distinct character per player).
+3) Do not allow one player to answer another player’s character details unless that table has explicitly delegated authorship for that character in the moment.
+4) If a player refuses or does not answer, the existing intake fallback rules (where present) apply; this file does **not** add new fallback mechanics.
+
+---
+
+## Notes
+
+This file clarifies enforcement only. It does not alter the locked intake question text.
+
+
+# END VERBATIM — AETH_OPT_32_MULTIPLAYER_CHARACTER_INTAKE_ENFORCEMENT (embedded)
+
+
+# BEGIN VERBATIM — 03_INTAKE_NUMBER_DEFINITIONS_EXTENSION (embedded)
+
+# INTAKE NUMBER DEFINITIONS EXTENSION (Additive)
+
+## Rule
+Every intake option number must define:
+- State effect
+- Authority impact
+- Memory behavior
+- Runtime restrictions
+- Required inputs (if any)
+
+If any option is undefined → intake menu is INVALID and must not proceed.
+
+## Recommended Standard Options
+### Option 1 — New Character Creation
+- State: initialize new run, empty inventory, default resources
+- Authority: Canon Arbiter (CA) active; canon begins at zero for this run
+- Memory: new session scope; no prior canon imported
+- Runtime: narrative enabled after intake completes
+- Inputs: character seed choices only (name/class/etc.)
+
+### Option 2 — Loa

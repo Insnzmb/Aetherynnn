@@ -1,0 +1,65 @@
+AETHERYN — PLAYER GUIDE (READ THIS FIRST)
+Release Bundle V12.3.x (2026-02)
+
+============================================================
+WELCOME
+============================================================
+AETHERYN is a fantasy adventure you play with an AI Game Master.
+You tell the AI what you do. The AI tells you what happens.
+
+Sometimes the AI can mess up.
+Good news: this game is built so the AI can check itself and fix mistakes.
+
+I’m sorry for any inconvenience if the AI ever gets weird or wrong.
+
+As AI gets better, this game will get better too.
+
+============================================================
+THE ONLY THINGS YOU MUST REMEMBER
+============================================================
+1) Start a new chat for a new game.
+2) Upload the game files.
+3) Type: Start game
+4) Save often.
+
+============================================================
+YOUR MAIN COMMANDS
+============================================================
+Start game
+- Starts a new game (or starts Intake).
+
+SAVE NOW
+- Makes a “save bundle” the AI will give you.
+- Copy/paste that save bundle into a safe place (notes app, email draft, etc).
+
+RESTORE
+- Paste your save bundle into a NEW chat and type: RESTORE
+
+EXPORT BOOK
+- Asks the AI to turn the resolved story so far into clean “book style” text.
+  (This does NOT change your save. It’s just a nice export.)
+
+AUTOSAVE ON / AUTOSAVE OFF
+- Turns autosave on or off (when the rules allow it).
+
+============================================================
+WHAT IS “INTAKE”?
+============================================================
+Intake is the setup questions.
+The AI must ask ALL Intake questions at once.
+You answer them.
+When all are answered, the story begins.
+
+IMPORTANT:
+This release requires you to be **18 or older** to play.
+
+============================================================
+HOW TO PLAY (SIMPLE)
+============================================================
+AI: describes the scene and gives you choices.
+YOU: pick a choice (or do Freeform).
+AI: rolls dice (or asks you to roll) and tells you what happens.
+Repeat until you’re unstoppable (or heroically doomed).
+
+============================================================
+WHE

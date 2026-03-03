@@ -1,0 +1,31 @@
+tom echoes.
+
+## Tier 2 (12)
+11. [T2|2|T] Ironbind — Does: buckle/cinch metal around itself. Risk: permanent gear damage.
+12. [T2|2|F] Shatter Tap — Does: precise vibration crack. Risk: chain fracture cascade.
+13. [T2|2|T] Tectonic Brace — Does: resist forced movement briefly. Risk: knee/ankle backlash.
+14. [T2|2|F] Claymend — Does: patch masonry/ceramic fast. Risk: temporary truth only.
+15. [T2|2|T] Gravel Snare — Does: loosen stones to grab boots. Risk: traps allies too.
+16. [T2|2|T] Magnet Wink — Does: tiny pull for coins/needles. Risk: pulls wrong shard.
+17. [T2|2|T] Bolt Memory — Does: read recent strain on a fastener. Risk: echo pain.
+18. [T2|2|F] Sandblind — Does: grit burst into eyes. Risk: wind returns it.
+19. [T2|2|T] Stonehook — Does: raise a handhold nub from rock. Risk: crumbles later.
+20. [T2|2|T] Leadline Pin — Does: pin an object by weight-coupling. Risk: pins wrong thing.
+21. [T2|2|T] Copper Tongue — Does: sense conductive routes. Risk: shock anxiety.
+22. [T2|2|T] Faultline Sense — Does: detect stress lines in architecture. Risk: paranoia drift.
+
+## Tier 3 (12)
+23. [T3|3|T] Basalt Wall — Does: blunt stone barrier (temporary). Risk: destabilizes ground.
+24. [T3|3|F] Quake Pulse — Does: ground shock breaks stance. Risk: tunnel collapse.
+25. [T3|3|T] Metal Memory — Does: read an object’s strain story. Risk: stress imprint.
+26. [T3|3|T] Ore-Call — Does: draw loose metal fragments into orbit/pile. Risk: panic via valuables.
+27. [T3|3|F] Gravel Cannon — Does: cone of stone chips blast. Risk: shrapnel everywhere.
+28. [T3|3|T] Anchor Spike — Does: fix rope/pole into ground instantly. Risk: ground fractures.
+29. [T3|3|F] Obsidian Edge — Does: grow glassy cutting lip from stone. Risk: self-cut hazard.
+30. [T3|3|T] Vault Breath — Does: reinforce a doorframe briefly. Risk: cracks elsewhere.
+31. [T3|3|F] Iron Rain — Does: fling gathered nails/shards (needs metal). Risk: maim risk.
+32. [T3|3|T] Mirror Slate — Does: stone faintly records last footfalls. Risk: false records.
+33. [T3|3|F] Collapse Nudge — Does: fail a chosen weak point. Risk: unpredictable cascade.
+34. [T3|3|T] Bedrock Calm — Does: steady shaking ground momentarily. Risk: petrification tingle.
+
+#

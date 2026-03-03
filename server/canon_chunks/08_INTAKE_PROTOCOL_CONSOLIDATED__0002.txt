@@ -1,0 +1,59 @@
+meeting later?
+
+[GM NOTE — Not Player Facing]
+! if there is only one player ignore this question and 4 becomes 3 5 become 4 and so forth
+------------------------------------------------------------------------
+
+### 4. How long is the campaign?
+
+1 1 Session
+2 2 Sessions
+3 4 sessions
+4 8 sessions
+5 16 Sessions
+6 32 Sessions
+7 64 Sessions
+8 128 Sessions
+9 256 Sessions
+10 512 Sessions
+11 1024 Sessions
+12 ENDLESS
+
+Each number corresponds to the canonical Session Horizon Scale.
+
+------------------------------------------------------------------------
+
+### 5. Campaign pacing
+1 — Slow-burn escalation. Long build phases. Institutional pressure accumulates gradually before visible rupture.
+
+2 — Measured progression. Scenes breathe. Consequences emerge steadily with moderate downtime between crises.
+
+3 — Structured rhythm. Alternation between tension and release. Developments occur every few scenes.
+
+4 — Firm momentum. Escalation begins early. Downtime exists but carries forward motion.
+
+5 — Balanced drive. Each session meaningfully advances pressure. Consequences stack at a reliable pace.
+
+6 — Accelerated cadence. Major shifts occur frequently. Institutions respond quickly.
+
+7 — High tempo. Limited recovery space. Stakes rise sharply within each session.
+
+8 — Relentless forward push. Complications overlap. Recovery windows are narrow and costly.
+
+9 — Crisis-dense pacing. Structural shifts occur rapidly. Few quiet moments.
+
+10 — Continuous escalation. Minimal downtime. Pressure compounds scene-to-scene with little stabilization.
+
+------------------------------------------------------------------------
+
+### 6. Campaign difficulty
+
+1 — Minimal lethality. Failure complicates rather than destroys. Recovery is accessible.
+2 — Light danger. Poor choices hurt, but survival is likely with caution.
+3 — Noticeable threat. Tactical mistakes begin to carry weight.
+4 — Firm risk. Enemies punish sloppy execution.
+5 — Balanced danger. Competence matters; consequences are real but survivable.
+6 — Elevated lethality. Recovery requires planning.
+7 — Severe opposition. Systems respond aggressively.
+8 — High mortality pressure. Mistakes compound quickly.
+9 — Extreme danger. Survival depends o

@@ -1,0 +1,54 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+# 13_TECH_CATALOG.md — CORE TECH & RELICS (STARTER PACK)
+
+Status: **AUTHORITATIVE — CATALOG**
+Introduces mechanics: **YES (Item Tags + Explicit Effects)**
+Purpose: Provide a concrete starter catalog so the Operator does not hallucinate gear/relic logic.
+
+---
+
+## Tag Key (Operator Logic)
+
+- **[Consumable]**: Destroyed on use.
+- **[Volatile]**: On a bad mishap, harms the user or nearby environment (details are item-specific).
+- **[Crisis]**: Behavior shifts under high Crisis (explicitly described on the item).
+
+---
+
+## Universal Item Discipline (Binding)
+
+1) **No permanent dice changes.** Items never change dice size.
+2) **No stacking flat bonuses.** If multiple items could apply, only the single strongest applies.
+3) **Narrow leverage only.** If an item shifts odds, it does so in a tight context (one action type) and is always paired with a cost, risk, or limitation.
+4) **Facts over vibes.** Inventory entries should be factual tokens (`inv:Item=Qty`, `tag:...`), not prose.
+
+**Margin Shift Notation (when used):** `MS:+1` means “treat the final Margin as +1” in the specific context named. MS never stacks with any other MS.
+
+---
+
+## Standard Gear (Tech)
+
+1. **Sun-Spark Lantern** — [Light 30ft] [Fuel: Oil]  
+   Reveals residue smears and fine particulate ash that normal light hides.
+
+2. **Iron-Ration Brick** — [Consumable] [3 Uses]  
+   Removes `cond:Hungry` for one day per use. Tastes like regret.
+
+3. **Climbing Pitons** — [Gear]  
+   Grants permission to attempt climbs that would otherwise be “no.” If a climb would result in a fall, you may convert it to a hang + `cond:Strained` **once per scene**.
+
+4. **Filter-Mask** — [Gear]  
+   Negates inh

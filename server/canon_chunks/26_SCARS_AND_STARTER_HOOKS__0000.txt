@@ -1,0 +1,55 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# 26_SCARS_AND_STARTER_HOOKS.md
+Status: CANON — WORLD GRAVITY (PLAY SEEDS)
+Introduces mechanics: NO
+Purpose: Bind history to geography and give the GM stable “first quests” without railroading.
+
+---
+
+## A. Canonical Scars (World-Scale)
+
+### 1) The Black Orchard (−1666, sealed)
+Truth: a miracle-land fed thousands; then the dead sprouted with the crops. The land was sealed and erased.
+Modern consequence: quarantine doctrine and “burn-before-bloom” paranoia in agrarian regions.
+
+### 2) The Ash Census (−1987)
+Truth: regions began counting magic use. Obscurity ended.
+Modern consequence: licenses, registries, guild charters; uncounted casting is treated as structural threat.
+
+### 3) The Burning of Hesh (−972)
+Truth: a false resurrection was exposed; the city burned itself.
+Modern consequence: resurrection taboos and burial compliance rituals.
+
+### 4) The War of Seven Witnesses (−1237)
+Truth: incompatible divine testimony; states chose witnesses and went to war.
+Modern consequence: skepticism toward prophets; institutionalized containment of “public miracles.”
+
+### 5) The Ledger Fire (+88)
+Truth: a provincial archive burned; debts vanished, grudges did not.
+Modern consequence: registry hardening; fear of record loss; rumor economies.
+
+### 6) The Three-Day Quiet (−412)
+Truth: all birds fell silent across three regions.
+Modern consequence: omen folklore that still shapes travel behavior.
+
+---
+
+## B. Local Scars (Web Map Theater)
+These are localized, playable scars that tie into the web map anchors.
+
+1) Ashwind Pass: a choke point where “paper law” meets weather. Curfews appear after residue storms.
+2) Wraithwater Delta (local Ebonreach coast): shal

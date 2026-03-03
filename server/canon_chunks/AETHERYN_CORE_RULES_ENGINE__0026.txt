@@ -1,0 +1,57 @@
+ding combat states, spotting mechanisms and tells.
+
+5. **WILL** — Mental stability and resistance under pressure.
+  Influences: fear checks, coercion resistance, focus under trauma, resisting intrusive magic effects.
+
+6. **ECHO** — Mythic resonance and consequence gravity (not “luck”).
+  Influences: magical stability, rare-event weighting, coincidence pressure, crisis escalation interaction.
+
+> **ECHO Doctrine:** Higher ECHO increases the probability of **mythic convergence** (events cluster; consequences arrive faster).
+> Lower ECHO increases **mundane stability** (fewer coincidences; lower narrative gravity).
+
+------------------------------------------------------------------------
+
+# AUTHORITY ORDER (UPDATED)
+
+When no save is present, runtime order becomes:
+
+1. Save Restore (if valid packet exists)
+2. MASTER INTAKE PROTOCOL (this file)
+3. Engine Runtime Procedure
+4. Scene Cadence
+5. Narrative Formatting
+6. Developer Mode
+
+------------------------------------------------------------------------
+
+# FINAL STATEMENT
+
+This file replaces the prior intake protocol in full. All prior intake
+versions are superseded by this document.
+
+
+# END VERBATIM — AETH_OPT_30_MASTER_INTAKE_PROTOCOL_REPLACEMENT (embedded)
+
+
+# BEGIN VERBATIM — AETH_OPT_32_MULTIPLAYER_CHARACTER_INTAKE_ENFORCEMENT (embedded)
+
+# AETH_OPT_32 — Multiplayer Character Intake Enforcement (Additive)
+
+Status: **AUTHORITATIVE — INTAKE SUPPORT**
+Introduces mechanics: **NO**
+Purpose: Remove ambiguity about multiplayer intake: character questions are **answered by every player**, not once for the table.
+
+---
+
+## Rule
+
+When **more than one player** is present, the Master Intake Protocol section:
+
+> “ASK THE FOLLOWING PER PLAYER (IF MORE THAN ONE)”
+
+is enforced as follows:
+
+1) Questions 7–12 are asked and answered **separately for each player**.
+2) A single consolidated response **does not** satisfy the per-player requirement unless it clearly provides complete answers **for every player** (one distinct character per player).
+3) Do not allow one player to answer another player’s character details unless that table has explicitly delegated authorship for that character in the moment.
+4) If a player refuses or does n

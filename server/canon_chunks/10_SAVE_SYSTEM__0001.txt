@@ -1,0 +1,54 @@
+rded if corrupted; the factual save remains authoritative.
+---
+
+# ADD — AUTOSAVE (OPTIONAL)
+
+AUTOSAVE is **ON by default**.
+
+- To disable autosave:
+  - `AUTOSAVE OFF`
+- To re-enable:
+  - `AUTOSAVE ON`
+
+When AUTOSAVE is ON, the GM will automatically provide a save bundle at the end of **every other Scene** (Scenes 2, 4, 6, …).
+
+You can still request a save at any time with:
+
+SAVE NOW
+
+---
+
+# ADD — ANTI-BRICK SAFE_MODE SAVE (LAST RESORT)
+
+Status: AUTHORITATIVE — SAVE INTEGRITY
+Introduces mechanics: NO
+Purpose: Prevent JSON bricking from killing campaigns.
+
+## When SAFE_MODE is used
+
+If the GM cannot generate a valid `AETHSAVE_BUNDLE_V1` because the internal JSON payload fails validation after **one** attempt, the GM must output a SAFE_MODE save block instead.
+
+SAFE_MODE is rare, but it is always preferable to losing the campaign.
+
+## SAFE_MODE Format (Verbatim)
+
+BEGIN_SAFE_MODE_SAVE
+VERSION: V12.2
+TIME: [ISO Timestamp]
+MODE: [INTAKE/PROSE/COMBAT]
+LOCATION: [Region/Site]
+---
+CANON_FACTS:
+- flag: [Token]
+- inv: [Item=Qty]
+- party: [Name/HP/Status]
+---
+END_SAFE_MODE_SAVE
+
+## How to Restore from SAFE_MODE
+
+Paste the SAFE_MODE block into a new chat and type:
+
+RESTORE
+
+The GM will rebuild the missing required fields via Intake only where needed, then resume play.

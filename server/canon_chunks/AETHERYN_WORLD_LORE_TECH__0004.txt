@@ -1,0 +1,78 @@
+ting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# AETHERYN_WORLD_LORE_TECH.aeth (Section: ECOLOGICAL_CONTINUITY)
+
+Status: CANON --- DESCRIPTIVE WORLD LAYER Introduces Mechanics: NO
+Purpose: Establish living ecological continuity across Aetheryn.
+
+------------------------------------------------------------------------
+
+# AETHERYN --- ECOLOGICAL CONTINUITY
+
+Aetheryn is a self-regulating ecological system shaped by:
+
+-   Climate bands
+-   Migration corridors
+-   Residue density
+-   Institutional pressure
+-   Keystone species balance
+
+Every region contains:
+
+1.  Primary Producers (flora)
+2.  Pollinators & Decomposers (insects, fungi)
+3.  Herbivores
+4.  Mesopredators
+5.  Apex Predators
+6.  Scavengers
+7.  Human Disruption Layer
+
+No species exists without ecological function.
+
+------------------------------------------------------------------------
+
+# INSECT & MICROFAUNA LAYER
+
+## Pollinators
+
+### Sunlace Bees (Eldrion / Sapphire)
+
+Primary orchard pollinators. Dependent on hedgerow continuity. Collapse
+triggers fruit failure and food pressure.
+
+### Riverthread Moths (Veythar Corridor)
+
+Night pollinators of reed systems. Residue-sensitive. Their absence
+precedes fish spawning shifts.
+
+### Glasswing Flies (Southern Sands)
+
+Dawn pollinators of succulents. Short lifecycle tied to early morning
+moisture cycles.
+
+------------------------------------------------------------------------
+
+## Decomposers
+
+### Carrion Beetles (Continental)
+
+Rapid carcass breakdown regulators. Population collapse increases
+disease vectors.
+
+### Scar Mites (Shattered Marches)
+
+Residue-tolerant microfauna. Stabilize high-density soil zones.
+
+------------------------------------------------------------------------
+
+# MIGRATION CORRIDORS
+
+-   Diagonal River Corridor (north--south seasonal flow)
+-   Southern Caravan Loop (succulent bloom cycle)
+-   Ironfall Ridge Spine (altitu

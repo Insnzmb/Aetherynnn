@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "note": "Code-authoritative crafting recipes for Aetheryn. Names are inventory item strings; matching is case-insensitive.",
+  "recipes": [
+    {
+      "id": "trail_rations",
+      "name": "Trail Rations",
+      "category": "Food",
+      "ingredients": [
+        {
+          "item": "Game Meat",
+          "qty": 1
+        },
+        {
+          "item": "Salt Crystal",
+          "qty": 1
+        }
+      ],
+      "outputs": [
+        {
+          "item": "Trail Rations",
+          "qty": 1
+        }
+      ],
+      "description": "Salted, dried meat. Keeps well on the road."
+    },
+    {
+      "id": "thornback_stew",
+      "name": "Thornback Stew",
+      "category": "Food",
+      "ingredients": [
+        {
+          "item": "Game Meat",
+          "qty": 2
+        },
+        {
+          "item": "Root Cluster",
+          "qty": 1
+        },
+        {
+          "item": "Wild Greens",
+          "qty": 1
+        },
+        {
+          "item": "Salt Crystal",
+          "qty": 1
+        }
+      ],
+      "outputs": [
+        {
+          "item": "Thornback Stew",
+          "qty": 1
+        }
+      ],
+      "description": "A hearty stew that restores strength."
+    },
+    {
+      "id": "reed_tea",
+      "name": "Reed Tea",
+      "category": "Food",
+      "ingredients": [
+        {
+          "item": "River Reed",
+          "qty": 2
+        },
+        {
+          "item": "Sunlace Honey",
+          "qty": 1
+        }
+      ],
+      "outputs": [
+        {
+          "item": "Reed Tea",
+          "qty": 1
+        }
+      ],
+      "description": "Warm, sweet tea that steadies the nerves."
+    },
+    {
+      "id": "healing_poultice",
+      "name": "Healing Poultice",
+      "category": "Potion",
+      "ingredients": [
+        {
+          "item": "Moonmoss",
+          "qty": 2
+        },
+        {
+          "item": "Wild Greens",
+          "qty": 1
+        },
+        {
+          "item": "Scar Mite Resin",
+          "qty": 1
+        }
+      ],
+      "outputs": [
+        {
+          "item": "Healing Poultice",
+          "qty": 1
+        }
+      ],
+      "description": "A thick herbal paste for closing wounds."
+    },
+    {
+      "id": "aether_draught",
+      "name": "Aether Draught",
+      "category": "Potion",
+      "ingredients": [
+        {
+          "item": "Moonmoss",
+          "qty": 1
+        },
+        {
+          "item": "Sunlace Honey",
+          "qty": 1
+        },
+        {
+          "item": "River Reed",
+          "qty": 1
+        }
+      ],
+      "outputs": [
+        {
+          "item": "Aether Draught",
+          "qty": 1
+        }
+      ],
+      "description": "A bright draught that refills aether reserves."
+    },
+    {
+      "id": "stamina_tonic",
+      "name": "Stamina Tonic",
+      "category": "Potion",
+      "ingredients": [
+        {
+          "item": "Wild Greens",
+          "qty": 2
+        },
+        {
+          "item": "Root Cluster",
+          "qty": 1
+        },
+        {
+          "item": "Sunlace Honey",
+          "qty": 1
+        }
+      ],
+      "outputs": [
+        {
+          "item": "Stamina Tonic",
+          "qty": 1
+        }
+      ],
+      "description": "A bitter-sweet tonic that wakes the body."
+    },
+    {
+      "id": "salted_fish",
+      "name": "Salted Fish",
+      "category": "Food",
+      "ingredients": [
+        {
+          "item": "Riverfish",
+          "qty": 1
+        },
+        {
+          "item": "Salt Crystal",
+          "qty": 1
+        }
+      ],
+      "outputs": [
+        {
+          "item": "Salted Fish",
+          "qty": 1
+        }
+      ],
+      "description": "Fish preserved with salt; smells worse than it tastes."
+    },
+    {
+      "id": "stitching_kit",
+      "name": "Stitching Kit",
+      "category": "Kit",
+      "ingredients": [
+        {
+          "item": "Bone",
+          "qty": 1
+        },
+        {
+          "item": "Hide",
+          "qty": 1
+        }
+      ],
+      "outputs": [
+        {
+          "item": "Stitching Kit",
+          "qty": 1
+        }
+      ],
+      "description": "A crude needle-and-thread kit for field repairs."
+    },
+    {
+      "id": "antidote",
+      "name": "Antidote",
+      "category": "Potion",
+      "ingredients": [
+        {
+          "item": "Mirehound Fang",
+          "qty": 1
+        },
+        {
+          "item": "Moonmoss",
+          "qty": 1
+        },
+        {
+          "item": "Scar Mite Resin",
+          "qty": 1
+        }
+      ],
+      "outputs": [
+        {
+          "item": "Antidote",
+          "qty": 1
+        }
+      ],
+      "description": "A harsh cure brewed from rare components."
+    }
+  ],
+  "gather_tables": {
+    "forage": {
+      "biomes": [
+        "forest",
+        "plains",
+        "marsh",
+        "desert",
+        "tundra",
+        "coast"
+      ],
+      "items": {
+        "common": [
+          "Wild Greens",
+          "Root Cluster",
+          "River Reed"
+        ],
+        "uncommon": [
+          "Moonmoss",
+          "Salt Crystal"
+        ],
+        "rare": [
+          "Sunlace Honey",
+          "Scar Mite Resin"
+        ]
+      }
+    },
+    "hunt": {
+      "biomes": [
+        "forest",
+        "plains",
+        "marsh",
+        "desert",
+        "tundra",
+        "coast"
+      ],
+      "items": {
+        "common": [
+          "Game Meat",
+          "Hide"
+        ],
+        "uncommon": [
+          "Bone",
+          "Riverfish"
+        ],
+        "rare": [
+          "Thornback Plate Fragment",
+          "Mirehound Fang"
+        ]
+      }
+    }
+  }
+}

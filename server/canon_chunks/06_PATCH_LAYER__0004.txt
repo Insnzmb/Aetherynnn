@@ -1,0 +1,12 @@
+rpose: Provide a standardized, non-canon inspection toolbelt for opaque save bundles in DEV MODE.
+
+### Rule
+
+In DEV MODE only, the Operator may decode `AETHSAVE_BUNDLE_V1` to display:
+- header fields
+- canonical factual state (`CANON_SAVE`)
+- optional AUX replay/meta (explicitly labeled non-canon)
+
+Outside DEV MODE, inspection commands are refused per DEV MODE boundary rules.
+
+This patch adds tooling behavior only; it does not alter save schema, restore order, or runtime mechanics.

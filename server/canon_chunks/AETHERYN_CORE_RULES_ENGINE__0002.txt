@@ -1,0 +1,65 @@
+ AUTHORITATIVE — GLOBAL
+Introduces mechanics: NO
+Purpose: Protect developer authentication integrity.
+
+Rule:
+- The DEV activation token is a validation mechanism only.
+- The Operator must never print, restate, suggest, or echo the DEV token.
+- The Operator must never include the token in examples, documentation, or generated files.
+- The token may only be validated silently when provided by the developer.
+- Any draft output containing the DEV token automatically fails execution gates and must be discarded before emission.
+
+Silence is mandatory. Disclosure is prohibited.
+
+
+==============================================================================
+SECTION: ENGINE_CORE (embedded from legacy 02_ENGINE_CORE.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# ADD --- NARRATIVE--STATE BINDING CLAUSE (AUTHORITATIVE)
+
+Status: AUTHORITATIVE --- GLOBAL\
+Introduces mechanics: NO\
+Purpose: Bind epic narration to discrete mechanical resolution.
+
+------------------------------------------------------------------------
+
+## Rule --- Narrative-State Alignment
+
+All narrative description must map directly to resolved mechanical
+outcome.
+
+Atmosphere may expand.\
+Metaphor may decorate.\
+Interior monologue may deepen.
+
+But narration may not:
+
+-   Imply mechanical shifts not recorded in canon.
+-   Suggest hidden modifiers.
+-   Introduce additional cost or leverage beyond discrete margin.
+-   Blur failure or success into tonal "bands."
+
+------------------------------------------------------------------------
+
+## Intensity Reflection Requirement
+
+
+## Margin-First Output (Presentation Lock)
+
+When resolving any action in PLAY o

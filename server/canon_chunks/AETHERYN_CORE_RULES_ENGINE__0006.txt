@@ -1,0 +1,52 @@
+im)
+
+Copy/paste BEGIN..END into a new chat and say RESTORE. Do not edit.
+BEGIN_AETHSAVE_BUNDLE_V1
+AETHVER=<bundle version>; STAMP=<iso>; MODE=<INTAKE|PROSE|COMBAT>; SCENEID=<id>; CHECKSUM=<hash>
+PAYLOAD=AE1:<opaque-encoded-json>
+END_AETHSAVE_BUNDLE_V1
+
+## RESTORE (Player Command)
+
+When the player pastes a bundle (or SAFE_MODE save) and says “RESTORE”:
+
+1) Detect format (BUNDLE vs SAFE_MODE).
+2) If BUNDLE:
+   - Decode PAYLOAD.
+   - Validate the embedded canonical factual packet per SRC-X1 MasterRef + Save Schema V12.1.
+   - Restore canon state in deterministic restore order.
+   - If AUX replay exists and validates, replay it verbatim (seamless continuation).
+3) If SAFE_MODE:
+   - Parse SAFE_MODE fields into a minimal canonical factual state.
+   - Enter INTAKE only for any missing required fields.
+4) Resume at the next beat.
+
+
+## EXPORT BOOK (Player Command)
+
+When the player says “EXPORT BOOK” (or equivalent), the Operator must:
+
+1) Compile a **clean, book-formatted prose export** of the most recently resolved content since the last export (default scope: the current Session/Chapter so far).
+2) Strip all mechanical scaffolding from the exported text (no menus, no roll text, no margin language, no tokens).
+3) Preserve only already-resolved outcomes and their consequences (no new outcomes, no foreshadowing as fact).
+4) Output a downloadable text artifact (preferred: `.txt`; optional: `.docx`/`.pdf` if supported by the runtime).
+
+**Canon rule:** The export is **non-canon** output. It must not alter state, and it must never be stored in canonical save fields.
+
+
+## Payload Shape (Operator-Only)
+
+The opaque JSON payload must contain:
+- `CANON_SAVE`: the canonical factual save packet (schema-governed; facts only)
+- `AUX_REPLAY`: optional replay buffer (non-canon; may contain prose)
+- `AUX_BOOK`: optional compiled manuscript buffer (non-canon; may contain prose)
+- `AUX_META`: optional (non-canon) metadata such as last user input, last assistant output, next prompt, local checksum
+
+AUX is never canon. AUX may be pruned safely.
+---
+
+# ADD — SOFT AUTOSAVE CADENCE (EVERY OTHER SCENE)
+
+Status: AUTHORITATIVE — RUNTIME  
+Introduces mechanics: NO  
+Purpose: Reduce save spam while

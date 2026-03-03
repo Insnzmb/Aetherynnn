@@ -1,0 +1,32 @@
+6. [T4|4|T] Tide-Null — Does: cancel small flows/drips/ripples. Risk: suspicious stillness.
+37. [T4|4|T] Flood Stitch — Does: water sheet blocks sightlines. Risk: ruins footing.
+38. [T4|4|T] Ice Crown — Does: jagged ice barrier. Risk: uncontrolled shrapnel.
+39. [T4|4|F] Depth Pinch — Does: pressure crush in a fist-sized pocket. Risk: lethal edge stigma.
+40. [T4|4|T] Pearl-Sheen — Does: slick film hides blood/trace. Risk: hides threats too.
+41. [T4|4|T] Brine Silence — Does: dampen cries by thickening throat moisture. Risk: choking hazard.
+42. [T4|4|F] Ice Key — Does: freeze-lock a latch shut. Risk: snaps mechanism.
+
+## Tier 5 (8)
+43. [T5|5|T] River Reset — Does: wash a space to mundane baseline briefly. Risk: erases useful traces.
+44. [T5|5|F] Leviathan Wake — Does: massive shove repositions the line. Risk: structural collapse near bridges.
+45. [T5|5|T] Winter’s Writ — Does: declare “no-liquid” zone (seepage freezes). Risk: cracks pipes/stone.
+46. [T5|5|F] Floodgate Moment — Does: instant surge from nearby sources. Risk: uncontrolled overflow.
+47. [T5|5|T] Tide Oath — Does: promise sealed by shared water. Risk: betrayal rebounds hard.
+48. [T5|5|T] Ocean Mirror — Does: reveal hidden motion via rippling reflection. Risk: hallucinated ripples.
+49. [T5|5|F] Brine Tithe — Does: rip salt from ink/wards to spoil them. Risk: dehydration crash.
+50. [T5|5|T] Mercy Current — Does: carry a body gently through danger. Risk: pulls you too.
+
+---
+
+# AIR (50)
+
+## Tier 1 (10)
+1. [T1|1|F] Gust Nudge — Does: short air-push. Risk: dust/ember blowback.
+2. [T1|1|F] Whisper Cut — Does: thin slice severs rope/cloth. Risk: wild cut line.
+3. [T1|1|T] Feather Draft — Does: slow a fall briefly. Risk: not a negation.
+4. [T1|1|T] Scent Lift — Does: separate smells for tracking. Risk: migraine overload.
+5. [T1|1|F] Static Tick — Does: tiny shock disrupts grip. Risk: arcs to metal.
+6. [T1|1|T] Wind Thread — Does: feel airflow leaks/hidden doors. Risk: false currents.
+7. [T1|1|T] Ear-Cup — Does: dampen one direction of sound. Risk: miss other threats.
+8. [T1|1|F] Sail Tug — Does: yank cloth/strap at range. Risk: pulls wrong target.
+9. [T1|1|T] Breath Spare — Does: ease breathing in smoke briefly

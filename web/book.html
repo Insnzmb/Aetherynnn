@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Aetheryn — Book</title>
+  <style>
+    :root{color-scheme:dark;--bg:#0a0d14;--line:rgba(255,255,255,.10);--text:rgba(255,255,255,.92);--muted:rgba(255,255,255,.65)}
+    body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,Segoe UI,Roboto,sans-serif}
+    header{position:sticky;top:0;background:linear-gradient(180deg,rgba(10,13,20,.96),rgba(10,13,20,.78),transparent);backdrop-filter:blur(6px);
+      padding:14px 16px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:12px}
+    .title{font-weight:900;letter-spacing:.08em}
+    .sub{font-size:12px;color:var(--muted);margin-top:2px}
+    .left{display:grid;gap:2px}
+    .actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+    button{border-radius:999px;border:1px solid var(--line);background:rgba(255,255,255,.06);color:var(--text);padding:9px 12px;cursor:pointer}
+    button:hover{background:rgba(255,255,255,.10)}
+    label{display:flex;gap:8px;align-items:center;color:var(--muted);font-size:12px;user-select:none}
+    input[type=checkbox]{width:16px;height:16px}
+    main{padding:16px}
+    pre{white-space:pre-wrap;word-break:break-word;line-height:1.6;margin:0;padding:16px;border-radius:18px;border:1px solid var(--line);background:rgba(0,0,0,.22)}
+    .note{margin-top:10px;color:var(--muted);font-size:12px}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="left">
+      <div class="title">AETHERYN — BOOK</div>
+      <div class="sub" id="roomLine">Room: —</div>
+    </div>
+    <div class="actions">
+      <button id="refresh">Refresh</button>
+      <label><input id="auto" type="checkbox" checked /> <span>Auto</span></label>
+      <button id="download">Download</button>
+      <button id="close">Close</button>
+    </div>
+  </header>
+
+  <main>
+    <pre id="text">Loading…</pre>
+    <div class="note">
+      This view reads the server-saved transcript. On disk it’s written to <b>aetheryn-web/server/books/</b> as a <b>.book.txt</b> file.
+    </div>
+  </main>
+
+  <script>
+    const textEl = document.getElementById('text');
+    const roomLine = document.getElementById('roomLine');
+    const refreshBtn = document.getElementById('refresh');
+    const autoChk = document.getElementById('auto');
+    const dlBtn = document.getElementById('download');
+    const closeBtn = document.getElementById('close');
+
+    function getRoom(){
+      const url = new URL(window.location.href);
+      return url.searchParams.get('room') || localStorage.getItem('aetheryn_active_room') || '';
+    }
+
+    let roomId = getRoom();
+    roomLine.textContent = roomId ? `Room: ${roomId}` : 'Room: — (start/join a room in the main window first)';
+
+    async function load(){
+      roomId = getRoom();
+      roomLine.textContent = roomId ? `Room: ${roomId}` : 'Room: — (start/join a room in the main window first)';
+      if (!roomId){
+        textEl.textContent = 'Start or join a room in the main window. Then reopen this tab (or press Refresh).';
+        return;
+      }
+      try{
+        const r = await fetch(`/api/book?roomId=${encodeURIComponent(roomId)}`);
+        if(!r.ok) throw new Error('HTTP '+r.status);
+        const t = await r.text();
+        textEl.textContent = t || '(Book is empty yet — play a scene and it will appear here.)';
+      }catch(e){
+        textEl.textContent = 'Could not load the book transcript. Is the server running?';
+      }
+    }
+
+    refreshBtn.onclick = () => load();
+    closeBtn.onclick = () => window.close();
+
+    dlBtn.onclick = () => {
+      const blob = new Blob([textEl.textContent || ''], { type: 'text/plain;charset=utf-8' });
+      const a = document.createElement('a');
+      const base = (roomId || 'aetheryn').replace(/[^a-z0-9_-]/gi,'_').slice(0,80);
+      a.download = `${base}.book.txt`;
+      a.href = URL.createObjectURL(blob);
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      setTimeout(()=>URL.revokeObjectURL(a.href), 1000);
+    };
+
+    setInterval(()=>{ if(autoChk.checked) load(); }, 2000);
+    load();
+  </script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+air-raising field spoils fine aim. Risk: ignites powder dust.
+18. [T2|2|F] Wing-Shear — Does: lateral gust breaks balance. Risk: topples allies too.
+19. [T2|2|F] Pressure Kiss — Does: ear-pop pain burst. Risk: permanent injury possibility.
+20. [T2|2|T] Soot Spiral — Does: pull smoke into a tight column. Risk: suffocation pocket.
+21. [T2|2|T] Glassbreath — Does: clear fog from your face zone. Risk: blinds others.
+22. [T2|2|T] Needle Calm — Does: steady hands via laminar airflow. Risk: dependence sensation.
+
+## Tier 3 (12)
+23. [T3|3|F] Thunder Step — Does: burst-move with concussive crack. Risk: announces you.
+24. [T3|3|T] Pressure Dome — Does: air-bubble deflects debris briefly. Risk: breathing becomes work.
+25. [T3|3|F] Gale Shear — Does: wide cutting wind. Risk: shreds ropes/sails.
+26. [T3|3|T] Lightning Lattice — Does: static threads reveal metal motion. Risk: storm attraction.
+27. [T3|3|F] Vacuum Palm — Does: steal air in a fist-sized pocket. Risk: lung-burn.
+28. [T3|3|T] Crosswind Maze — Does: conflicting gusts scramble pursuit. Risk: you get lost too.
+29. [T3|3|F] Razorwhirl — Does: tight spinning cut around you. Risk: self-injury.
+30. [T3|3|F] Stormhand Grasp — Does: yank weapon via pressure claw. Risk: tears straps/fingers.
+31. [T3|3|T] Siren Draft — Does: airflow carries lure-sound. Risk: lures wrong things.
+32. [T3|3|T] Hawk Eye Lift — Does: brief elevated perch of air. Risk: vertigo drop.
+33. [T3|3|F] Breath Thief — Does: interrupt a chant by stealing timing. Risk: cruelty-stain feeling.
+34. [T3|3|T] Dust Choir — Does: dust motes reveal motion trails. Risk: false trails.
+
+## Tier 4 (8)
+35. [T4|4|F] Vacuum Bite — Does: air theft breaks chanting. Risk: near-lethal misuse.
+36. [T4|4|T] Tempest Crown — Does: turbulent air punishes approach. Risk: collateral damage.
+37. [T4|4|T] Thunder Blanket — Does: low boom masks movement. Risk: panic crowd response.
+38. [T4|4|T] Cyclone Rope — Does: spinning air restrains briefly. Risk: snaps violently.
+39. [T4|4|F] Glasswind — Does: grit-laced cutting gust (needs grit). Risk: maims indiscriminately.
+40. [T4|4|T] Breath Tax — Does: stamina drain pressure zone. Risk: caster collapses too.
+41. [T4|4|T] Pressure Key — Doe

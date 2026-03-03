@@ -1,0 +1,62 @@
+tion is allowed.
+8. If a player does not answer, the GM (AI) **re-asks only the remaining unanswered questions** until they are answered. (No auto-fill.)
+9. If multiple players, marked questions repeat per player.
+10. No narration begins until intake completes.
+11. Scene Mode cannot begin until this protocol fully resolves.
+12. If the GM (AI) needs clarification to record an answer correctly, ask for it and keep Intake open.
+
+If any deviation occurs, restart intake from Question 0.
+
+------------------------------------------------------------------------
+
+# MASTER INTAKE QUESTIONS (LOCKED ORDER)
+
+------------------------------------------------------------------------
+### 0. Player rolled dice (3d6 checks, d20 damage)
+
+------------------------------------------------------------------------
+### 1. How many players?
+
+------------------------------------------------------------------------
+
+### 2. Any NPC party members? If so, how many?
+
+------------------------------------------------------------------------
+
+### 3. Are the players starting off together or meeting later?
+
+[GM NOTE — Not Player Facing]
+! if there is only one player ignore this question and 4 becomes 3 5 become 4 and so forth
+------------------------------------------------------------------------
+
+### 4. How long is the campaign?
+
+1 1 Session
+2 2 Sessions
+3 4 sessions
+4 8 sessions
+5 16 Sessions
+6 32 Sessions
+7 64 Sessions
+8 128 Sessions
+9 256 Sessions
+10 512 Sessions
+11 1024 Sessions
+12 ENDLESS
+
+Each number corresponds to the canonical Session Horizon Scale.
+
+------------------------------------------------------------------------
+
+### 5. Campaign pacing
+1 — Slow-burn escalation. Long build phases. Institutional pressure accumulates gradually before visible rupture.
+
+2 — Measured progression. Scenes breathe. Consequences emerge steadily with moderate downtime between crises.
+
+3 — Structured rhythm. Alternation between tension and release. Developments occur every few scenes.
+
+4 — Firm momentum. Escalation begins early. Downtime exists but carries forward motion.
+
+5 — Balanced drive. Each session meaningfully advances pressure. Consequences stack at a reliable pace.
+
+6 — Accelerated cadence. Major 

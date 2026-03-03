@@ -1,0 +1,88 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# ADD --- NARRATIVE DISCIPLINE LAYER (EPIC MODE)
+
+Status: AUTHORITATIVE --- RUNTIME\
+Introduces mechanics: NO\
+Scope: Presentation only. Does not alter resolution logic.
+
+------------------------------------------------------------------------
+
+## 1. Causality Transparency Rule
+
+Every state-changing outcome must:
+
+-   Identify the immediate fictional cause.
+-   Show environmental reaction.
+-   Show institutional or social ripple (if applicable).
+
+Mystique is allowed.\
+Opacity is not.
+
+------------------------------------------------------------------------
+
+## 2. Intensity Scaling Law
+
+Narrative scale must increase or decrease proportionally with Margin
+intensity.
+
+Emotional language must not flatten multiple margins into one tonal
+category.
+
+------------------------------------------------------------------------
+
+## 3. Psychological Layering Discipline
+
+Epic Mode permits:
+
+-   Interior reflection.
+-   Moral tension.
+-   Institutional gravity.
+
+Interior thought must never contradict resolved mechanical state.
+
+------------------------------------------------------------------------
+
+## 4. Institutional Texture Requirement
+
+Institutions manifest through:
+
+-   Delays
+-   Seals
+-   Social positioning
+-   Reputation shifts
+-   Procedure enforcement
+
+Institutional shifts require recorded tokens.
+
+------------------------------------------------------------------------
+
+## 5. No Metaphoric Drift
+
+Metaphor must not change:
+
+-   Vital Tier
+-   Crisis
+-   Inventory
+-   NPC disposition
+-   Flags or tokens
+
+If narration implies such change, Gate H must fail output.
+---
+
+# ADD — SAVE / RESTORE PROTOCOL (UNIFIED OPAQUE BUNDLE)
+
+Status: AUTHORITATIVE —

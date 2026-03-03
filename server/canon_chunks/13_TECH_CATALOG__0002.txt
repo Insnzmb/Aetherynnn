@@ -1,0 +1,21 @@
+nimum of 0).  
+   Cost: You cannot be healed by magic while holding it.
+
+17. **Gravity-Hammer (Tier II)**  
+   Effect: On a hit, you may force a knockdown outcome (GM expresses as displacement/prone) **once per round**.  
+   Cost: Unwieldy—requires exceptional Strength or you gain `cond:Strained` after each attack.
+
+18. **Aether-Jar (Tier II)** — [Volatile]  
+   Effect: Captures one spell aimed at you (negates it) if activated in time.  
+   Cost: Must be “emptied” (an action) within 1 minute or it cracks and releases residue.
+
+19. **Memory-Quill (Tier I)**  
+   Effect: Writes down what you speak perfectly (useful for oaths, names, coordinates).  
+   Cost: Ink is your blood (1 vitality/harm/HP as used by the current engine).
+
+20. **Rot-Bane Amulet (Tier II)**  
+   Effect: Immunity to disease and ordinary rot-spores.  
+   Cost: Food tastes like ash; long meals become difficult.
+
+---
+End of File.

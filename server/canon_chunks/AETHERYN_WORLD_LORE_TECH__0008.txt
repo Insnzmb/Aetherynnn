@@ -1,0 +1,94 @@
+n
+! 6. Ritual/Magic
+
+! Once stabilized, counter-archetype frequency increases slightly.
+! Stats never increase.
+
+---
+
+# VII. MONSTER SCAR SYSTEM
+
+Defeated monsters leave one scar:
+
+1. Residue Scar
+2. Institutional Scar
+3. Rumor Scar
+4. Ecological Scar
+5. Territorial Scar
+
+Three matching scars trigger Minor Regional Rewrite.
+
+---
+
+# VIII. LONG-HORIZON MONSTER EVOLUTION MODEL
+
+If a region experiences repeated monster manifestations tied to similar pressure axes:
+
+Stage 1: Recurring Expression Pattern
+Stage 2: Stable Archetype Frequency Bias
+Stage 3: Emergent Regional Monster Identity
+
+Evolution affects narrative form, not mechanics.
+
+---
+
+# IX. CRISIS AVATAR SUCCESSION TREE
+
+If a Crisis Avatar is defeated while Crisis remains high:
+
+Successor form may manifest reflecting unresolved dominant pressure.
+Succession preserves mechanical template but shifts symbolic embodiment.
+
+---
+
+# X. CATASTROPHIC SCAR CASCADE (HIGH CRISIS ONLY)
+
+If:
+- Crisis ≥ 8 sustained
+- 3+ Regional Rewrites
+- 1+ Avatar defeat
+
+Trigger Cascade Event:
+
+Effects:
+- Multiple scar types manifest simultaneously
+- Trade rerouting
+- Faction militarization
+- Environmental destabilization
+
+No automatic Crisis increase.
+Crisis review required per canon.
+
+---
+
+
+
+---
+
+# XI. CORE BESTIARY STARTER PACK (TRUTH BASELINE)
+
+Status: AUTHORITATIVE — BASELINE CONTENT  
+Introduces mechanics: YES (Monster Stat Blocks)  
+Purpose: Replace empty stubs so the Operator has a stable baseline and does not hallucinate monsters.
+
+## Stat Block Format (Minimal)
+
+- **HP**: hit points / durability pool
+- **DEF**: defense target to hit (engine-mappable)
+- **ATK**: attack modifier (engine-mappable)
+- **DMG**: default harm expression (engine-mappable)
+- **Behavior / Trigger**: tactical personality; deterministic tells
+
+If the active engine uses different labels, map as follows:
+- DEF ↔ the engine’s “to-hit target” for attacks against the creature.
+- ATK ↔ the engine’s attack roll modifier.
+- DMG ↔ harm expression (dice or fixed harm), as used by the current combat layer.
+
+## Universal Crisis Note
+
+- Crisis 0–5: Standard Form
+- Crisis 6+: Ruptured Form (adds **[Volatile]** on death; see Section IV)
+
+---
+
+## 1) Hollow Husk (Skirmisher)

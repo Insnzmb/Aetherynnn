@@ -1,0 +1,46 @@
+in discrete and mechanically honest
+
+---
+
+## SPELL MINTING GRAMMAR (REMINDER — KEEP THIS FOREVER)
+
+Spell Name = (Verb) + (Medium) + (Constraint)
+
+- Verb examples: bind, shear, hush, sever, crown, stitch, exile, mirror…
+- Medium per class:
+  - Fire: heat / ash / ember / flare / kiln
+  - Water: mist / tide / brine / ice / current
+  - Air: gust / static / pressure / thunder / breath
+  - Earth: stone / ore / rust / gravel / bedrock
+  - Soul: name / bond / grief / memory / anima / oath
+- Constraint examples: once, briefly, at a seam, in a pocket, along a bond, at a threshold, by contact…
+- Then assign: Tier(cost) + Lane(F/T) + a distinct Risk (the balancing hook)
+
+This grammar enables infinite expansion without repeating spell logic patterns.
+
+---
+
+## CATALOG ENTRY FORMAT
+
+[Tier|Cost|Lane] Spell Name — Does: <plain effect>. Risk: <distinct cost/backlash/collateral>.
+
+---
+
+# FIRE (50)
+
+## Tier 1 (10)
+1. [T1|1|F] Sparkhand — Does: ignite/snuff a thumb-sized flame. Risk: leaves heat-residue trace.
+2. [T1|1|F] Ember Prick — Does: brief heat-sting to force a flinch. Risk: scorches the wrong surface.
+3. [T1|1|T] Heat Haze — Does: shimmer distortion spoils fine aim. Risk: worsens visibility for allies too.
+4. [T1|1|T] Soot Veil — Does: thin smoke curtain from nearby soot/ash. Risk: coughing + obvious evidence.
+5. [T1|1|F] Tin-Sweat — Does: make a small metal object too hot to hold. Risk: burns escalate panic.
+6. [T1|1|T] Hearthwarm — Does: steady body temp vs cold shock briefly. Risk: fatigue drop after.
+7. [T1|1|F] Wick Wink — Does: flare a light source brighter for a blink. Risk: broadcasts position.
+8. [T1|1|T] Coal-Recall — Does: relight the last ember you touched. Risk: jumps to unintended fuel.
+9. [T1|1|F] Ashfinger Mark — Does: invisible soot mark on surfaces. Risk: revealed by moisture.
+10. [T1|1|T] Cinder Scent — Does: sniff out accelerants/recent burns. Risk: scent overload nausea.
+
+## Tier 2 (12)
+11. [T2|2|T] Cinder Ladder — Does: heat-steps/thermals for reposition or climb. Risk: visible flare signature.
+12. [T2|2|T] Ash-Mute — Does: dull sound in a pocket with ash-thick air. Risk: grit-choke and eye burn.
+13. [T2|2|F] Flashforge — Does: soften metal/stone at a 

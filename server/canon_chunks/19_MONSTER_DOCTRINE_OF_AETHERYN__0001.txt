@@ -1,0 +1,82 @@
+amage expression, and archetype role remain stable.)
+
+However, at higher Crisis the wandering rupture may attach **universal Expression Tags** that are:
+- fixed (no scaling numbers),
+- identical across all monsters,
+- and treated as environmental rupture behavior rather than “monster leveling.”
+
+Crisis 0–2: Latent Distortion  
+Crisis 3–5: Visible Fracture  
+Crisis 6–8: Open Instability *(Expression Tags may apply)*  
+Crisis 9–10: Mythic Rupture *(Expression Tags almost always apply)*  
+
+## Universal Expression Tag — [Volatile] (High Crisis)
+
+At **Crisis 6+**, monsters commonly manifest as **Ruptured**: they gain **[Volatile]**.
+
+**[Volatile]:** When the monster dies, its body ruptures into unstable residue. The GM expresses this as a short-range hazard (default: **d6** harm/effect in an adjacent zone or immediate radius, using the active engine’s hazard conventions).
+
+This does not change the monster’s core statline; it changes what the rupture does to the scene.
+
+---
+
+
+# V. BEHAVIORAL INTELLIGENCE LAYER
+
+Monsters prioritize:
+- Densest energy clusters
+- Visible authority
+- Open wounds (physical or institutional)
+
+Each archetype has tactical personality:
+- Skirmisher tests perimeter
+- Juggernaut fixates on obstacles
+- Hunter isolates prey
+- Controller shapes terrain
+- Executioner waits for vulnerability
+- Crisis Avatar forces phase shifts
+
+---
+
+# VI. PLAYER MIRROR SYSTEM
+
+[GM NOTE — Not Player Facing]
+! Hidden metric: Dominant Strategy Vector (DSV)
+! Tracked over last 5 combats.
+
+! Vectors:
+! 1. Burst-Damage
+! 2. Control/Zone
+! 3. Mobility
+! 4. Defensive
+! 5. Summon
+! 6. Ritual/Magic
+
+! Once stabilized, counter-archetype frequency increases slightly.
+! Stats never increase.
+
+---
+
+# VII. MONSTER SCAR SYSTEM
+
+Defeated monsters leave one scar:
+
+1. Residue Scar
+2. Institutional Scar
+3. Rumor Scar
+4. Ecological Scar
+5. Territorial Scar
+
+Three matching scars trigger Minor Regional Rewrite.
+
+---
+
+# VIII. LONG-HORIZON MONSTER EVOLUTION MODEL
+
+If a region experiences repeated monster manifestations tied to similar pressure axes:
+
+Stage 1: Recurring Expression Pattern
+Stage 2: Stable Archetype Frequency Bias
+Stage 3: Emergent Regional Monster Identity
+
+Evolution affects na

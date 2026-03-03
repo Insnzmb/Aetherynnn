@@ -1,0 +1,32 @@
+EARTH (50)
+
+## Tier 1 (10)
+1. [T1|1|T] Grain-Read — Does: feel weak points in material. Risk: sensory overload.
+2. [T1|1|F] Stoneknuckle — Does: harden body for one impact exchange. Risk: joint ache.
+3. [T1|1|T] Dust Shroud — Does: controlled dust veil. Risk: choking grit.
+4. [T1|1|T] Ore Sense — Does: detect nearby metal mass. Risk: city headache.
+5. [T1|1|F] Pebble Ping — Does: flick stone like a bullet (needs stone). Risk: ricochet.
+6. [T1|1|T] Weight Tell — Does: sense hollows/voids underfoot. Risk: false reads in ruins.
+7. [T1|1|F] Nail-Seat — Does: drive nail/spike instantly. Risk: splits wood.
+8. [T1|1|T] Mortar Touch — Does: seal a small crack temporarily. Risk: fails under stress.
+9. [T1|1|F] Rust Kiss — Does: accelerate surface rust on cheap iron. Risk: spreads to your gear.
+10. [T1|1|T] Stone Ear — Does: listen through walls via vibration. Risk: phantom echoes.
+
+## Tier 2 (12)
+11. [T2|2|T] Ironbind — Does: buckle/cinch metal around itself. Risk: permanent gear damage.
+12. [T2|2|F] Shatter Tap — Does: precise vibration crack. Risk: chain fracture cascade.
+13. [T2|2|T] Tectonic Brace — Does: resist forced movement briefly. Risk: knee/ankle backlash.
+14. [T2|2|F] Claymend — Does: patch masonry/ceramic fast. Risk: temporary truth only.
+15. [T2|2|T] Gravel Snare — Does: loosen stones to grab boots. Risk: traps allies too.
+16. [T2|2|T] Magnet Wink — Does: tiny pull for coins/needles. Risk: pulls wrong shard.
+17. [T2|2|T] Bolt Memory — Does: read recent strain on a fastener. Risk: echo pain.
+18. [T2|2|F] Sandblind — Does: grit burst into eyes. Risk: wind returns it.
+19. [T2|2|T] Stonehook — Does: raise a handhold nub from rock. Risk: crumbles later.
+20. [T2|2|T] Leadline Pin — Does: pin an object by weight-coupling. Risk: pins wrong thing.
+21. [T2|2|T] Copper Tongue — Does: sense conductive routes. Risk: shock anxiety.
+22. [T2|2|T] Faultline Sense — Does: detect stress lines in architecture. Risk: paranoia drift.
+
+## Tier 3 (12)
+23. [T3|3|T] Basalt Wall — Does: blunt stone barrier (temporary). Risk: destabilizes ground.
+24. [T3|3|F] Quake Pulse — Does: ground shock breaks stance. Risk: tunnel collapse.
+25. [T3|3|T] Metal Memory — Does: read an object’s strai

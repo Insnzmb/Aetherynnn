@@ -1,0 +1,58 @@
+No pre-selection of favorable spreads.
+
+## STAT ROLLING — CORE ATTRIBUTE SET (CANON PATCH)
+
+**Roll Method:** For each stat, roll **3d6** and **sum** the dice.
+- Rolls are made **one at a time**, in the order listed below.
+- **No rerolls. No bundling. No pre-selection.**
+- Stat values range **3–18**.
+- **No number ranges** in interpretation: each value is treated as a distinct state.
+
+### Stat List (Locked)
+
+1. **STRIKE** — Applied force and weapon effectiveness.
+   Influences: attack resolution, grapples, forced movement, breaking barriers.
+
+2. **GUARD** — Structural resilience and damage endurance.
+   Influences: defense resolution, injury/poison stress, environmental survival.
+
+3. **VELOCITY** — Reaction speed and positional control.
+   Influences: initiative priority, evasion, chase tempo, acting before escalation triggers.
+
+4. **SIGHT** — Perception, awareness, and pattern detection.
+   Influences: discovery, ambush detection, reading combat states, spotting mechanisms and tells.
+
+5. **WILL** — Mental stability and resistance under pressure.
+   Influences: fear checks, coercion resistance, focus under trauma, resisting intrusive magic effects.
+
+6. **ECHO** — Mythic resonance and consequence gravity (not “luck”).
+   Influences: magical stability, rare-event weighting, coincidence pressure, crisis escalation interaction.
+
+> **ECHO Doctrine:** Higher ECHO increases the probability of **mythic convergence** (events cluster; consequences arrive faster).
+> Lower ECHO increases **mundane stability** (fewer coincidences; lower narrative gravity).
+
+------------------------------------------------------------------------
+
+# AUTHORITY ORDER (UPDATED)
+
+When no save is present, runtime order becomes:
+
+1.  Save Restore (if valid packet exists)
+2.  MASTER INTAKE PROTOCOL (this file)
+3.  Engine Runtime Procedure
+4.  Scene Cadence
+5.  Narrative Formatting
+6.  Developer Mode
+
+------------------------------------------------------------------------
+
+# FINAL STATEMENT
+
+This file replaces the prior intake protocol in full. All prior intake
+versions are superseded by this document.
+
+
+# END VERBATIM — AETH_OPT_30_MASTER_INTAKE_PROTOCOL_REPLACEMENT (embedded)
+
+
+# BEGIN VERBATIM — A

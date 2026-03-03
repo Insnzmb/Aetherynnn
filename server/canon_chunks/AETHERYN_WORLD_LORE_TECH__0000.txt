@@ -1,0 +1,60 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+# AETHERYN — WORLD LORE + MONSTERS + TECH (RELEASE BUILD)
+
+This file consolidates setting and reference material used during play.
+
+## Table of Contents
+- SECTION: WORLD_LORE_HISTORY
+- SECTION: GODSLAYER_EVENT_AMENDMENT
+- SECTION: ECOLOGICAL_CONTINUITY
+- SECTION: MONSTER_DOCTRINE
+- SECTION: TECH_CATALOG
+- SECTION: CONSOLIDATED_AMENDMENT
+
+## Reference Note
+If you see a reference to a file-like name ending in “.aeth” that is not one of the 4 upload files,
+treat it as a **section label** inside AETHERYN_CORE_RULES_ENGINE.aeth or this file.
+
+If any rule text appears to conflict, follow the authority rules in **AETHERYN_CORE_RULES_ENGINE.aeth**.
+
+
+==============================================================================
+SECTION: WORLD_LORE_HISTORY (legacy 11_WORLD_LORE_HISTORY.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# 06_WORLD_LORE_LAWS.aeth (Compatibility Stub)
+
+Status: **NON-AUTHORING COMPATIBILITY FILE**
+Introduces mechanics: **NO**
+Purpose: This filename is referenced by legacy pointers inside the merged canon.
+This stub exists to prevent broken internal references.
+
+A

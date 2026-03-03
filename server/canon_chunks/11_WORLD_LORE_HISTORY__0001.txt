@@ -1,0 +1,56 @@
+ADDENDUM — HISTORICAL MICRO-EVENTS
+
+- The Three-Day Quiet (−412): All birds fell silent across three regions. No cause recorded.
+- The Ledger Fire (+88): A provincial archive burned; debts vanished, grudges did not.
+
+---
+
+### ADDENDUM — Regional Sensory Texture (Songs, Sayings, Habits)
+Regions express identity through constant low-level signals:
+songs overheard, sayings repeated, habitual gestures, and reflex behaviors.
+These appear incidentally and require no explanation or interaction.
+---
+
+---
+
+### CANON CONTINUITY & IMMUTABILITY ADDENDUM (APPENDED)
+
+The following rules are now binding across all AETHERYN play.
+
+#### World & Map Continuity
+- Continental geography, rivers, mountains, regions, and place-names are immutable.
+- Maps must regenerate identically unless an explicit in-world event changes them.
+- Visuals reflect canon; they do not create it.
+
+#### Character Continuity (PCs & NPCs)
+- A character’s first on-screen appearance locks their physical identity.
+- Face, build, voice, posture, age band, and permanent marks do not drift.
+- Only gear, clothing, condition, and explicitly caused injuries may change.
+- No redesigns, glow-ups, or aesthetic retcons are permitted.
+
+#### Location & Scene Continuity
+- Cities, towns, and regions retain layout, architecture, and cultural tone.
+- Places evolve only through play (damage, growth, politics).
+- Revisited locations must reflect prior state and offscreen motion.
+- Scenes inherit memory; environments do not reset.
+
+#### Enforcement
+- Ambiguity resolves toward preservation of first-established canon.
+- These rules introduce no new mechanics.
+---
+
+---
+
+## CANON CONTINUITY & IMMUTABILITY — VISUAL GENERATION LOCK (APPENDED)
+
+Status: **AUTHORITATIVE — GLOBAL**
+Introduces mechanics: **NO**
+Purpose: Prevent drift. Maps, characters, and place-names must not change across sessions or generations.
+
+### CORE RULE — CANON IS FROZEN ONCE ESTABLISHED
+Once a canon element appears on-screen or in-file, it is **locked permanently** unless changed by an explicit in-world event recorded in canon.
+
+This includes (non-exhaustive):
+- Continents, coastlines, rivers, mountains
+- Regions, borders, and place-names
+- Cities, towns, village

@@ -1,0 +1,379 @@
+# 21_SPELL_CATALOG_ELEMENTAL_SOUL_V1.md
+
+Status: AUTHORITATIVE — CONTENT CATALOG  
+Introduces mechanics: YES (Spell options only; uses existing resolution; no system changes)  
+Scope: Combat + Non-combat utility spells for infinite-play campaigns  
+Pillars covered: Elemental (Fire / Water / Air / Earth) + Soul
+
+---
+
+## GLOBAL SPELL RULES (BINDING)
+
+- Tier = Mana Cost: Tier 1→5 costs 1→5 mana.
+- Lanes:
+  - Flash (F) = immediate effect
+  - Tactical (T) = shapes space/tempo/constraints
+- Resolution:
+  - Combat: resolve spell outcomes with 3d6 (and roll d20 for damage where applicable).
+  - Non-combat: resolve with the current non-combat mode’s resolution.
+- Hard prohibitions (all spells):
+  - No permanent dice-size modification
+  - No stacking flat numeric bonuses
+  - No bypass of discrete resolution / no “auto-win” language
+  - Narrative may be epic; results remain discrete and mechanically honest
+
+---
+
+## SPELL MINTING GRAMMAR (REMINDER — KEEP THIS FOREVER)
+
+Spell Name = (Verb) + (Medium) + (Constraint)
+
+- Verb examples: bind, shear, hush, sever, crown, stitch, exile, mirror…
+- Medium per class:
+  - Fire: heat / ash / ember / flare / kiln
+  - Water: mist / tide / brine / ice / current
+  - Air: gust / static / pressure / thunder / breath
+  - Earth: stone / ore / rust / gravel / bedrock
+  - Soul: name / bond / grief / memory / anima / oath
+- Constraint examples: once, briefly, at a seam, in a pocket, along a bond, at a threshold, by contact…
+- Then assign: Tier(cost) + Lane(F/T) + a distinct Risk (the balancing hook)
+
+This grammar enables infinite expansion without repeating spell logic patterns.
+
+---
+
+## CATALOG ENTRY FORMAT
+
+[Tier|Cost|Lane] Spell Name — Does: <plain effect>. Risk: <distinct cost/backlash/collateral>.
+
+---
+
+# FIRE (50)
+
+## Tier 1 (10)
+1. [T1|1|F] Sparkhand — Does: ignite/snuff a thumb-sized flame. Risk: leaves heat-residue trace.
+2. [T1|1|F] Ember Prick — Does: brief heat-sting to force a flinch. Risk: scorches the wrong surface.
+3. [T1|1|T] Heat Haze — Does: shimmer distortion spoils fine aim. Risk: worsens visibility for allies too.
+4. [T1|1|T] Soot Veil — Does: thin smoke curtain from nearby soot/ash. Risk: coughing + obvious evidence.
+5. [T1|1|F] Tin-Sweat — Does: make a small metal object too hot to hold. Risk: burns escalate panic.
+6. [T1|1|T] Hearthwarm — Does: steady body temp vs cold shock briefly. Risk: fatigue drop after.
+7. [T1|1|F] Wick Wink — Does: flare a light source brighter for a blink. Risk: broadcasts position.
+8. [T1|1|T] Coal-Recall — Does: relight the last ember you touched. Risk: jumps to unintended fuel.
+9. [T1|1|F] Ashfinger Mark — Does: invisible soot mark on surfaces. Risk: revealed by moisture.
+10. [T1|1|T] Cinder Scent — Does: sniff out accelerants/recent burns. Risk: scent overload nausea.
+
+## Tier 2 (12)
+11. [T2|2|T] Cinder Ladder — Does: heat-steps/thermals for reposition or climb. Risk: visible flare signature.
+12. [T2|2|T] Ash-Mute — Does: dull sound in a pocket with ash-thick air. Risk: grit-choke and eye burn.
+13. [T2|2|F] Flashforge — Does: soften metal/stone at a seam to bend/break. Risk: molten spall splash.
+14. [T2|2|F] Sear Mark — Does: brand target/object for tracking. Risk: other Touched can sense it.
+15. [T2|2|T] Ember Line — Does: hot boundary that punishes crossing. Risk: collateral burns spread.
+16. [T2|2|F] Flare Wink — Does: flash-blind an area momentarily. Risk: afterimage disorients allies.
+17. [T2|2|T] Kiln Veil — Does: heat mirage that hides exact silhouettes. Risk: can ignite dry cloth.
+18. [T2|2|F] Singe Thread — Does: burn one rope/thread precisely. Risk: chain unravel surprise.
+19. [T2|2|T] Glow-Script — Does: write heat-text visible only in darkness. Risk: residue stain lingers.
+20. [T2|2|F] Boil Blessing — Does: heat a small liquid rapidly. Risk: container cracks violently.
+21. [T2|2|T] Hearthguard — Does: buffer a teammate vs chill/fear-shiver. Risk: caster fatigue spike.
+22. [T2|2|F] Sootburst — Does: blast soot into eyes to break focus. Risk: wind returns it.
+
+## Tier 3 (12)
+23. [T3|3|F] Furnace Breath — Does: cone of brutal heat-pressure. Risk: oxygen-thin dizziness.
+24. [T3|3|T] Kiln Cage — Does: hot “box” that shapes movement lanes. Risk: radiates outward.
+25. [T3|3|F] Sunlance Arc — Does: focused flare strike. Risk: afterimage blindness.
+26. [T3|3|T] Brandwake — Does: re-ignite a surface’s recent heat story. Risk: wrong pattern returns.
+27. [T3|3|T] Blister Halo — Does: heat aura punishes close approach. Risk: harms allies near you.
+28. [T3|3|F] Glassblush — Does: fuse sand/ash into jagged slag field. Risk: cripples everyone’s footing.
+29. [T3|3|T] Pyre Draft — Does: pull nearby flames toward a corridor. Risk: fire obeys imperfectly.
+30. [T3|3|F] Coalheart Surge — Does: short burst of brutal exertion. Risk: tendon tear backlash.
+31. [T3|3|T] Redline Temper — Does: stabilize overheated gear briefly. Risk: sudden snap later.
+32. [T3|3|F] Smoke Needle — Does: hot pinprick to interrupt a chant/breath. Risk: cruelty-stain feeling.
+33. [T3|3|T] Ember Orbit — Does: embers swirl as close deterrent. Risk: ignites fabrics.
+34. [T3|3|F] Scald Spit — Does: steam burst at close range. Risk: burns your throat.
+
+## Tier 4 (8)
+35. [T4|4|T] Pyre Mirror — Does: mirage-plane misleads distance/position. Risk: caster perception warps.
+36. [T4|4|T] Infernal Seal — Does: heat-weld a door/lock into refusal. Risk: cracks propagate elsewhere.
+37. [T4|4|T] Ash Eclipse — Does: broad ashfall concealment. Risk: leaves long evidence trail.
+38. [T4|4|F] Furnace Jaw — Does: melt hinge/lockworks on contact. Risk: smoke alarms the world.
+39. [T4|4|T] Crown of Coals — Does: embers intercept close threats. Risk: uncontrolled flare-ups.
+40. [T4|4|F] Molten Mercy — Does: fuse a wound shut (extreme stopgap). Risk: shock + permanent scar.
+41. [T4|4|T] Kiln-Quiet — Does: suppress flame light/sound briefly. Risk: sudden rebound flare.
+42. [T4|4|F] Brandscatter — Does: explode heat-stamps across a zone to confuse tracking. Risk: ignites clutter.
+
+## Tier 5 (8)
+43. [T5|5|T] Star-Brand Oath — Does: vow-brand; breaking creates consequence pressure. Risk: sloppy wording brands you.
+44. [T5|5|F] City-Glass Moment — Does: instant heat that reshapes fight geometry. Risk: catastrophic indoor collateral.
+45. [T5|5|F] Solar Verdict — Does: single decisive flare-strike. Risk: divine notice spike.
+46. [T5|5|T] Red Cathedral — Does: zone where flame surges toward motion. Risk: hard to shut down cleanly.
+47. [T5|5|F] Ember-Null — Does: snuff a large fire violently. Risk: backdraft/smoke explosion.
+48. [T5|5|T] Pyreline Exile — Does: forces reroute or burn across a boundary. Risk: traps allies too.
+49. [T5|5|T] Heart-Kiln Communion — Does: share heat between two bodies. Risk: transfers weakness.
+50. [T5|5|F] Ashen Amnesty — Does: wipe small heat-traces in a space. Risk: erases useful evidence.
+
+---
+
+# WATER (50)
+
+## Tier 1 (10)
+1. [T1|1|F] Condense — Does: pull moisture into hand/cloth. Risk: dries air; cracked lips.
+2. [T1|1|T] Slickstep — Does: wet film spoils footing. Risk: ally slip hazard.
+3. [T1|1|F] Chill Touch — Does: numb pain briefly. Risk: frost-tingle after.
+4. [T1|1|T] Ripple Sense — Does: read motion through puddles/water. Risk: rain-noise lies.
+5. [T1|1|F] Cup-Fill — Does: fill a small vessel from humidity. Risk: breath discomfort.
+6. [T1|1|T] Dew Stitch — Does: soften cloth to quiet movement. Risk: weakens straps.
+7. [T1|1|F] Mist Palm — Does: fog puff concealment. Risk: gives away in dry air.
+8. [T1|1|T] Sip-Safe — Does: detect bitter toxins in a drink. Risk: false positives with herbs.
+9. [T1|1|F] Cooled Grip — Does: cool hot metal quickly. Risk: thermal shock cracks.
+10. [T1|1|T] Wetline Mark — Does: invisible trail-mark via chill sheen. Risk: evaporates fast.
+
+## Tier 2 (12)
+11. [T2|2|T] Fog Veil — Does: curtain of fog concealment. Risk: wind betrayal.
+12. [T2|2|F] Ice Stitch — Does: flash-freeze seam/hinge. Risk: brittle snap.
+13. [T2|2|F] Current Pull — Does: tug a liquid mass. Risk: overpull splashes.
+14. [T2|2|T] Brine Purge — Does: flush irritants from eyes/skin. Risk: salt-burn pain.
+15. [T2|2|T] Drift Bubble — Does: buoyancy pocket for a moment. Risk: misjudge and still sink.
+16. [T2|2|T] Condensation Lens — Does: bead-water magnifies tiny detail. Risk: glare reveals you.
+17. [T2|2|T] Silt Screen — Does: muddy cloud concealment. Risk: obvious contamination trail.
+18. [T2|2|F] Rime Tag — Does: frost-mark a handle for later. Risk: melts with time.
+19. [T2|2|F] Salt Prick — Does: sting eyes to break focus. Risk: escalates panic.
+20. [T2|2|T] Gutter Run — Does: guide spilled water along a path. Risk: tracks and stains.
+21. [T2|2|T] Cold Halo — Does: chill pocket reduces heat exhaustion. Risk: shiver backlash.
+22. [T2|2|T] Cup of Quiet — Does: dampen drip sounds briefly. Risk: uncanny stillness.
+
+## Tier 3 (12)
+23. [T3|3|T] Undertow Field — Does: dragging zone slows charges. Risk: leg exhaustion.
+24. [T3|3|F] Waterwhip Bind — Does: snap-line entangles briefly. Risk: rebound lash.
+25. [T3|3|T] Frost Coffin — Does: ice-shell immobilize/protect. Risk: nerve pain.
+26. [T3|3|T] Mirror Pool — Does: show most recent motion in a space. Risk: emotion imprint bleed.
+27. [T3|3|F] Pressure Jet — Does: cutting water jet at close range. Risk: spray blinds.
+28. [T3|3|F] Hail Scatter — Does: burst of hard ice pellets. Risk: friendly bruising.
+29. [T3|3|T] Drownlight — Does: wet lamps/wicks to dim light. Risk: sparks + smoke.
+30. [T3|3|F] Tide Backstep — Does: shove yourself via water burst. Risk: slam injuries.
+31. [T3|3|T] Melt Memory — Does: soften snow/ice to reveal tracks. Risk: ruins evidence.
+32. [T3|3|T] Cold Ledger — Does: preserve food/corpse briefly. Risk: attracts scavengers.
+33. [T3|3|F] Brine Brand — Does: salt-burn mark that resists washing. Risk: worsens injury.
+34. [T3|3|T] Current Cage — Does: circulating ring traps movement. Risk: catches allies.
+
+## Tier 4 (8)
+35. [T4|4|F] Glacial Judgment — Does: deep cold forces brittle failure. Risk: lasting tissue damage.
+36. [T4|4|T] Tide-Null — Does: cancel small flows/drips/ripples. Risk: suspicious stillness.
+37. [T4|4|T] Flood Stitch — Does: water sheet blocks sightlines. Risk: ruins footing.
+38. [T4|4|T] Ice Crown — Does: jagged ice barrier. Risk: uncontrolled shrapnel.
+39. [T4|4|F] Depth Pinch — Does: pressure crush in a fist-sized pocket. Risk: lethal edge stigma.
+40. [T4|4|T] Pearl-Sheen — Does: slick film hides blood/trace. Risk: hides threats too.
+41. [T4|4|T] Brine Silence — Does: dampen cries by thickening throat moisture. Risk: choking hazard.
+42. [T4|4|F] Ice Key — Does: freeze-lock a latch shut. Risk: snaps mechanism.
+
+## Tier 5 (8)
+43. [T5|5|T] River Reset — Does: wash a space to mundane baseline briefly. Risk: erases useful traces.
+44. [T5|5|F] Leviathan Wake — Does: massive shove repositions the line. Risk: structural collapse near bridges.
+45. [T5|5|T] Winter’s Writ — Does: declare “no-liquid” zone (seepage freezes). Risk: cracks pipes/stone.
+46. [T5|5|F] Floodgate Moment — Does: instant surge from nearby sources. Risk: uncontrolled overflow.
+47. [T5|5|T] Tide Oath — Does: promise sealed by shared water. Risk: betrayal rebounds hard.
+48. [T5|5|T] Ocean Mirror — Does: reveal hidden motion via rippling reflection. Risk: hallucinated ripples.
+49. [T5|5|F] Brine Tithe — Does: rip salt from ink/wards to spoil them. Risk: dehydration crash.
+50. [T5|5|T] Mercy Current — Does: carry a body gently through danger. Risk: pulls you too.
+
+---
+
+# AIR (50)
+
+## Tier 1 (10)
+1. [T1|1|F] Gust Nudge — Does: short air-push. Risk: dust/ember blowback.
+2. [T1|1|F] Whisper Cut — Does: thin slice severs rope/cloth. Risk: wild cut line.
+3. [T1|1|T] Feather Draft — Does: slow a fall briefly. Risk: not a negation.
+4. [T1|1|T] Scent Lift — Does: separate smells for tracking. Risk: migraine overload.
+5. [T1|1|F] Static Tick — Does: tiny shock disrupts grip. Risk: arcs to metal.
+6. [T1|1|T] Wind Thread — Does: feel airflow leaks/hidden doors. Risk: false currents.
+7. [T1|1|T] Ear-Cup — Does: dampen one direction of sound. Risk: miss other threats.
+8. [T1|1|F] Sail Tug — Does: yank cloth/strap at range. Risk: pulls wrong target.
+9. [T1|1|T] Breath Spare — Does: ease breathing in smoke briefly. Risk: oxygen debt after.
+10. [T1|1|F] Blink Breeze — Does: distraction gust breaks eye contact. Risk: reveals caster.
+
+## Tier 2 (12)
+11. [T2|2|T] Sound Dampen — Does: muffle an area. Risk: teamwork suffers.
+12. [T2|2|F] Windhook — Does: nudge projectile off-course. Risk: redirects into ally.
+13. [T2|2|F] Storm Needle — Does: pressure+static sting to nerves. Risk: heart rhythm stress.
+14. [T2|2|F] Draftstep — Does: burst reposition. Risk: slam into hazards.
+15. [T2|2|T] Ventriloquy Whorl — Does: throw a voice around a corner. Risk: echo betrays you.
+16. [T2|2|T] Airlock Palm — Does: seal a gap from gas/smoke. Risk: pressure pop.
+17. [T2|2|T] Static Veil — Does: hair-raising field spoils fine aim. Risk: ignites powder dust.
+18. [T2|2|F] Wing-Shear — Does: lateral gust breaks balance. Risk: topples allies too.
+19. [T2|2|F] Pressure Kiss — Does: ear-pop pain burst. Risk: permanent injury possibility.
+20. [T2|2|T] Soot Spiral — Does: pull smoke into a tight column. Risk: suffocation pocket.
+21. [T2|2|T] Glassbreath — Does: clear fog from your face zone. Risk: blinds others.
+22. [T2|2|T] Needle Calm — Does: steady hands via laminar airflow. Risk: dependence sensation.
+
+## Tier 3 (12)
+23. [T3|3|F] Thunder Step — Does: burst-move with concussive crack. Risk: announces you.
+24. [T3|3|T] Pressure Dome — Does: air-bubble deflects debris briefly. Risk: breathing becomes work.
+25. [T3|3|F] Gale Shear — Does: wide cutting wind. Risk: shreds ropes/sails.
+26. [T3|3|T] Lightning Lattice — Does: static threads reveal metal motion. Risk: storm attraction.
+27. [T3|3|F] Vacuum Palm — Does: steal air in a fist-sized pocket. Risk: lung-burn.
+28. [T3|3|T] Crosswind Maze — Does: conflicting gusts scramble pursuit. Risk: you get lost too.
+29. [T3|3|F] Razorwhirl — Does: tight spinning cut around you. Risk: self-injury.
+30. [T3|3|F] Stormhand Grasp — Does: yank weapon via pressure claw. Risk: tears straps/fingers.
+31. [T3|3|T] Siren Draft — Does: airflow carries lure-sound. Risk: lures wrong things.
+32. [T3|3|T] Hawk Eye Lift — Does: brief elevated perch of air. Risk: vertigo drop.
+33. [T3|3|F] Breath Thief — Does: interrupt a chant by stealing timing. Risk: cruelty-stain feeling.
+34. [T3|3|T] Dust Choir — Does: dust motes reveal motion trails. Risk: false trails.
+
+## Tier 4 (8)
+35. [T4|4|F] Vacuum Bite — Does: air theft breaks chanting. Risk: near-lethal misuse.
+36. [T4|4|T] Tempest Crown — Does: turbulent air punishes approach. Risk: collateral damage.
+37. [T4|4|T] Thunder Blanket — Does: low boom masks movement. Risk: panic crowd response.
+38. [T4|4|T] Cyclone Rope — Does: spinning air restrains briefly. Risk: snaps violently.
+39. [T4|4|F] Glasswind — Does: grit-laced cutting gust (needs grit). Risk: maims indiscriminately.
+40. [T4|4|T] Breath Tax — Does: stamina drain pressure zone. Risk: caster collapses too.
+41. [T4|4|T] Pressure Key — Does: unlock latch via pressure pulses. Risk: jams permanently.
+42. [T4|4|T] Cloudblind — Does: whiten air like sudden cloud. Risk: ally disorientation.
+
+## Tier 5 (8)
+43. [T5|5|T] Cyclone Anchor — Does: spinning zone locks movement lanes. Risk: wrecks structures.
+44. [T5|5|F] Sky-Split Verdict — Does: thunder+pressure strike. Risk: residue storm aftertaste.
+45. [T5|5|T] Wind-Null Sanctum — Does: perfect stillness bubble. Risk: uncanny; draws scrutiny.
+46. [T5|5|F] Lightning Right — Does: call static strike in metal-dense space. Risk: uncontrolled arcing.
+47. [T5|5|T] Storm Covenant — Does: oath sealed by shared breath. Risk: betrayal rebounds hard.
+48. [T5|5|F] Tempest Reversal — Does: invert a gust mid-flight. Risk: bone-snap potential.
+49. [T5|5|T] Horizon Shout — Does: voice carried impossibly far. Risk: everyone hears.
+50. [T5|5|T] Vacuum Corridor — Does: strip air along a short path. Risk: lethal edge.
+
+---
+
+# EARTH (50)
+
+## Tier 1 (10)
+1. [T1|1|T] Grain-Read — Does: feel weak points in material. Risk: sensory overload.
+2. [T1|1|F] Stoneknuckle — Does: harden body for one impact exchange. Risk: joint ache.
+3. [T1|1|T] Dust Shroud — Does: controlled dust veil. Risk: choking grit.
+4. [T1|1|T] Ore Sense — Does: detect nearby metal mass. Risk: city headache.
+5. [T1|1|F] Pebble Ping — Does: flick stone like a bullet (needs stone). Risk: ricochet.
+6. [T1|1|T] Weight Tell — Does: sense hollows/voids underfoot. Risk: false reads in ruins.
+7. [T1|1|F] Nail-Seat — Does: drive nail/spike instantly. Risk: splits wood.
+8. [T1|1|T] Mortar Touch — Does: seal a small crack temporarily. Risk: fails under stress.
+9. [T1|1|F] Rust Kiss — Does: accelerate surface rust on cheap iron. Risk: spreads to your gear.
+10. [T1|1|T] Stone Ear — Does: listen through walls via vibration. Risk: phantom echoes.
+
+## Tier 2 (12)
+11. [T2|2|T] Ironbind — Does: buckle/cinch metal around itself. Risk: permanent gear damage.
+12. [T2|2|F] Shatter Tap — Does: precise vibration crack. Risk: chain fracture cascade.
+13. [T2|2|T] Tectonic Brace — Does: resist forced movement briefly. Risk: knee/ankle backlash.
+14. [T2|2|F] Claymend — Does: patch masonry/ceramic fast. Risk: temporary truth only.
+15. [T2|2|T] Gravel Snare — Does: loosen stones to grab boots. Risk: traps allies too.
+16. [T2|2|T] Magnet Wink — Does: tiny pull for coins/needles. Risk: pulls wrong shard.
+17. [T2|2|T] Bolt Memory — Does: read recent strain on a fastener. Risk: echo pain.
+18. [T2|2|F] Sandblind — Does: grit burst into eyes. Risk: wind returns it.
+19. [T2|2|T] Stonehook — Does: raise a handhold nub from rock. Risk: crumbles later.
+20. [T2|2|T] Leadline Pin — Does: pin an object by weight-coupling. Risk: pins wrong thing.
+21. [T2|2|T] Copper Tongue — Does: sense conductive routes. Risk: shock anxiety.
+22. [T2|2|T] Faultline Sense — Does: detect stress lines in architecture. Risk: paranoia drift.
+
+## Tier 3 (12)
+23. [T3|3|T] Basalt Wall — Does: blunt stone barrier (temporary). Risk: destabilizes ground.
+24. [T3|3|F] Quake Pulse — Does: ground shock breaks stance. Risk: tunnel collapse.
+25. [T3|3|T] Metal Memory — Does: read an object’s strain story. Risk: stress imprint.
+26. [T3|3|T] Ore-Call — Does: draw loose metal fragments into orbit/pile. Risk: panic via valuables.
+27. [T3|3|F] Gravel Cannon — Does: cone of stone chips blast. Risk: shrapnel everywhere.
+28. [T3|3|T] Anchor Spike — Does: fix rope/pole into ground instantly. Risk: ground fractures.
+29. [T3|3|F] Obsidian Edge — Does: grow glassy cutting lip from stone. Risk: self-cut hazard.
+30. [T3|3|T] Vault Breath — Does: reinforce a doorframe briefly. Risk: cracks elsewhere.
+31. [T3|3|F] Iron Rain — Does: fling gathered nails/shards (needs metal). Risk: maim risk.
+32. [T3|3|T] Mirror Slate — Does: stone faintly records last footfalls. Risk: false records.
+33. [T3|3|F] Collapse Nudge — Does: fail a chosen weak point. Risk: unpredictable cascade.
+34. [T3|3|T] Bedrock Calm — Does: steady shaking ground momentarily. Risk: petrification tingle.
+
+## Tier 4 (8)
+35. [T4|4|T] Obsidian Gate — Does: barrier plane denies passage. Risk: severe injury hazard.
+36. [T4|4|F] Bedrock Hand — Does: stone grip seizes limb/weapon. Risk: crushing injury.
+37. [T4|4|T] Stone Labyrinth — Does: low walls form a maze. Risk: traps everyone.
+38. [T4|4|T] Iron Choir — Does: metal resonance reveals hidden motion. Risk: deafening.
+39. [T4|4|T] Grave Seal — Does: harden soil into lid/wall. Risk: suffocation hazard.
+40. [T4|4|F] Rust Crown — Does: corrode nearby cheap iron quickly. Risk: ally gear harmed.
+41. [T4|4|T] Pillar Stitch — Does: stabilize a sagging support briefly. Risk: transfers stress.
+42. [T4|4|F] Shard Bloom — Does: erupt sharp stone petals. Risk: indiscriminate hazard.
+
+## Tier 5 (8)
+43. [T5|5|T] Mountain’s Refusal — Does: ground resists crossing briefly. Risk: permanent scar potential.
+44. [T5|5|F] Worldspike Sigil — Does: anchor spike locks geometry. Risk: bone backlash if shattered.
+45. [T5|5|T] Cathedral Pillar — Does: raise one massive support column. Risk: buckles neighbors.
+46. [T5|5|F] Graveseam Verdict — Does: fissure snap-line opens briefly. Risk: irreversible terrain harm.
+47. [T5|5|T] Iron Vow — Does: bind duty into an object. Risk: object becomes curse-vector.
+48. [T5|5|T] Ore-Witching — Does: hidden metal caches “answer” faintly. Risk: attracts thieves.
+49. [T5|5|F] Stone-Nulled Blade — Does: deaden a weapon edge into bluntness. Risk: snaps weapon.
+50. [T5|5|T] Bedrock Mercy — Does: stabilize collapsing ground under allies. Risk: caster petrification.
+
+---
+
+# SOUL (50)
+
+## Tier 1 (10)
+1. [T1|1|F] Pulse Stitch — Does: stop bleeding; stabilize surface trauma. Risk: pain rebound.
+2. [T1|1|T] Quiet Vein — Does: lower panic response briefly. Risk: emotional whiplash.
+3. [T1|1|T] Name-Thread — Does: sense anchored vs performed identity. Risk: false certainty.
+4. [T1|1|F] Borrowed Breath — Does: share air briefly. Risk: contamination transfer.
+5. [T1|1|T] Hand Steady — Does: damp tremor for fine work. Risk: shakes after.
+6. [T1|1|T] Hearth Recall — Does: summon calming memory image. Risk: memory bruise.
+7. [T1|1|F] Wound Hush — Does: mute pain scream to prevent shock spiral. Risk: hidden worsening.
+8. [T1|1|T] Bond Ping — Does: feel strain/distance on a bond. Risk: obsession loop.
+9. [T1|1|T] Eye of Mercy — Does: read pain level in a body. Risk: empathic overload.
+10. [T1|1|F] Sigh Theft — Does: steal a breath-timing moment (interrupt). Risk: cruelty-stain feeling.
+
+## Tier 2 (12)
+11. [T2|2|T] Grief Anchor — Does: anchor emotion to a memory. Risk: intrusive echoes.
+12. [T2|2|T] Stillhand — Does: steady spasm/tremor. Risk: strain spike if chained.
+13. [T2|2|F] Hearthbound Whisper — Does: message along a genuine bond. Risk: warps if bond is poisoned.
+14. [T2|2|T] Sorrow Veil — Does: mute rage/panic spikes in an area. Risk: mutes resolve too.
+15. [T2|2|F] Pain Trade — Does: move pain between willing targets. Risk: consent wobble backlash.
+16. [T2|2|T] Nameweight — Does: make a true claim carry presence. Risk: punishes false claim.
+17. [T2|2|T] Vigil Wake — Does: keep someone conscious briefly. Risk: crash after.
+18. [T2|2|T] Memory Pin — Does: hold one detail against stress. Risk: headache/nosebleed.
+19. [T2|2|F] Truth Bruise — Does: make lies feel physically uncomfortable. Risk: hits nervous truth too.
+20. [T2|2|T] Breath Braid — Does: sync a group’s breathing briefly. Risk: panic surge if broken.
+21. [T2|2|F] Ego Scar — Does: sting pride to break intimidation. Risk: escalates hostility.
+22. [T2|2|T] Grief Cup — Does: contain grief surge temporarily. Risk: later spillover.
+
+## Tier 3 (12)
+23. [T3|3|F] Vital Exchange — Does: transfer fatigue/ache load (willing). Risk: rebound to both.
+24. [T3|3|T] Memory Splice — Does: share one specific memory image briefly. Risk: identity bleed.
+25. [T3|3|T] Soulbrand Covenant — Does: bind mutual promise with pressure. Risk: sloppy wording traps you.
+26. [T3|3|F] Heartbeat Command — Does: force breath/beat reset (stabilize). Risk: arrhythmia danger.
+27. [T3|3|T] Anima Net — Does: hostile will feels “heavy.” Risk: caster heaviness too.
+28. [T3|3|T] Face Borrow — Does: mimic emotional tone briefly. Risk: lose center.
+29. [T3|3|F] Bond Sever — Does: cut one minor attachment briefly. Risk: rebound addiction.
+30. [T3|3|T] Grave-Quiet — Does: calm restless impressions in a place. Risk: draws attention.
+31. [T3|3|F] Silence the Wound — Does: mute shock spiral (not heal). Risk: concealed damage.
+32. [T3|3|T] Funeral Thread — Does: last words “hold” to listeners. Risk: binds grief into witnesses.
+33. [T3|3|F] Guilt Prick — Does: conscience sting interrupts deception cadence. Risk: backfires on you.
+34. [T3|3|T] Oath Lantern — Does: reveal promise-pressure in a room. Risk: paranoia drift.
+
+## Tier 4 (8)
+35. [T4|4|T] Bind of Ashes — Does: bind hostile intent into stillness. Risk: emotional afterburn.
+36. [T4|4|F] Severing Gaze — Does: cut one impulse briefly. Risk: worse substitute behavior.
+37. [T4|4|T] Identity Lock — Does: prevent false-face from “sticking.” Risk: hits innocent masks.
+38. [T4|4|T] Warden’s Oathmark — Does: brand duty into a willing ally. Risk: permanent subtle change.
+39. [T4|4|F] Echo Extraction — Does: pull one lingering emotion from a room. Risk: you carry it.
+40. [T4|4|T] Soul Cage — Does: trap a spirit-impression in place. Risk: attracts predators.
+41. [T4|4|T] Mercy Drown — Does: dampen cruelty impulse in a crowd. Risk: crowd indecision.
+42. [T4|4|F] Name Fray — Does: loosen a foe’s identity certainty briefly. Risk: reality pushback.
+
+## Tier 5 (8)
+43. [T5|5|T] Threshold Petition — Does: contact at the edge (not resurrection). Risk: forbidden-adjacent attention.
+44. [T5|5|T] Ghost-Iron Oath — Does: unbreakable duty-bond for one purpose. Risk: permanent alteration.
+45. [T5|5|F] Name Unmaking — Does: strip a claimed title briefly. Risk: caster vertigo.
+46. [T5|5|F] Anima Severance — Does: force spirit to let go briefly. Risk: catastrophic misuse.
+47. [T5|5|T] Wound of Memory — Does: make someone feel what they did (one scene). Risk: hits you too.
+48. [T5|5|T] Choir of the Lost — Does: echoes answer one question. Risk: grief-lies.
+49. [T5|5|T] Death’s Courtesy — Does: dying passes without terror. Risk: stains caster sleep.
+50. [T5|5|T] Soul-Tithe Seal — Does: pay vitality to stabilize another’s soul. Risk: you become fragile.
+
+---
+
+## EXPANSION APPENDIX — ADDING SPELLS WITHOUT DRIFT
+
+When adding new spells, do ALL of the following:
+1) Use the Spell Minting Grammar (Verb + Medium + Constraint).
+2) Assign Tier (Cost) and Lane (F/T).
+3) Add a distinct Risk that prevents “free leverage.”
+4) Ensure the new spell does not duplicate an existing spell’s effect profile in the same class.
+
+End of file.

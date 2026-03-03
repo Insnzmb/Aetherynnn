@@ -1,0 +1,10 @@
+andled as factual state shifts.
+
+## Tier 3 — Institutional / Army Scale (large forces)
+At army scale, forces become institutional pressure (factional posture, borders, taxes, reprisals, diplomacy).
+- Modeled via WORLD/FLAGS/RELATIONS tokens, not per-battle unit rolls.
+- Raising large forces triggers institutional reaction and logistical consequences.
+- The world responds at matching scale; this is not a tactical buff.
+
+## Hard Rule — No Horde-as-Party Exploit
+Large forces may provide leverage, but may not bypass finite world constraints, spotlight integrity, consequence scale, or save/state integrity.

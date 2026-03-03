@@ -1,0 +1,54 @@
+against the party member carrying the most supplies.
+
+**Defeat:**
+Killable by fire, controlled blasts, or grinding physical defense. It also collapses if the hoard it’s “keyed” to is **opened and redistributed** (a real cost, not a speech).
+
+**Signs:**
+Granaries found sealed from inside. Stockpiles that feel “lighter” though untouched. Rats avoiding an area entirely.
+
+---
+
+#### THE VOW-SHEAR
+*(Named for what it ruins: “The Marriage-Knife,” “The Treaty-Threader,” “The Oath-Splitter.”)*
+
+**Type:** Crisis Stalker / Oath-Pressure Predator
+**Threat:** Extreme
+**HP:** 165
+**DR:** 4
+**Magic Resistance:** High
+**Move:** Very fast in straight lines; struggles to turn
+**Senses:** Detects sworn bonds and spoken contracts
+
+**Description:**
+A blade-thin quadruped made of braided cord and bone, its joints tied in ceremonial knots. Where it steps, fibers fray. Voices nearby feel “loose,” like words don’t grip.
+
+**Behavior:**
+Drawn to crowded oaths: temples, courts, contracts, guild pledges, marriage rites, conscription lines. It strikes when people are already under pressure—when a promise is being forced, not chosen.
+
+**Combat:**
+- **Shear Lunge:** Piercing hit; on a strong strike, it “cuts” a spoken plan—separating allies (forced reposition, broken formation).
+- **Knot-Whip:** Mid-range lash that can disarm or trip.
+- **Unbind (1/scene):** Cancels one ongoing magical effect that relies on commitment/continuity (wards, tethers, bindings).
+- **Fray Aura (Passive):** Coordination is harder in its presence: shouted orders mishear, allies hesitate.
+
+**Defeat:**
+Killable, but best handled with **tight formation, nets, and cornering**. It hates cramped spaces where it can’t build line speed.
+
+**Signs:**
+Knots unraveling overnight. Contracts splitting at the fold. Wedding cords found frayed as if chewed.
+
+---
+
+#### THE QUIET DROWN
+*(Named by riverfolk: “The Still-Tide,” “The Breath-Taker,” “The Wet Silence.”)*
+
+**Type:** Crisis Ambush / Residue-Pressure Entity
+**Threat:** High
+**HP:** 120
+**DR:** 3
+**Magic Resistance:** Medium
+**Move:** Fast in water; slow on land
+**Senses:** Detects panic breath, splashing, and magic residue near waterways
+
+**Description:**
+A translucent mass like 

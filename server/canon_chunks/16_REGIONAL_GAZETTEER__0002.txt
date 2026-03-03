@@ -1,0 +1,76 @@
+ty and noble seat.
+
+### Rhenwall Free Cities
+Primary Hub: Highwater Port
+Position: Coastal river delta.
+Function: Maritime trade and dock consortium seat.
+
+### Sapphire Dominion
+Capital: Azure Gate
+Position: Inland crossroads reinforced by registry infrastructure.
+Function: Bureaucratic consolidation center.
+
+### Southern Sands
+Capital: Kharat Crossing
+Position: Major caravan junction near mineral routes.
+Function: Trade arbitration and desert logistics control.
+
+### Frozen Reaches
+Anchor Settlement: Frosthold
+Position: Permafrost edge settlement.
+Function: Survival logistics and burial compliance oversight.
+
+### Shattered Marches
+Anchor Hub: Blackglass Reach
+Position: Residue-scarred salvage corridor.
+Function: Aether salvage coordination.
+
+---
+
+## STRATEGIC ROUTES
+
+### The Diagonal River Corridor
+Primary continental artery.
+Economic propagation vector between multiple regions.
+
+### The Ironfall Range Spine
+Natural barrier and trade choke-point corridor.
+Defines west-offset continental pressure line.
+
+### Southern Caravan Loop
+Desert trade ring linking Kharat Crossing to coastal exchanges.
+
+---
+
+## BORDER TENSION CORRIDORS
+
+- Veythar–Shattered Marches (residue spillover monitoring)
+- Rhenwall–Sapphire trade leverage corridor
+- Eldrion–Veythar diplomatic friction zone
+
+---
+
+## CANON LOCK NOTE
+
+These anchors are fixed unless altered by explicit in-world events.
+New major settlements must be appended here.
+Geographic additions must conform to the locked canonical map.
+
+---
+
+---
+
+## LOCAL ATLAS NOTE (Web Map)
+The playable web map uses local atlas labels and settlements. They represent a limited theater; macro capitals (Ironspire, Sunfall Keep, etc.) are off-map unless the campaign travels.
+
+Local settlements (web map anchors): Icewatch Hold; Valemarch; Tharwick; Hollowgrave; Cindralith; Emberdeep; Heartwood Spire; Ashwind Pass.
+
+
+### Local Settlement Nodes (Atlas v2; AI-facing)
+These are the named settlement nodes represented in the web atlas. Treat names as locked once referenced.
+
+Frostveil Dominion:
+Icewatch Hold; Frostmere; Glacierspine Holdfast; Northwind Watch; Skarhald; Varyn; Whitebarrow; Ashwind Pass.
+
+Eryndor Confederacy:
+Valemarch; Tharwick; Goldmere; Hi

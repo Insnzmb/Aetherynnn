@@ -1,0 +1,30 @@
+r 1 (10)
+1. [T1|1|F] Condense — Does: pull moisture into hand/cloth. Risk: dries air; cracked lips.
+2. [T1|1|T] Slickstep — Does: wet film spoils footing. Risk: ally slip hazard.
+3. [T1|1|F] Chill Touch — Does: numb pain briefly. Risk: frost-tingle after.
+4. [T1|1|T] Ripple Sense — Does: read motion through puddles/water. Risk: rain-noise lies.
+5. [T1|1|F] Cup-Fill — Does: fill a small vessel from humidity. Risk: breath discomfort.
+6. [T1|1|T] Dew Stitch — Does: soften cloth to quiet movement. Risk: weakens straps.
+7. [T1|1|F] Mist Palm — Does: fog puff concealment. Risk: gives away in dry air.
+8. [T1|1|T] Sip-Safe — Does: detect bitter toxins in a drink. Risk: false positives with herbs.
+9. [T1|1|F] Cooled Grip — Does: cool hot metal quickly. Risk: thermal shock cracks.
+10. [T1|1|T] Wetline Mark — Does: invisible trail-mark via chill sheen. Risk: evaporates fast.
+
+## Tier 2 (12)
+11. [T2|2|T] Fog Veil — Does: curtain of fog concealment. Risk: wind betrayal.
+12. [T2|2|F] Ice Stitch — Does: flash-freeze seam/hinge. Risk: brittle snap.
+13. [T2|2|F] Current Pull — Does: tug a liquid mass. Risk: overpull splashes.
+14. [T2|2|T] Brine Purge — Does: flush irritants from eyes/skin. Risk: salt-burn pain.
+15. [T2|2|T] Drift Bubble — Does: buoyancy pocket for a moment. Risk: misjudge and still sink.
+16. [T2|2|T] Condensation Lens — Does: bead-water magnifies tiny detail. Risk: glare reveals you.
+17. [T2|2|T] Silt Screen — Does: muddy cloud concealment. Risk: obvious contamination trail.
+18. [T2|2|F] Rime Tag — Does: frost-mark a handle for later. Risk: melts with time.
+19. [T2|2|F] Salt Prick — Does: sting eyes to break focus. Risk: escalates panic.
+20. [T2|2|T] Gutter Run — Does: guide spilled water along a path. Risk: tracks and stains.
+21. [T2|2|T] Cold Halo — Does: chill pocket reduces heat exhaustion. Risk: shiver backlash.
+22. [T2|2|T] Cup of Quiet — Does: dampen drip sounds briefly. Risk: uncanny stillness.
+
+## Tier 3 (12)
+23. [T3|3|T] Undertow Field — Does: dragging zone slows charges. Risk: leg exhaustion.
+24. [T3|3|F] Waterwhip Bind — Does: snap-line entangles briefly. Risk: rebound lash.
+25. [T3|3|T] Frost Coffin — Does: ice-shell immobilize/protect. Risk: nerve 

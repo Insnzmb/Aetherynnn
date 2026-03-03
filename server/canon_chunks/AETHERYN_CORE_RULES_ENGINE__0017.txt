@@ -1,0 +1,60 @@
+- **SAFE_MODE:** `BEGIN_SAFE_MODE_SAVE` … `END_SAFE_MODE_SAVE`
+
+- If **BUNDLE**:
+  - PAYLOAD decodes into JSON containing `CANON_SAVE` (required)
+  - `CANON_SAVE` conforms to governing save schema (PATCH_LAYER Save Schema V12.1 + SRC-X1 MasterRef)
+  - `CANON_SAVE` contains no prose in factual fields (`CAN`, `INV`, `WORLD`, `PARTY`, `FLAGS`, `RELATIONS`)
+  - Any `AUX_*` fields are explicitly treated as non-canon (prune-safe)
+
+- If **SAFE_MODE** (anti-brick fallback):
+  - SAFE_MODE is permitted **only** if BUNDLE generation fails validation after **one** attempt
+  - SAFE_MODE must include: VERSION, TIME, MODE, LOCATION, and CANON_FACTS (facts-only tokens)
+  - No narrative prose inside CANON_FACTS
+
+If any condition fails:
+- If the failure is a BUNDLE validation failure → emit SAFE_MODE immediately.
+- If SAFE_MODE also fails → block output and request the minimum clarification needed to produce a valid save.
+
+### Gate Conditions (RESTORE)
+
+- Detect format (BUNDLE vs SAFE_MODE)
+- If BUNDLE:
+  - Decode PAYLOAD
+  - Validate `CANON_SAVE` as authoritative
+  - Restore per deterministic restore order
+  - If `AUX_REPLAY` contradicts canon, discard AUX and continue from canon
+- If SAFE_MODE:
+  - Parse SAFE_MODE fields into minimal factual state
+  - Run Intake only for any missing required fields
+
+If validation fails:
+- Reject load and enter INTAKE per existing lock rules.
+---
+
+## ADD — Gate I: Autosave Emission Gate (Anti-Spam + Safety)
+
+This gate applies when the Operator is about to emit an **automatic** save bundle (not a manual SAVE NOW).
+
+### Gate Conditions (AUTOSAVE)
+
+- AUTOSAVE is ON (`flag:autosave=on`)
+- Scene has concluded
+- Scene_Count is even
+- MODE is not COMBAT
+- No unresolved roll is pending
+- Output contains exactly one bundle: BEGIN_AETHSAVE_BUNDLE_V1 … END_AETHSAVE_BUNDLE_V1
+
+If any condition fails:
+- Do not emit an autosave bundle.
+- Continue play normally.
+
+Manual `SAVE NOW` bypasses cadence conditions but still must pass Save Bundle Integrity Gate.
+---
+
+## ADD — Gate K: Start Command Must Route to Intake Q0 (Startup Determinism)
+
+This gate applies when the Operator is about to emit the first player-facing output of a session.
+
+### Gate Conditions
+
+If AL

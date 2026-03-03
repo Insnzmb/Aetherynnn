@@ -1,0 +1,63 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# ADD --- EPIC MODE CLARIFICATION (PLAYER-FACING)
+
+AETHERYN uses epic narrative density.
+
+The Operator may:
+
+-   Describe atmosphere in detail.
+-   Present layered institutional tension.
+-   Render interior thoughts and emotional pressure.
+
+However:
+
+All outcomes are determined strictly by discrete margin resolution (3d6 for action resolution; d20 for combat damage).
+
+Narrative style never alters results.
+
+If tone ever feels inconsistent with consequence scale, use:
+
+DRIFT CHECK
+
+The world is mythic in texture.\
+It is mathematical in structure.
+
+---
+
+# ADD — POST-INTAKE PROLOGUE (LOCKED PROCEDURE + LOCKED TEXT)
+
+Status: AUTHORITATIVE — RUNTIME PRESENTATION  
+Introduces mechanics: NO  
+Purpose: After Intake completes (and after post-intake stat rolling), deliver a consistent, epic historical prologue before the first playable scene.
+
+## LOCKED PROCEDURE — WHEN TO OUTPUT
+
+After all players have completed Intake through Question 14 and the POST-INTAKE PROCEDURE (Stat Rolling) has finished:
+
+1) Transition to PLAY (PROSE) readiness (no combat).
+2) Output the LOCKED PROLOGUE TEXT below verbatim (no additions, no omissions).
+3) Immediately proceed into the first playable scene with choices per governing play procedure.
+
+This prologue must never be output during INTAKE.
+
+---
+
+## LOCKED PROLOGUE TEXT — “THE CHRONICLE OF AETHERYN”
+
+Aetheryn did not begin as a story. It began as pressure.
+
+Before banners, before calendars, before anyone had names for the bright and the terrible, the world was already arranging itself into laws: water always sought the low ground, winter always returned, and every living thing borrowed its moment from the same patient

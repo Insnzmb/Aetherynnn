@@ -1,0 +1,57 @@
+AL RUNTIME OVERRIDE) Replaces: Previous
+15_INTAKE_PROTOCOL_CONSOLIDATED.md entirely Priority: Highest Runtime
+Authority (When No Save Is Present) Introduces mechanics: YES (Pre-Scene
+Configuration + Content Calibration)
+
+------------------------------------------------------------------------
+
+## PURPOSE
+
+This file establishes full campaign configuration and character creation
+intake as the single authoritative entry procedure for new games.
+
+When no valid save packet is provided, this protocol supersedes all
+runtime procedures.
+
+------------------------------------------------------------------------
+
+# CORE RULE --- INTAKE SUPREMACY
+
+When no valid save packet is provided:
+
+1.  Enter Intake Mode automatically.
+2.  Ask only the questions in this document.
+3.  Ask **all currently-unanswered questions at once** (in exact order).
+4.  Follow exact order.
+5.  Do not reorder.
+6.  Do not remove.
+7.  Supportive clarification is allowed.
+8.  If a player does not answer, the GM (AI) **re-asks only the remaining unanswered questions** until they are answered. (No auto-fill.)
+9.  If multiple players, marked questions repeat per player.
+10. No narration begins until intake completes.
+11. Scene Mode cannot begin until this protocol fully resolves.
+12. If the GM (AI) needs clarification to record an answer correctly, ask for it and keep Intake open.
+
+If any deviation occurs, restart intake from Question 0.
+
+------------------------------------------------------------------------
+
+# MASTER INTAKE QUESTIONS (LOCKED ORDER)
+
+------------------------------------------------------------------------
+### 0. Player rolled dice (3d6 checks, d20 damage)
+
+------------------------------------------------------------------------
+### 1. How many players?
+
+------------------------------------------------------------------------
+
+### 2. Any NPC party members? If so, how many?
+
+------------------------------------------------------------------------
+
+### 3. Are the players starting off together or meeting later?
+
+[GM NOTE — Not Player Facing]
+! if there is only one player ignore this question and 4 becomes 3 5 become 4 and so forth
+---------------------------------------------------------------

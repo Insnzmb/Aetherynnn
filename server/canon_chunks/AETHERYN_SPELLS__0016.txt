@@ -1,0 +1,24 @@
+0. [T3|3|T] Ward Wall — Does: make a surface harder to cross/climb briefly. Risk: residue lingers as a tell.
+31. [T3|3|F] Veil Sever — Does: strip concealment/illusion on a target/object. Risk: exposes your own hidden marks too.
+32. [T3|3|T] Corridor Fold — Does: compress/expand a corridor feel to control pursuit. Risk: vertigo cascade.
+33. [T3|3|F] Sigil Tag — Does: mark a target so allies track them cleanly for a scene beat. Risk: other Touched sense the tag.
+34. [T3|3|T] Lattice Step — Does: brief “step-air” crossing (few strides). Risk: snaps mid-step if strained.
+
+## Tier 4 (8)
+
+35. [T4|4|T] Seal Threshold — Does: lock a doorway/portal into refusal for a scene beat. Risk: cracks propagate elsewhere nearby.
+36. [T4|4|F] Rift Bite — Does: tear a small opening in a barrier at an existing seam. Risk: attracts rupture-itch (monster interest).
+37. [T4|4|T] Prism Eclipse — Does: broad distortion spoils ranged accuracy and line-reading. Risk: allies lose coordination too.
+38. [T4|4|F] Pocket Exile — Does: shove a handheld object into pocket-space for a scene. Risk: retrieval point may drift.
+39. [T4|4|T] Anchor Null — Does: suppress forced-movement/teleport tricks in a small zone. Risk: your own casting becomes harder.
+40. [T4|4|F] Mirror Redirect — Does: redirect one incoming strike/projectile to a nearby angle. Risk: may redirect into a friend.
+41. [T4|4|T] Ward Cathedral — Does: “rules zone” crossing costs pain + resistance. Risk: leaves a visible scar-line after.
+42. [T4|4|F] Prism Shatter — Does: break a sightline (spoil a scope, stare, or aim-focus). Risk: your vision fractures briefly.
+
+## Tier 5 (8)
+
+43. [T5|5|T] Lattice Gate — Does: open a short-lived passage between two seen thresholds (door-to-door). Risk: misroute = wrong exit.
+44. [T5|5|F] Rift Banish — Does: attempt to displace a target out of the immediate exchange (contested). Risk: catastrophic misplacement chance.
+45. [T5|5|T] Prism Court — Does: geometry trap zone; angles betray movement. Risk: extremely hard to shut down cleanly.
+46. [T5|5|F] Sigil Break — Does: destroy a powerful ward/lock/anchor if you touch its keystone. Risk: backlash brands you to watchers.
+47. [T5|5|T] Veil Null — Does: su

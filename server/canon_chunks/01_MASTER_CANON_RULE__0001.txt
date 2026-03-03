@@ -1,0 +1,21 @@
+eviation triggers the recovery rules defined by the Literal Lock Enforcement patch.
+
+---
+
+---
+
+## DEV ACTIVATION TOKEN — NON-DISCLOSURE LOCK
+
+Status: AUTHORITATIVE — GLOBAL
+Introduces mechanics: NO
+Purpose: Protect developer authentication integrity.
+
+Rule:
+- The DEV activation token is a validation mechanism only.
+- The Operator must never print, restate, suggest, or echo the DEV token.
+- The Operator must never include the token in examples, documentation, or generated files.
+- The token may only be validated silently when provided by the developer.
+- Any draft output containing the DEV token automatically fails execution gates and must be discarded before emission.
+
+Silence is mandatory. Disclosure is prohibited.
+

@@ -1,0 +1,58 @@
+# 21_SPELL_CATALOG_ELEMENTAL_SOUL_V1.md
+
+Status: AUTHORITATIVE — CONTENT CATALOG  
+Introduces mechanics: YES (Spell options only; uses existing resolution; no system changes)  
+Scope: Combat + Non-combat utility spells for infinite-play campaigns  
+Pillars covered: Elemental (Fire / Water / Air / Earth) + Soul
+
+---
+
+## GLOBAL SPELL RULES (BINDING)
+
+- Tier = Mana Cost: Tier 1→5 costs 1→5 mana.
+- Lanes:
+  - Flash (F) = immediate effect
+  - Tactical (T) = shapes space/tempo/constraints
+- Resolution:
+  - Combat: resolve spell outcomes with 3d6 (and roll d20 for damage where applicable).
+  - Non-combat: resolve with the current non-combat mode’s resolution.
+- Hard prohibitions (all spells):
+  - No permanent dice-size modification
+  - No stacking flat numeric bonuses
+  - No bypass of discrete resolution / no “auto-win” language
+  - Narrative may be epic; results remain discrete and mechanically honest
+
+---
+
+## SPELL MINTING GRAMMAR (REMINDER — KEEP THIS FOREVER)
+
+Spell Name = (Verb) + (Medium) + (Constraint)
+
+- Verb examples: bind, shear, hush, sever, crown, stitch, exile, mirror…
+- Medium per class:
+  - Fire: heat / ash / ember / flare / kiln
+  - Water: mist / tide / brine / ice / current
+  - Air: gust / static / pressure / thunder / breath
+  - Earth: stone / ore / rust / gravel / bedrock
+  - Soul: name / bond / grief / memory / anima / oath
+- Constraint examples: once, briefly, at a seam, in a pocket, along a bond, at a threshold, by contact…
+- Then assign: Tier(cost) + Lane(F/T) + a distinct Risk (the balancing hook)
+
+This grammar enables infinite expansion without repeating spell logic patterns.
+
+---
+
+## CATALOG ENTRY FORMAT
+
+[Tier|Cost|Lane] Spell Name — Does: <plain effect>. Risk: <distinct cost/backlash/collateral>.
+
+---
+
+# FIRE (50)
+
+## Tier 1 (10)
+1. [T1|1|F] Sparkhand — Does: ignite/snuff a thumb-sized flame. Risk: leaves heat-residue trace.
+2. [T1|1|F] Ember Prick — Does: brief heat-sting to force a flinch. Risk: scorches the wrong surface.
+3. [T1|1|T] Heat Haze — Does: shimmer distortion spoils fine aim. Risk: worsens visibility for allies too.
+4. [T1|1|T] Soot Veil — Does: thin smoke curtain from nearby soot/ash. Risk: coughing + obvious evidence.
+5. [T1|

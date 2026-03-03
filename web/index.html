@@ -1,0 +1,1043 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Aetheryn</title>
+  <link rel="stylesheet" href="styles.css?v=44b-btn-cachefix1" />
+  <link rel="stylesheet" href="map.css?v=44b-btn-cachefix1" />
+</head>
+<body>
+  <canvas id="bgCanvas" class="bgCanvas"></canvas>
+
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo" aria-hidden="true">A</div>
+        <div class="titles">
+          <div class="name">AETHERYN</div>
+          <div class="sub">Standalone Offline</div>
+        </div>
+      </div>
+
+      <div class="topRight">
+        <div class="viewTabs" role="tablist" aria-label="View">
+          <button id="viewLobby" class="tab" role="tab" aria-selected="false">Lobby</button>
+          <button id="viewPlay" class="tab active" role="tab" aria-selected="true">Play</button>
+          <button id="viewChat" class="tab" role="tab" aria-selected="false">Chat</button>
+          <button id="viewMap" class="tab" role="tab" aria-selected="false">Map</button>
+                    <button id="viewBook" class="tab" role="tab" aria-selected="false">Book</button>
+          <button id="viewCodex" class="tab" role="tab" aria-selected="false">Codex</button>
+          <button id="viewForces" class="tab" role="tab" aria-selected="false">Forces</button>
+        </div>
+
+        <div class="status" aria-live="polite">
+          <span id="connDot" class="dot off"></span>
+          <span id="connText">Disconnected</span>
+        </div>
+
+        <div id="aiStatus" class="aiStatus" title="AI status">AI: —</div>
+
+        <div id="turnStatus" class="turnStatus" title="Turn status">Turn: —</div>
+        <button id="turnRerollBtn" class="turnRerollBtn hidden" type="button" title="Host: restart initiative">Reroll</button>
+        <button id="turnReadyBtn" class="turnReadyBtn hidden" type="button" title="Simultaneous round: submit a Hold intent">Ready</button>
+        <button id="turnResolveBtn" class="turnResolveBtn hidden" type="button" title="Host: resolve the round now (missing intents default to Hold)">Resolve</button>
+
+        <div id="aiWait" class="aiWait hidden" aria-live="polite" title="AI is working">
+          <span class="aiWaitLabel">Waiting for AI…</span>
+          <button id="aiCancelBtn" class="aiCancelBtn" type="button" title="Cancel stuck AI">Cancel</button>
+        </div>
+
+        <!-- In-room controls (multiplayer lobby gating) -->
+        <div id="roomControls" class="roomControls hidden" aria-label="Room controls">
+          <span id="roomPhasePill" class="pill">—</span>
+          <button id="roomCreateChar" class="ghost" type="button">Character</button>
+          <button id="roomStartGame" class="ghost" type="button">Start Game</button>
+        </div>
+
+        
+        <button id="ttsToggleBtn" class="iconBtn" title="Text-to-speech" aria-label="Toggle text-to-speech">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+            <path fill="currentColor" d="M3 10v4a1 1 0 0 0 1 1h3l4 3a1 1 0 0 0 1.58-.82V6.82A1 1 0 0 0 11 6l-4 3H4a1 1 0 0 0-1 1Zm14.5 2a3.5 3.5 0 0 0-1.76-3.03.75.75 0 1 0-.75 1.3A2 2 0 0 1 16 12a2 2 0 0 1-1.01 1.73.75.75 0 1 0 .75 1.3A3.5 3.5 0 0 0 17.5 12Zm3 0a6.5 6.5 0 0 0-3.26-5.64.75.75 0 1 0-.75 1.3A5 5 0 0 1 19 12a5 5 0 0 1-2.51 4.34.75.75 0 1 0 .75 1.3A6.5 6.5 0 0 0 20.5 12Z"/>
+          </svg>
+        </button>
+
+        <button id="campfireBtn" class="iconBtn" title="Campfire recap" aria-label="Campfire recap">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+            <path fill="currentColor" d="M12 2c.3 2.7-1.6 3.7-3 5.3C7.8 8.7 7.5 10 8.2 11.4c.7 1.4 2 2.2 3.6 2.4-.7-1.6.3-2.9 1.2-3.8 1.3-1.4 2.6-2.8 2.4-5.1 2.7 2.1 4.6 5.2 4.6 8.7 0 5-4 8.6-8.9 8.6S3 18.6 3 13.6c0-4 2.6-7.6 6.4-9.4C9.5 5.7 10.6 3.7 12 2Zm-.9 14.7c-1.1.5-1.9 1.5-1.9 2.6 0 1.7 1.3 2.7 2.8 2.7s2.8-1 2.8-2.7c0-1.1-.8-2.1-1.9-2.6-.3.6-.7 1.1-.9 1.4-.2-.3-.6-.8-.9-1.4Z"/>
+          </svg>
+        </button>
+
+
+<button id="saveAlwaysBtn" class="iconBtn" title="Save" aria-label="Save game" disabled>
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+    <path fill="currentColor" d="M17 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V7l-4-4Zm-5 16a3 3 0 1 1 0-6 3 3 0 0 1 0 6ZM6 8V5h10v3H6Z"/>
+  </svg>
+</button>
+
+<button id="craftBtn" class="iconBtn" title="Crafting" aria-label="Open crafting" disabled>
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+    <path fill="currentColor" d="M14.7 6.3 17.7 3.3a1 1 0 0 1 1.4 1.4l-3 3 1.6 1.6 3-3a1 1 0 1 1 1.4 1.4l-3 3 1.1 1.1a2 2 0 0 1 0 2.8l-1.4 1.4a2 2 0 0 1-2.8 0l-1.1-1.1-4.6 4.6a4 4 0 0 1-2.8 1.2H6a1 1 0 0 1-1-1v-1.3a4 4 0 0 1 1.2-2.8l4.6-4.6-1.1-1.1a2 2 0 0 1 0-2.8l1.4-1.4a2 2 0 0 1 2.8 0l1.1 1.1Zm-3.2 4.6 2.8 2.8 4-4-2.8-2.8-4 4ZM7 20h1.4a2 2 0 0 0 1.4-.6l3.2-3.2-2.8-2.8-3.2 3.2A2 2 0 0 0 7 18.6V20Z"/>
+  </svg>
+</button>
+
+<button id="openSettings" class="iconBtn" title="Settings" aria-label="Open settings">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+            <path fill="currentColor" d="M19.14 12.94c.04-.31.06-.63.06-.94s-.02-.63-.06-.94l2.03-1.58a.5.5 0 0 0 .12-.64l-1.92-3.32a.5.5 0 0 0-.6-.22l-2.39.96a7.34 7.34 0 0 0-1.63-.94l-.36-2.54A.5.5 0 0 0 13.9 1h-3.8a.5.5 0 0 0-.49.42l-.36 2.54c-.58.23-1.12.54-1.63.94l-2.39-.96a.5.5 0 0 0-.6.22L2.7 7.48a.5.5 0 0 0 .12.64l2.03 1.58c-.04.31-.06.63-.06.94s.02.63.06.94L2.82 14.5a.5.5 0 0 0-.12.64l1.92 3.32c.13.23.4.32.64.22l2.39-.96c.5.4 1.05.71 1.63.94l.36 2.54c.04.24.25.42.49.42h3.8c.24 0 .45-.18.49-.42l.36-2.54c.58-.23 1.12-.54 1.63-.94l2.39.96c.24.1.51.01.64-.22l1.92-3.32a.5.5 0 0 0-.12-.64l-2.03-1.56ZM12 15.5A3.5 3.5 0 1 1 12 8a3.5 3.5 0 0 1 0 7.5Z"/>
+          </svg>
+        </button>
+
+        <button id="devBtn" class="iconBtn hidden" title="Dev console" aria-label="Open dev console">DEV</button>
+      </div>
+    </header>
+
+    <div id="couchBar" class="couchBar hidden" aria-label="Couch co-op players">
+      <div class="couchBarInner">
+        <div class="couchLabel">Couch:</div>
+        <div id="couchPlayers" class="couchPlayers"></div>
+      </div>
+    </div>
+
+    <div id="couchHandoff" class="couchHandoff hidden" role="dialog" aria-modal="true" aria-label="Pass the screen">
+      <div class="couchHandoffCard">
+        <div id="couchHandoffTitle" class="couchHandoffTitle">Pass the screen</div>
+        <div id="couchHandoffSub" class="couchHandoffSub">—</div>
+        <button id="couchHandoffGo" class="primary">Continue</button>
+      </div>
+    </div>
+
+
+    <section class="panel">
+      <div class="mode">
+        <button id="modeSingle" class="seg active">Single Player</button>
+        <button id="modeMulti" class="seg">Multiplayer</button>
+      </div>
+
+      <div class="row rowStart">
+        <label class="field">
+          <span>Your Name</span>
+          <input id="name" placeholder="Your name" autocomplete="nickname" />
+        </label>
+
+        <label class="field" id="roomField">
+          <span>Room Code</span>
+          <input id="room" placeholder="ex: eldrian-1" autocomplete="off" />
+        </label>
+
+        <div class="btnRow">
+          <button id="join" class="primary">New Game</button>
+          <button id="resumeGame" class="ghost">Resume</button>
+          <button id="loadGame" class="ghost">Load</button>
+          <button id="saveGame" class="ghost" disabled>Save</button>
+          <button id="exportGame" class="ghost" disabled>Export</button>
+        </div>
+      </div>
+
+      <div class="hint" id="hint">Single player starts instantly. Multiplayer uses a shared room code.</div>
+
+      <div class="settingsRow">
+        <label class="check"><input id="toggleSystem" type="checkbox" checked /> <span>Show system messages</span></label>
+        <label class="check"><input id="toggleCanon" type="checkbox" /> <span>Show canon tokens (dev)</span></label>
+
+        <span id="worldClockLine" class="worldClockLine">Day — • —</span>
+        <span id="bookMetaLine" class="bookMetaLine">—</span>
+      </div>
+    </section>
+
+    <main class="main">
+      <section class="lobbyView hidden" id="lobbyViewPanel" aria-label="Lobby">
+        <div class="lobbyHeader">
+          <div>
+            <div class="lobbyTitle">Aetheryn — Lobby</div>
+            <div class="lobbySub">Publish a room for friends/randoms, or quick match into an open table. (Uses a separate matchmaking server.)</div>
+          </div>
+          <div class="lobbyActions">
+            <button id="lobbyRefresh" class="ghost">Refresh</button>
+            <button id="lobbyBack" class="ghost">Back</button>
+          </div>
+        </div>
+
+        <div class="lobbyGrid">
+          <div class="lobbyCard">
+            <div class="cardTitle">Connection</div>
+            <div class="inviteBlock">
+              <div class="hint" style="margin:0 0 10px 0">Easy invites (LAN works automatically)</div>
+
+              <div class="field">
+                <span>Room Code</span>
+                <div class="inlineRow">
+                  <input id="inviteRoomCode" placeholder="Start a room first" readonly />
+                  <button id="copyRoomCode" class="ghost">Copy</button>
+                </div>
+              </div>
+
+              <div class="field">
+                <span>LAN Invite Link</span>
+                <div class="inlineRow">
+                  <input id="lanInvite" placeholder="Start a room first" readonly />
+                  <button id="copyLanInvite" class="ghost">Copy</button>
+                </div>
+              </div>
+
+              <div class="hint" style="margin-top:8px">Internet play still needs a reachable server or tunnel URL. That part can’t be magically fixed by JavaScript (NAT is a jerk).</div>
+            </div>
+
+            <hr class="softHr" />
+
+            <details class="advancedBox">
+              <summary>Advanced</summary>
+
+            <label class="field">
+              <span>Matchmaking URL</span>
+              <input id="mmUrl" placeholder="ex: https://your-lobby.example.com" autocomplete="off" />
+            </label>
+            <label class="field">
+              <span>Your Public Join URL</span>
+              <input id="hostPublicUrl" placeholder="ex: https://your-tunnel.example.com" autocomplete="off" />
+            </label>
+
+            </details>
+
+            <div class="btnRow">
+              <button id="publishRoom" class="primary">Publish Room</button>
+              <button id="unpublishRoom" class="ghost danger" disabled>Unpublish</button>
+            </div>
+
+            <div class="hint" id="mmHint">Tip: For cross-network play, hosts usually need a tunnel URL (Cloudflare Tunnel) or a reachable server.</div>
+          </div>
+
+          <div class="lobbyCard">
+            <div class="cardTitle">Quick Match</div>
+            <div class="hint">Finds an open public room and takes you there.</div>
+            <div class="btnRow">
+              <button id="quickMatch" class="primary">Quick Match</button>
+              <button id="joinByCode" class="ghost">Join by Code</button>
+            </div>
+            <label class="field" id="joinCodeRow" style="display:none">
+              <span>Room Code</span>
+              <input id="joinCode" placeholder="ex: eldrian-1" autocomplete="off" />
+            </label>
+            <div class="btnRow" id="joinCodeBtns" style="display:none">
+              <button id="joinCodeGo" class="primary">Join</button>
+              <button id="joinCodeCancel" class="ghost">Cancel</button>
+            </div>
+          </div>
+
+          <div class="lobbyCard" id="rumorCard">
+            <div class="cardTitle">Rumor Board</div>
+            <div class="hint" style="margin-top:0">Whispers, leads, and weirdness. Not quests—just sparks.</div>
+            <div id="rumorList" class="rumorList" aria-label="Rumors"></div>
+          </div>
+
+          <div class="lobbyCard lobbyRooms">
+            <div class="cardTitle">Public Rooms</div>
+            <div id="lobbyRooms" class="roomsList" aria-label="Public rooms"></div>
+          </div>
+        </div>
+      </section>
+
+      
+      <section class="chat" id="log" aria-label="Play log"></section>
+
+      <section class="chatView hidden" id="chatViewPanel" aria-label="Party chat">
+        <div class="chatHeader">
+          <div class="chatTitle">Aetheryn — Party Chat</div>
+          <div class="chatActions">
+            <button id="chatBack" class="ghost">Back</button>
+          </div>
+        </div>
+
+        <div id="chatLog" class="chatLog" role="log" aria-label="Chat log"></div>
+
+        <div class="chatComposer" aria-label="Chat composer">
+          <textarea id="chatInput" rows="2" placeholder="Type a message…"></textarea>
+          <button id="chatSend" class="primary">Send</button>
+        </div>
+      </section>
+
+      <section class="mapView hidden" id="mapViewPanel" aria-label="Map view">
+        <div class="modalCard mapModalCard">
+              <div class="modalHeader">
+                <div>
+                  <div class="modalTitle">Map</div>
+                  <div class="modalSub" id="mapSub">Canon map loaded. Fog-of-war is optional (toggle “Fog”); when enabled, it reveals as you travel (LOC).</div>
+                </div>
+                <div class="mapHeaderActions">
+                  <div class="mapMapRow">
+                    <span class="muted small">Map</span>
+                    <select id="mapSelect" class="mapSelect" aria-label="Select map"></select>
+                    <button id="mapNew" class="ghost">New</button>
+                    <button id="mapRename" class="ghost">Rename</button>
+                    <button id="mapDelete" class="ghost danger">Delete</button>
+                  </div>
+        <button id="mapPinMode" class="ghost">Pin current location</button>
+                  <button id="mapRemovePin" class="ghost">Remove pin</button>
+                  <button id="mapClose" class="iconBtn" title="Close map" aria-label="Close map">
+                    <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+                      <path fill="currentColor" d="M18.3 5.71a1 1 0 0 0-1.41 0L12 10.59 7.11 5.7A1 1 0 1 0 5.7 7.11L10.59 12 5.7 16.89a1 1 0 1 0 1.41 1.41L12 13.41l4.89 4.89a1 1 0 0 0 1.41-1.41L13.41 12l4.89-4.89a1 1 0 0 0 0-1.4Z"/>
+                    </svg>
+                  </button>
+                </div>
+              </div>
+        
+              <div class="mapStage">
+                <div class="mapFrame" id="mapFrame">
+                  <div class="mapEmpty" id="mapEmpty">No map loaded yet.</div>
+                  <div id="mapInner" class="mapInner hidden">
+                    <img id="mapImg" class="mapImg hidden" alt="Map" />
+                    <img id="mapCanonOverlay" class="mapCanonOverlay hidden" alt="" aria-hidden="true" />
+                    <canvas id="mapFog" class="mapFog hidden" aria-hidden="true"></canvas>
+                    <div id="mapPinsLayer" class="mapPinsLayer" aria-hidden="true"></div>
+                    <div id="mapDest" class="mapDest hidden" aria-hidden="true"></div>
+                    <div id="mapDot" class="mapDot hidden" aria-hidden="true"></div>
+                  </div>
+                </div>
+              </div>
+        
+              <div class="mapFooter">
+  <div class="mapTravelSettings" aria-label="Travel method">
+    <label class="set compact">
+      <span class="muted">Method</span>
+      <select id="mapTravelMethod" class="mapSelect">
+        <option value="walk">Walk</option>
+      </select>
+    </label>
+
+    <label class="set compact" aria-label="Map zoom">
+      <span class="muted">Zoom</span>
+      <input id="mapZoom" type="range" min="1" max="16" step="0.5" value="10" />
+      <span id="mapZoomVal" class="muted small">10×</span>
+    </label>
+    <button id="mapZoomWorld" class="ghost">World</button>
+
+    <label class="check small" title="Toggle exploration fog-of-war">
+      <input id="mapFogToggle" type="checkbox" />
+      <span>Fog</span>
+    </label>
+  </div>
+
+  <div class="mapTravelBar">
+    <div class="mapTravelInfo" id="mapTravelInfo">Select a discovered marker, then Travel.</div>
+    <div class="mapTravelBtns">
+      <button id="mapTravelGo" class="primary" disabled>Travel</button>
+      <button id="mapTravelClear" class="ghost" disabled>Clear</button>
+    </div>
+  </div>
+
+  <div id="mapTravelProgress" class="mapTravelProgress hidden" aria-label="Travel progress">
+                  <div class="mapProgBar" aria-hidden="true"><div id="mapTravelProgressFill" class="mapProgFill"></div></div>
+                  <div id="mapTravelProgressText" class="mapProgText">—</div>
+                  <button id="mapTravelCancel" class="ghost">Cancel</button>
+                </div>
+</div>
+
+            </div>
+      </section>
+
+
+      <section class="bookView hidden" id="bookViewPanel" aria-label="Book view">
+        <div class="bookHeader">
+          <div class="bookTitle">Aetheryn — Book</div>
+          <div class="bookActions">
+            <button id="bookRefresh" class="ghost">Refresh</button>
+            <label class="check small"><input id="bookAuto" type="checkbox" checked /> <span>Auto</span></label>
+            <button id="bookSave" class="ghost">Save</button>
+            <button id="journalToggle" class="ghost">Journal</button>
+          </div>
+        </div>
+        <div class="bookBody">
+          <aside id="journalPane" class="journalPane" aria-label="Journal index">
+            <div class="journalTop">
+              <input id="journalSearch" type="text" placeholder="Search journal…" />
+              <button id="journalClear" class="ghost small" type="button">Clear</button>
+              <button id="journalPin" class="ghost small" type="button" title="Pin current beat">Pin</button>
+            </div>
+            <div class="journalSectionTitle">Threads</div>
+            <div id="threadList" class="threadList"></div>
+            <div class="journalSectionTitle">Entries</div>
+            <div id="journalList" class="journalList"></div>
+          </aside>
+          <div id="bookText" class="bookText" role="article" aria-label="Book transcript"></div>
+        </div>
+      </section>
+      <section class="codexView hidden" id="codexViewPanel" aria-label="Codex view">
+        <div class="panelHead">
+          <div class="titleRow">
+            <div class="title">Codex</div>
+            <div class="subtle" id="codexSub">Discoveries, relationships, and canon search.</div>
+          </div>
+        </div>
+
+        <div class="codexTabs" id="codexTabs" role="tablist" aria-label="Codex modes">
+          <button class="codexTab active" data-codextab="discover" role="tab" aria-selected="true">Discovery</button>
+          <button class="codexTab" data-codextab="search" role="tab" aria-selected="false">Search</button>
+          <button class="codexTab" data-codextab="relations" role="tab" aria-selected="false">Relations</button>
+          <button class="codexTab" data-codextab="badges" role="tab" aria-selected="false">Badges</button>
+        </div>
+
+        <div class="codexPanel active" id="codexPanelDiscover" role="tabpanel">
+          <div class="hint" style="margin:10px 0">Entries unlock automatically as you encounter places, forces, items, and named weirdness.</div>
+          <div id="codexDiscoverList" class="codexDiscoverList"></div>
+        </div>
+
+        <div class="codexPanel" id="codexPanelSearch" role="tabpanel">
+          <div class="codexBar">
+            <input id="codexQuery" type="text" placeholder="Search canon: e.g., residue, Frostveil, ward, STRIKE" />
+            <button id="codexGo" class="btn">Search</button>
+          </div>
+          <div id="codexResults" class="codexResults"></div>
+        </div>
+
+        <div class="codexPanel" id="codexPanelRelations" role="tabpanel">
+          <div class="hint" style="margin:10px 0">Purely descriptive. This does not change outcomes—just helps you remember who likes you and who wants you to stop existing.</div>
+          <div class="relBar">
+            <input id="relName" type="text" placeholder="Add NPC / faction…" />
+            <button id="relAdd" class="btn">Add</button>
+          </div>
+          <div id="relList" class="relList"></div>
+        </div>
+
+        <div class="codexPanel" id="codexPanelBadges" role="tabpanel">
+          <div class="hint" style="margin:10px 0">Cosmetic milestones. No power, no boosts—just proof you survived your own decisions.</div>
+          <div id="badgeList" class="badgeList"></div>
+        </div>
+      </section>
+
+      <section class="forcesView hidden" id="forcesViewPanel" aria-label="Forces view">
+        <div class="panelHead">
+          <div class="titleRow">
+            <div class="title">Forces</div>
+            <div class="subtle" id="forcesSub">Units / Retinues are tracked as abstract formations (no horde-as-party).</div>
+          </div>
+        </div>
+
+        <div id="forcesControls" class="forcesControls">
+          <input id="unitName" type="text" placeholder="Unit name (e.g., River Militia)" />
+          <label class="miniLabel">STR
+            <input id="unitStr" type="number" min="1" max="10" value="4" />
+          </label>
+          <label class="miniLabel">Morale
+            <input id="unitMorale" type="number" min="-3" max="5" value="2" />
+          </label>
+          <label class="miniLabel">Supply
+            <select id="unitSupply">
+              <option value="stable" selected>stable</option>
+              <option value="thin">thin</option>
+              <option value="starving">starving</option>
+              <option value="flush">flush</option>
+            </select>
+          </label>
+          <button id="unitCreate" class="btn">Create Unit</button>
+        </div>
+
+        <div id="forcesList" class="forcesList"></div>
+      </section>
+
+
+      <aside class="side" aria-label="Player HUD">
+        <div class="sideCard" id="charCard">
+          <div class="sideTitleRow">
+            <div class="sideTitleLeft">
+              <div class="sideTitle">Character</div>
+              <select id="hudCharSelect" class="selectSmall hudCharSelect hidden" aria-label="Active character"></select>
+            </div>
+            <div class="miniTabs" id="charTabs" role="tablist" aria-label="Character tabs">
+              <button class="miniTab active" data-tab="vitals" role="tab" aria-selected="true">Vitals</button>
+              <button class="miniTab" data-tab="items" role="tab" aria-selected="false">Items</button>
+              <button class="miniTab" data-tab="equipment" role="tab" aria-selected="false">Equipment</button>
+              <button class="miniTab" data-tab="stats" role="tab" aria-selected="false">Stats</button>
+            </div>
+          </div>
+
+          <div class="charPanels">
+            <div class="charPanel active" data-panel="vitals" role="tabpanel">
+              <div class="vitals">
+                <div class="vital">
+                  <div class="k">HP</div>
+                  <div id="hpVal" class="v">—</div>
+                  <div class="meter"><div id="hpBar" class="fill"></div></div>
+                </div>
+                <div class="vital">
+                  <div class="k">MP</div>
+                  <div id="mpVal" class="v">—</div>
+                  <div class="meter"><div id="mpBar" class="fill"></div></div>
+                </div>
+                <div class="vital">
+                  <div class="k">Stamina</div>
+                  <div id="stamVal" class="v">—</div>
+                  <div class="meter"><div id="stamBar" class="fill"></div></div>
+                </div>
+              </div>
+
+              <div class="locLine">
+                <span class="k">Location</span>
+                <span id="locVal" class="locVal">START</span>
+              </div>
+
+              <div class="partyBlock">
+                <div class="partyTitle">Party</div>
+                <div id="partyList" class="partyList"></div>
+              </div>
+
+              <div class="assetBlock">
+                <div class="partyTitle">World Assets Here</div>
+                <div id="assetHereList" class="partyList"></div>
+                <div id="houseActions" class="houseActions hidden">
+                  <button id="restHereBtn" class="ghost">Rest</button>
+                  <button id="stashHereBtn" class="ghost">Stash</button>
+                </div>
+              </div>
+            </div>
+
+            <div class="charPanel" data-panel="items" role="tabpanel">
+              <div class="invHeaderRow">
+                <div class="invTitle">Inventory</div>
+                <div class="invTools">
+                  <input id="invSearch" class="inputSmall" placeholder="Search items…" autocomplete="off" />
+                  <select id="invSort" class="selectSmall" aria-label="Sort inventory">
+                    <option value="name">Name</option>
+                    <option value="qty">Quantity</option>
+                    <option value="recent">Recent</option>
+                  </select>
+                </div>
+              </div>
+
+              <div id="invCats" class="invCats" aria-label="Inventory categories"></div>
+
+              <details class="invActions">
+                <summary>Quick actions</summary>
+                <div class="buyRow consumeRow" style="margin-top:10px;">
+                  <input id="consumeItem" class="inputSmall" placeholder="Consume (e.g., Ration)" autocomplete="off" />
+                  <input id="consumeQty" class="inputSmall qty" type="number" min="1" step="1" value="1" aria-label="Consume quantity" />
+                  <button id="consumeBtn" class="ghost small" title="Consume an item (code-authoritative)">Consume</button>
+                </div>
+                <div class="muted small" style="margin-top:6px;">Items only enter your inventory when you buy them or find them in play.</div>
+              </details>
+
+              <div id="invList" class="invGrid" aria-label="Inventory list"></div>
+
+              <div id="stashBlock" class="stashBlock hidden">
+                <div class="stashTitleRow">
+                  <div class="stashTitle">House Stash</div>
+                  <div id="stashMeta" class="stashMeta">—</div>
+                </div>
+                <div id="stashList" class="inv"></div>
+                <div class="stashControls" aria-label="House stash controls">
+                  <input id="stashItem" class="inputSmall" placeholder="Item (e.g., Torch)" autocomplete="off" />
+                  <input id="stashQty" class="inputSmall qty" type="number" min="1" step="1" value="1" aria-label="Quantity" />
+                  <button id="stashDeposit" class="ghost small" title="Move from Inventory → Stash">Deposit</button>
+                  <button id="stashWithdraw" class="ghost small" title="Move from Stash → Inventory">Withdraw</button>
+                </div>
+                <div class="stashHint muted">Stash moves are handled by code (no AI bookkeeping). You can still narrate it in Play if you want.</div>
+              </div>
+            </div>
+
+            <div class="charPanel" data-panel="equipment" role="tabpanel">
+              <div class="invHeaderRow">
+                <div class="invTitle">Equipment</div>
+
+                <details class="equipAdvanced">
+                  <summary>Manual equip (advanced)</summary>
+                  <div class="buyRow" style="flex-wrap:wrap; gap:8px; justify-content:flex-end; margin-top:10px;">
+                    <select id="equipSlot" class="selectSmall" aria-label="Equipment slot">
+                      <option value="mainhand">Main hand</option>
+                      <option value="offhand">Off hand</option>
+                      <option value="armor">Armor</option>
+                      <option value="helm">Helm</option>
+                      <option value="cloak">Cloak</option>
+                      <option value="ring">Ring</option>
+                      <option value="amulet">Amulet</option>
+                      <option value="belt">Belt</option>
+                      <option value="boots">Boots</option>
+                      <option value="gloves">Gloves</option>
+                    </select>
+                    <input id="equipItem" class="inputSmall" placeholder="Item name" autocomplete="off" />
+                    <button id="equipBtn" class="ghost small" title="Equip 1 of this item into the slot">Equip</button>
+                    <button id="unequipBtn" class="ghost small" title="Unequip the slot back into inventory">Unequip</button>
+                  </div>
+                  <div class="muted small" style="margin-top:6px;">Equip/unequip is handled by code (no AI bookkeeping).</div>
+                </details>
+
+                <div class="muted small" style="margin-top:6px;">Drag inventory items onto slots to equip. Drag an equipped slot back to Inventory to unequip.</div>
+              </div>
+
+              <div class="equipDoll" id="equipDoll">
+                <div class="dollStage" aria-label="Equipment slots">
+                  <div class="dollBody" aria-hidden="true"></div>
+
+                  <div class="equipSlot slot-head" data-slot="helm"><div class="slotLabel">Head</div><div class="slotItem" data-slot-item>—</div></div>
+                  <div class="equipSlot slot-neck" data-slot="amulet"><div class="slotLabel">Neck</div><div class="slotItem" data-slot-item>—</div></div>
+                  <div class="equipSlot slot-cloak" data-slot="cloak"><div class="slotLabel">Cloak</div><div class="slotItem" data-slot-item>—</div></div>
+                  <div class="equipSlot slot-armor" data-slot="armor"><div class="slotLabel">Armor</div><div class="slotItem" data-slot-item>—</div></div>
+                  <div class="equipSlot slot-hands" data-slot="gloves"><div class="slotLabel">Hands</div><div class="slotItem" data-slot-item>—</div></div>
+                  <div class="equipSlot slot-belt" data-slot="belt"><div class="slotLabel">Belt</div><div class="slotItem" data-slot-item>—</div></div>
+                  <div class="equipSlot slot-feet" data-slot="boots"><div class="slotLabel">Feet</div><div class="slotItem" data-slot-item>—</div></div>
+                  <div class="equipSlot slot-ring" data-slot="ring"><div class="slotLabel">Ring</div><div class="slotItem" data-slot-item>—</div></div>
+                  <div class="equipSlot slot-mainhand" data-slot="mainhand"><div class="slotLabel">Main</div><div class="slotItem" data-slot-item>—</div></div>
+                  <div class="equipSlot slot-offhand" data-slot="offhand"><div class="slotLabel">Off</div><div class="slotItem" data-slot-item>—</div></div>
+                </div>
+
+                <div class="equipOverflowTitle">Other equipped</div>
+                <div id="equipList" class="inv"></div>
+
+                <div class="equipOverflowTitle">Inventory (drag to equip)</div>
+                <div id="invListEquip" class="inv" aria-label="Inventory mirror for equipment"></div>
+              </div>
+            </div>
+
+            <div class="charPanel" data-panel="stats" role="tabpanel">
+              <div id="statsList" class="statsList"></div>
+            </div>
+          </div>
+        </div>
+        
+<div class="sideCard" id="canonCard">
+          <div class="sideTitle">Canon Tokens</div>
+          <pre id="canon" class="canon"></pre>
+        </div>
+      </aside>
+    </main>
+
+    <section class="choiceDock" aria-label="Choices">
+      <div class="choiceDockHeader">
+        <div class="choiceDockTitle">Choices</div>
+</div>
+      <div id="altActions" class="altActions dock" aria-label="Quick actions"></div>
+      <div id="choices" class="choices dock"></div>
+      <div class="dockHint">Tip: click a choice to send. Shift+click to edit before sending.</div>
+    </section>
+
+    <footer class="composer" aria-label="Action composer">
+      <select id="actorSelect" class="actorSelect hidden" aria-label="Active character"></select>
+      <textarea id="input" rows="2" placeholder="Type your action…"></textarea>
+      <button id="send" class="primary">Send</button>
+    </footer>
+  </div>
+
+  <!-- Intake Modal -->
+  <div id="intakeModal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modalCard">
+      <div class="modalHeader">
+        <div>
+          <div class="modalTitle">Intake</div>
+          <div class="modalSub" id="intakeSub">Answer in order. No narration starts until intake is complete.</div>
+        </div>
+        <div class="badge" id="intakeRole">Player</div>
+      </div>
+
+      <div class="progress">
+        <div id="progressBar" class="bar"></div>
+      </div>
+
+      <div class="qBlock">
+        <div class="qNum" id="qNum">Q0</div>
+        <div class="qText" id="qText">...</div>
+      </div>
+
+      <div class="aBlock" id="aBlock"></div>
+
+      <div class="modalActions">
+        <button id="intakeBack">Back</button>
+        <button id="intakeNext" class="primary">Next</button>
+      </div>
+    </div>
+  </div>
+
+
+  
+
+
+
+  
+  <!-- Stat Allocation Modal -->
+  <div id="statsModal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modalCard">
+      <div class="modalHeader">
+        <div>
+          <div class="modalTitle" id="statsTitle">Stat Allocation</div>
+          <div class="modalSub" id="statsSub">Roll your six abilities. No play begins until stats are locked.</div>
+        </div>
+        <div class="badge" id="statsRole">Player</div>
+      </div>
+
+      <div id="statsBody" class="statsBody"></div>
+
+      <div class="modalActions">
+        <button id="statsSubmit" class="primary" title="Submit your 3d6 rolls for each stat">Lock Stats</button>
+        <button id="statsClose">Close</button>
+      </div>
+    </div>
+  </div>
+
+
+<!-- Action Roll Modal -->
+<div id="actionRollModal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modalCard">
+    <div class="modalHeader">
+      <div>
+        <div class="modalTitle">Roll Required</div>
+        <div class="modalSub" id="actionRollSub">Roll 3d6 and drop the lowest die (sum of the top two).</div>
+      </div>
+      <div class="badge">ROLL</div>
+    </div>
+
+    <div class="aBlock">
+      <div class="help">
+        Roll <b>3d6</b>, drop the lowest die, then use the kept total as the discrete outcome input.
+      </div>
+
+      <div class="field wide">
+        <label>My physical roll (kept total)</label>
+        <input id="actionRollTotal" type="number" min="2" max="12" inputmode="numeric" placeholder="2–12">
+        <div class="help">If you roll real dice, type the kept total here. Otherwise press <b>AI Roll</b> (site dice roller).</div>
+      </div>
+
+      <div id="actionRollResult" class="statsResult" style="display:none"><pre></pre></div>
+    </div>
+
+    <div class="modalActions">
+      <button id="actionRollAi" title="Use the site dice roller (not the AI model)">AI Roll</button>
+      <button id="actionRollSubmit" class="primary">Submit My Dice</button>
+    </div>
+  </div>
+</div>
+
+<!-- Turn Order (Initiative) Modal -->
+<div id="turnOrderModal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modalCard">
+    <div class="modalHeader">
+      <div>
+        <div class="modalTitle">Turn Order</div>
+        <div class="modalSub" id="turnOrderSub">Roll 1d20 for initiative.</div>
+      </div>
+      <div class="badge">TURN</div>
+    </div>
+
+    <div class="aBlock">
+      <div class="help" id="turnOrderHelp">
+        Roll <b>1d20</b>. Highest goes first.
+      </div>
+
+      <div class="field wide">
+        <label>My physical roll (1–20)</label>
+        <input id="turnOrderTotal" type="number" min="1" max="20" inputmode="numeric" placeholder="1–20">
+        <div class="help">Type your physical d20 roll, or press <b>AI Roll</b> to use the site dice roller.</div>
+      </div>
+
+      <div id="turnOrderResult" class="statsResult" style="display:none"><pre></pre></div>
+    </div>
+
+    <div class="modalActions">
+      <button id="turnOrderAi" title="Use the site dice roller (not the AI model)">AI Roll</button>
+      <button id="turnOrderSubmit" class="primary">Submit</button>
+    </div>
+  </div>
+</div>
+
+  <!-- Load Game Modal -->
+  <div id="loadModal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modalCard">
+      <div class="modalHeader">
+        <div>
+          <div class="modalTitle">Load game</div>
+          <div class="modalSub">Choose a saved room state from the server’s <code>server/saves</code> folder.</div>
+        </div>
+        <button id="loadClose" class="iconBtn" title="Close" aria-label="Close load modal">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+            <path fill="currentColor" d="M18.3 5.71a1 1 0 0 0-1.41 0L12 10.59 7.11 5.7A1 1 0 1 0 5.7 7.11L10.59 12 5.7 16.89a1 1 0 1 0 1.41 1.41L12 13.41l4.89 4.89a1 1 0 0 0 1.41-1.41L13.41 12l4.89-4.89a1 1 0 0 0 0-1.4Z"/>
+          </svg>
+        </button>
+      </div>
+
+      <div class="aBlock">
+        <div class="field wide">
+          <label>Save slot</label>
+          <select id="loadSelect"></select>
+          <div class="help" id="loadMeta">—</div>
+        </div>
+      </div>
+
+      <div class="modalActions">
+        <button id="loadCancel" class="ghost">Cancel</button>
+        <button id="loadGo" class="primary">Load</button>
+      </div>
+    </div>
+  </div>
+
+<!-- Settings Drawer -->
+  <div id="drawerBackdrop" class="backdrop hidden" aria-hidden="true"></div>
+  <aside id="settingsDrawer" class="drawer hidden" aria-label="Settings" role="dialog" aria-modal="true">
+    <div class="drawerHeader">
+      <div>
+        <div class="drawerTitle">Settings</div>
+        <div class="drawerSub">Layout, color, and comfort. Saved to this browser.</div>
+      </div>
+      <button id="closeSettings" class="iconBtn" title="Close settings" aria-label="Close settings">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+          <path fill="currentColor" d="M18.3 5.71a1 1 0 0 0-1.41 0L12 10.59 7.11 5.7A1 1 0 1 0 5.7 7.11L10.59 12 5.7 16.89a1 1 0 1 0 1.41 1.41L12 13.41l4.89 4.89a1 1 0 0 0 1.41-1.41L13.41 12l4.89-4.89a1 1 0 0 0 0-1.4Z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="drawerBody">
+      <div class="setGrid">
+        <label class="set">
+          <span>Theme</span>
+          <select id="uiTheme">
+            <option value="obsidian">Obsidian</option>
+            <option value="cinder">Cinder</option>
+            <option value="verdant">Verdant</option>
+            <option value="aether">Aether</option>
+            <option value="bone">Bone</option>
+            <option value="nocturne">Nocturne</option>
+            <option value="bloodmoon">Bloodmoon</option>
+            <option value="frost">Frostglass</option>
+            <option value="cathedral">Cathedral</option>
+            <option value="abyss">Abyss</option>
+            <option value="emberglass">Emberglass</option>
+            <option value="sunken">Sunken</option>
+            <option value="storm">Storm</option>
+          </select>
+        </label>
+
+        <label class="set">
+          <span>Accent</span>
+          <input id="uiAccent" type="color" value="#7aa2ff" />
+        </label>
+
+        <label class="set">
+          <span>Layout</span>
+          <select id="uiLayout">
+            <option value="standard">Standard (sidebar right)</option>
+            <option value="left">Standard (sidebar left)</option>
+            <option value="slim">Slim sidebar</option>
+            <option value="wide">Wide</option>
+            <option value="dashboard">Dashboard (all info)</option>
+            <option value="ultra">Ultra-wide</option>
+            <option value="focus">Focus (no sidebar)</option>
+            <option value="theater">Theater (narrow log)</option>
+            <option value="compact">Compact (sidebar below)</option>
+          </select>
+        </label>
+
+        <label class="check set wide">
+          <input id="uiReaderMode" type="checkbox" />
+          <span>Reader mode (Book tab)</span>
+        </label>
+
+        <label class="set">
+          <span>Reader style</span>
+          <select id="uiReaderStyle">
+            <option value="classic">Classic (ornaments)</option>
+            <option value="minimal">Minimal</option>
+          </select>
+        </label>
+
+        <label class="set">
+          <span>Roundness</span>
+          <input id="uiRadius" type="range" min="10" max="28" step="1" />
+        </label>
+
+        <label class="set">
+          <span>Glass</span>
+          <input id="uiGlass" type="range" min="40" max="95" step="1" />
+        </label>
+
+        <label class="set">
+          <span>Font size</span>
+          <input id="uiFont" type="range" min="90" max="115" step="1" />
+        </label>
+
+        <label class="set">
+          <span>Input opacity</span>
+          <input id="uiInput" type="range" min="20" max="90" step="1" />
+        </label>
+
+        <label class="check set wide">
+          <input id="uiReduceMotion" type="checkbox" />
+          <span>Reduce motion</span>
+        </label>
+
+        <label class="check set wide">
+          <input id="uiWindowed" type="checkbox" />
+          <span>Unlock panels (drag/resize)</span>
+        </label>
+      </div>
+
+        
+
+      <div class="section" style="margin-top:14px">
+        <div class="sectionHeader">
+          <div>
+            <div class="sectionTitle">Text-to-Speech</div>
+            <div class="sectionSub">Reads narration aloud so you can play hands-free. Runs locally in your browser (no extra server load).</div>
+          </div>
+        </div>
+
+        <div class="setGrid">
+          <label class="check set wide">
+            <input id="ttsEnabled" type="checkbox" />
+            <span>Enable TTS</span>
+          </label>
+
+          <label class="check set wide">
+            <input id="ttsAutoNarration" type="checkbox" checked />
+            <span>Auto-read new GM narration</span>
+          </label>
+
+          <label class="check set wide">
+            <input id="ttsReadChoices" type="checkbox" />
+            <span>Read choices after narration</span>
+          </label>
+
+          <label class="check set wide">
+            <input id="ttsInterrupt" type="checkbox" checked />
+            <span>Interrupt current speech on new narration</span>
+          </label>
+
+          <label class="set wide">
+            <span>Voice</span>
+            <select id="ttsVoice">
+              <option value="">Auto</option>
+            </select>
+          </label>
+
+          <label class="set">
+            <span>Rate</span>
+            <input id="ttsRate" type="range" min="0.70" max="1.30" step="0.05" />
+          </label>
+
+          <label class="set">
+            <span>Pitch</span>
+            <input id="ttsPitch" type="range" min="0.70" max="1.30" step="0.05" />
+          </label>
+
+          <label class="set">
+            <span>Volume</span>
+            <input id="ttsVolume" type="range" min="0" max="1" step="0.05" />
+          </label>
+        </div>
+
+        <div class="drawerActions" style="margin-top:10px">
+          <button id="ttsSpeakLast" class="ghost">Speak last</button>
+          <button id="ttsTest" class="ghost">Test</button>
+          <button id="ttsStop" class="ghost danger">Stop</button>
+        </div>
+
+        <div id="ttsHint" class="drawerNote" style="margin-top:10px">—</div>
+      </div>
+
+<div class="section" style="margin-top:14px">
+        <div class="sectionHeader">
+          <div>
+            <div class="sectionTitle">Soundscape</div>
+            <div class="sectionSub">Optional ambience (generated locally). Toggle it off for pure silence.</div>
+          </div>
+        </div>
+        <div class="setGrid">
+          <label class="check set wide">
+            <input id="ambEnabled" type="checkbox" />
+            <span>Enable soundscape</span>
+          </label>
+          <label class="check set wide">
+            <input id="ambAuto" type="checkbox" checked />
+            <span>Auto-select by location</span>
+          </label>
+          <label class="set wide">
+            <span>Style</span>
+            <select id="ambStyle">
+              <option value="auto">Auto</option>
+              <option value="wind">Wind</option>
+              <option value="forest">Forest</option>
+              <option value="desert">Desert</option>
+              <option value="sea">Sea</option>
+              <option value="ruins">Ruins</option>
+              <option value="city">City</option>
+            </select>
+          </label>
+          <label class="set">
+            <span>Intensity</span>
+            <input id="ambIntensity" type="range" min="0" max="1" step="0.05" />
+          </label>
+        </div>
+      </div>
+
+<div class="section" style="margin-top:14px">
+        <div class="sectionHeader">
+          <div>
+            <div class="sectionTitle">AI Backend</div>
+            <div class="sectionSub">Shows the active provider/model. If you're using Ollama locally, the host can switch models here. For hosted APIs, select a provider and the server will auto-pick a valid model (you can still override via server/.env).</div>
+          </div>
+        </div>
+        <div class="setGrid">
+          <label class="set">
+            <span>Narrator provider</span>
+            <select id="aiNarratorProvider">
+              <option value="ollama">Local (Ollama)</option>
+              <option value="openai">OpenAI API</option>
+              <option value="grok">Grok (xAI)</option>
+            </select>
+          </label>
+
+          <label class="set">
+            <span>Narrator model</span>
+            <input id="aiNarratorModel" type="text" placeholder="Leave blank for auto (recommended)" />
+          </label>
+
+          <label class="set wide">
+            <span>Ollama model (local)</span>
+            <select id="aiModelSelect"></select>
+          </label>
+        </div>
+        <div class="drawerActions" style="margin-top:10px">
+          <button id="aiModelRefresh" class="ghost">Refresh</button>
+          <button id="aiModelApply" class="primary">Apply</button>
+          <button id="aiNarratorApply" class="ghost">Apply Narrator</button>
+        </div>
+        <div id="aiModelHint" class="drawerNote" style="margin-top:10px">—</div>
+      </div>
+
+      <div class="drawerActions">
+        <button id="uiReset" class="ghost">Reset</button>
+        <button id="layoutReset" class="ghost">Reset Layout</button>
+        <button id="uiDone" class="primary">Done</button>
+      </div>
+
+      <div class="drawerNote">
+        Tip: these settings are cosmetic only. They won’t change rules, canon, or saves.
+      </div>
+    </div>
+  </aside>
+
+  <div id="toastLayer" class="toastLayer" aria-live="polite"></div>
+
+
+  <div id="devPanel" class="devPanel hidden" role="dialog" aria-modal="true" aria-label="Dev console">
+    <div class="devPanelCard">
+      <div class="devHead">
+        <div class="devTitle">DEV • AI Trace</div>
+        <div class="devBtns">
+          <button id="devCopy" class="ghost" type="button">Copy</button>
+          <button id="devClear" class="ghost" type="button">Clear</button>
+          <button id="devClose" class="ghost" type="button">Close</button>
+        </div>
+      </div>
+      <div class="devMeta">
+        <div id="devMetaLine" class="devMetaLine">—</div>
+      </div>
+      <pre id="devLog" class="devLog" aria-label="Dev log output"></pre>
+    </div>
+  </div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="app/app_core.js?v=44b-btn-cachefix1"></script>
+  <script src="app/app_chat_save_intake.js?v=44b-btn-cachefix1"></script>
+  <script src="app/app_hud_inventory.js?v=44b-btn-cachefix1"></script>
+  <script src="app/app_crafting.js?v=44b-btn-cachefix1"></script>
+  <script src="app/app_bg_map.js?v=44b-btn-cachefix1"></script>
+  <script src="app/app_lobby_codex_forces.js?v=44b-btn-cachefix1"></script>
+  <script src="app/app_tts.js?v=44b-btn-cachefix1"></script>
+  <script src="app/app_fun.js?v=44b-btn-cachefix1"></script>
+  <script src="app/app_dev.js?v=44b-btn-cachefix1"></script>
+</body>
+</html>

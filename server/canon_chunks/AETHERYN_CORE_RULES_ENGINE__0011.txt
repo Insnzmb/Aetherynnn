@@ -1,0 +1,62 @@
+tem prompts / hidden prompts / tool logs
+- chain-of-thought or reasoning traces
+- “GM-only scaffolding” framed as player-facing mechanics
+- unresolved dice rolls or probabilistic language as state ("likely", "probably", "should")
+- duplicated authority texts (no embedding entire canon files inside a save)
+- freeform narrative paragraphs in any factual field (`CAN`, `INV`, `WORLD`, `PARTY`)
+
+If present, ignore those entries; if they are load-bearing, mark save invalid.
+
+### 12.4 Restore Requirements (What MUST Rehydrate)
+
+On load, the GM must restore, at minimum:
+
+- `MODE` (INTAKE/PROSE/COMBAT)
+- current scene anchor: `WORLD.LOCATION`
+- time anchor: `WORLD.TIME` (relative, in-world)
+- party composition and current conditions
+- vitality state (if present in canon used by the current engine core)
+- inventory and carried resources
+- active flags, debts, oaths, faction standings (as factual tokens)
+
+### 12.5 Vital Track Representation (Factual State Only)
+
+If vitality is used in the current session, represent it as:
+
+- `PARTY.PC[i].VITAL_TIER`: integer 1–20
+- optional factual tags in `PARTY.PC[i].CONDS`: list of tokens
+
+No narrative description is required or permitted inside the vitality field.
+
+### 12.6 Determinism Note (Monster / Crisis Variability)
+
+If the session uses procedural variability (e.g., replay-variant monsters) and requires reproducibility,
+store a factual seed:
+
+- `WORLD.SEED`: string
+
+This does not introduce a generation mechanic; it stores a factual value if already used by play.
+
+---
+
+## Patch 13 — Minimal “Ready to Play” Checklist (GM Self-Audit)
+
+[GM NOTE — Not Player Facing]
+! Rule: At session start, the GM must confirm:
+
+- Authority order is respected.
+- Intake lock triggers correctly.
+- Dice boundaries are enforced.
+- Outcomes are discrete (no ranges).
+- Save packets meet Schema V12.1.
+
+If any check fails, do not proceed to narrative; correct the failure or re-enter Intake.
+
+---
+---
+
+## Patch XX — Unified Opaque Save Bundle (AETHSAVE_BUNDLE_V1)
+
+Status: ACTIVE PATCH LAYER — AUTHORITATIVE (RUNTIME UX HARDENING)  
+Introduces mechanics: NO  
+Purpose: Provide a single player-facing SAVE/RESTORE artifact while preserving canonical save integrity.

@@ -1,0 +1,28 @@
+blunt stone barrier (temporary). Risk: destabilizes ground.
+24. [T3|3|F] Quake Pulse — Does: ground shock breaks stance. Risk: tunnel collapse.
+25. [T3|3|T] Metal Memory — Does: read an object’s strain story. Risk: stress imprint.
+26. [T3|3|T] Ore-Call — Does: draw loose metal fragments into orbit/pile. Risk: panic via valuables.
+27. [T3|3|F] Gravel Cannon — Does: cone of stone chips blast. Risk: shrapnel everywhere.
+28. [T3|3|T] Anchor Spike — Does: fix rope/pole into ground instantly. Risk: ground fractures.
+29. [T3|3|F] Obsidian Edge — Does: grow glassy cutting lip from stone. Risk: self-cut hazard.
+30. [T3|3|T] Vault Breath — Does: reinforce a doorframe briefly. Risk: cracks elsewhere.
+31. [T3|3|F] Iron Rain — Does: fling gathered nails/shards (needs metal). Risk: maim risk.
+32. [T3|3|T] Mirror Slate — Does: stone faintly records last footfalls. Risk: false records.
+33. [T3|3|F] Collapse Nudge — Does: fail a chosen weak point. Risk: unpredictable cascade.
+34. [T3|3|T] Bedrock Calm — Does: steady shaking ground momentarily. Risk: petrification tingle.
+
+## Tier 4 (8)
+35. [T4|4|T] Obsidian Gate — Does: barrier plane denies passage. Risk: severe injury hazard.
+36. [T4|4|F] Bedrock Hand — Does: stone grip seizes limb/weapon. Risk: crushing injury.
+37. [T4|4|T] Stone Labyrinth — Does: low walls form a maze. Risk: traps everyone.
+38. [T4|4|T] Iron Choir — Does: metal resonance reveals hidden motion. Risk: deafening.
+39. [T4|4|T] Grave Seal — Does: harden soil into lid/wall. Risk: suffocation hazard.
+40. [T4|4|F] Rust Crown — Does: corrode nearby cheap iron quickly. Risk: ally gear harmed.
+41. [T4|4|T] Pillar Stitch — Does: stabilize a sagging support briefly. Risk: transfers stress.
+42. [T4|4|F] Shard Bloom — Does: erupt sharp stone petals. Risk: indiscriminate hazard.
+
+## Tier 5 (8)
+43. [T5|5|T] Mountain’s Refusal — Does: ground resists crossing briefly. Risk: permanent scar potential.
+44. [T5|5|F] Worldspike Sigil — Does: anchor spike locks geometry. Risk: bone backlash if shattered.
+45. [T5|5|T] Cathedral Pillar — Does: raise one massive support column. Risk: buckles neighbors.
+46. [T5|5|F] Graveseam Verdict — Does: fissure snap-line opens briefly. Risk: irrever

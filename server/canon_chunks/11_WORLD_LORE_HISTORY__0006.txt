@@ -1,0 +1,60 @@
+ast compliant step**.
+- Re-issue the locked element **verbatim**.
+- Continue from there with literal compliance.
+
+#### CONFLICT RESOLUTION
+If two texts conflict:
+- Check **Changelog** for overrides.
+- Prefer **P02 over P01** when covering the same topic.
+- Prefer **LAW/RULE** files over narrative examples where they disagree.
+
+(Logged: 2026-02-09)
+---
+
+## ADDENDUM — REALISM SEVERITY SCALE (REFERENCE; INTAKE-LOCKED)
+Version date: 2026-02-09
+Status: AUTHORITATIVE (REFERENCE)
+Introduces mechanics: NO (definitions only)
+
+**1 — Story-Cushioned Reality**
+The world subtly bends toward protagonists. Coincidence favors survival. Mistakes sting but rarely end arcs.
+
+**2 — Gentle Realism**
+Reality intrudes occasionally. Failure exists, but timing and framing soften consequences.
+
+**3 — Plausible Mercy**
+Most systems behave realistically, but chance still intervenes at critical moments.
+
+**4 — Neutral Reality**
+No special protection. Outcomes follow logic, but coincidences still occur naturally.
+
+**5 — Indifferent Baseline**
+The world does not care who you are. Survival depends on decisions, not narrative importance.
+
+**6 — Harsh Probability**
+Bad timing matters. Bureaucracy, fatigue, illness, and error carry weight.
+
+**7 — Unforgiving Structure**
+Institutions do not bend. Failure often resolves quietly and permanently.
+
+**8 — Brutal Indifference**
+Luck rarely intervenes. Anticlimax is common. Recovery is difficult.
+
+**9 — Cold Reality**
+No narrative rescue. Death, loss, and collapse may arrive without warning or meaning.
+
+**10 — Absolute Realism**
+The world is not a story. It is a process. Endings may be abrupt, unfinished, or unseen.
+
+---
+
+### DIGITAL AUTHORSHIP & ATTESTATION
+
+I, **Insane Zombie (aka Brian Zinsmeyer)**, attest that this document is an original work
+created and authored by me as the **sole creator** of the AETHERYN setting, system, and canon.
+
+This document was developed with the assistance of **ChatGPT**, used strictly as a
+non-authoring tool for drafting, refinement, organization, and technical clarification.
+ChatGPT holds **no authorship, ownership, or creative rights** over this material.
+
+All creative direction, final decisions, canon authority, and s

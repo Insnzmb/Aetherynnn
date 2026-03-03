@@ -1,0 +1,10 @@
+discrete resolution mechanics
+-   Does not modify dice boundaries
+-   Does not override save determinism
+-   Does not introduce retroactive canon manipulation
+
+It establishes cosmological context only.
+
+------------------------------------------------------------------------
+
+END OF AMENDMENT

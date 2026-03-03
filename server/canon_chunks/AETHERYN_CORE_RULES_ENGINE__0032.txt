@@ -1,0 +1,81 @@
+, or save/state integrity.
+
+
+==============================================================================
+SECTION: SAVE_SYSTEM (embedded from legacy 10_SAVE_SYSTEM.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# ADD --- Narrative Exclusion Clause
+
+Status: AUTHORITATIVE --- SAVE INTEGRITY\
+Introduces mechanics: NO
+
+------------------------------------------------------------------------
+
+Narrative prose must never enter:
+
+-   CAN
+-   INV
+-   WORLD
+-   PARTY
+-   FLAGS
+-   RELATIONS
+
+Save packets store factual state only.
+
+Epic narration exists only in runtime output. Never in storage.
+---
+
+# ADD — SINGLE-FILE SAVE (PLAYER UX)
+
+Status: AUTHORITATIVE — PLAYER WORKFLOW  
+Introduces mechanics: NO  
+Purpose: Players should never juggle multiple files/blocks.
+
+## How to Save
+
+Type:
+
+SAVE NOW
+
+The GM will ask whether you want a **book-formatted narrative export** (YES/NO).
+
+- If you answer **YES**, the GM will provide a downloadable chapter-style text export **first** (non-canon), then output your **one** opaque save bundle.
+- If you answer **NO**, the GM will output your **one** opaque save bundle immediately.
+
+The save bundle is always the **final** output of the SAVE NOW procedure.
+
+Optional (any time outside locked procedures): you may also use:
+
+EXPORT BOOK
+
+to request a fresh book-formatted export without saving.
+
+
+## How to Resume
+
+Paste the bundle exactly and type:
+
+RESTORE
+
+Do not edit the bundle. Do not split it. One paste only.
+
+## What’s inside (simple explanation)
+
+- Your *real* save (facts-only) is inside the bundle.
+- The last prose + last choices are stored as an AUX replay buffer for seamle

@@ -1,0 +1,88 @@
+through the
+wandering rupture.
+
+They are not inherently evil entities. They are pressure phenomena.
+
+This aligns with Monster Doctrine without altering mechanical templates.
+
+------------------------------------------------------------------------
+
+# V. COMBAT PHILOSOPHY REBALANCE
+
+Magic and Martial mastery are parity-based through asymmetry.
+
+## Mage Strengths
+
+-   Environmental shaping
+-   Identity manipulation
+-   High-impact volatility
+
+## Mage Risks
+
+-   Strain accumulation
+-   Concentration vulnerability
+-   Residue exposure
+-   Divine attention
+
+## Warrior Strengths
+
+-   Tempo control
+-   Close-quarters disruption
+-   Resource reliability
+-   Tactical lethality
+
+## Warrior Risks
+
+-   No supernatural recovery
+-   Precision-dependent survival
+
+Epic duel doctrine: Victory belongs to the side that commits the first
+irreversible mistake.
+
+------------------------------------------------------------------------
+
+# VI. DIVINE RESPONSE
+
+Remaining gods operate with increased caution.
+
+They fear:
+
+-   Mortal coordination
+-   Convergent Mage + Warrior alignment
+-   Reassembly of the Godslayer Relic
+
+Divine interference increases rupture movement probability.
+
+------------------------------------------------------------------------
+
+# VII. ENGINE INTEGRITY
+
+This amendment:
+
+-   Does not alter discrete resolution mechanics
+-   Does not modify dice boundaries
+-   Does not override save determinism
+-   Does not introduce retroactive canon manipulation
+
+It establishes cosmological context only.
+
+------------------------------------------------------------------------
+
+END OF AMENDMENT
+
+
+==============================================================================
+SECTION: ECOLOGICAL_CONTINUITY (legacy 18_ECOLOGICAL_CONTINUITY_OF_AETHERYN.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or 

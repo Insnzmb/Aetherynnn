@@ -1,0 +1,44 @@
+
+6 — Elevated lethality. Recovery requires planning.
+7 — Severe opposition. Systems respond aggressively.
+8 — High mortality pressure. Mistakes compound quickly.
+9 — Extreme danger. Survival depends on precision and restraint.
+10 — Maximum lethality. The world does not cushion error.
+------------------------------------------------------------------------
+
+### 7. Realism severity (1--10)
+
+1 --- Heroic cinematic tone; wounds rarely linger; recovery is rapid;
+physics bends toward drama. 2 --- Light consequence; injuries matter
+briefly but rarely disable. 3 --- Grounded heroism; logistics
+occasionally relevant. 4 --- Resource tracking meaningful; travel time
+matters. 5 --- Standard realism baseline; wounds, fatigue, and scarcity
+are credible threats. 6 --- Injuries may persist; recovery requires
+effort or support. 7 --- Harsh realism; trauma, logistics, and
+institutional friction prominent. 8 --- Severe realism; survival
+pressure constant; moral complexity heightened. 9 --- Brutal realism;
+long-term consequences unavoidable; scarcity defines choices. 10 ---
+Unforgiving realism; systemic failure, psychological strain, and
+mortality are persistent factors.
+
+------------------------------------------------------------------------
+
+### 8. Adult content intensity (1--10)
+
+1 --- Fully family-friendly. No sexual content. Violence non-graphic.
+PG. 2 --- Mild thematic maturity. Non-graphic violence. PG. 3 --- Light
+mature themes. Fade-to-black intimacy only. PG-13. 4 --- Moderate mature
+themes. Implication permitted. PG-13. 5 --- Clear adult themes.
+Non-explicit intimacy. Moderate violence. PG-13 / R boundary. 6 ---
+Mature subject matter openly present. Non-graphic sexual references. R.
+7 --- Strong adult themes. Explicit references without explicit
+description. R. 8 --- Graphic violence permitted. Explicit sexual themes
+(non-detailed depiction). R / NC-17 boundary. 9 --- Very strong adult
+content. Explicit depiction allowed but not exploitative. NC-17. 10 ---
+Full adult intensity. graphic violence,
+disturbing themes. NC-17.
+
+PG rating changes occur at: Level 3 (PG-13) Level 5 (R threshold) Level
+9 (NC-17)
+
+-------------------------------------------------------------------

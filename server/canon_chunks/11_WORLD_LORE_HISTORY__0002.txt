@@ -1,0 +1,37 @@
+nless changed by an explicit in-world event recorded in canon.
+
+This includes (non-exhaustive):
+- Continents, coastlines, rivers, mountains
+- Regions, borders, and place-names
+- Cities, towns, villages, ruins, roads, ports
+- Landmarks, dungeons, unique sites
+- Characters (PCs, NPCs), factions, institutions
+- Creatures/species and unique entities
+- Maps, diagrams, and all visual references
+
+**No regeneration, variation, reinterpretation, or aesthetic drift is permitted.**
+
+### ABSOLUTE PROHIBITIONS (HARD LOCK)
+The following are **never allowed** unless explicitly authored and recorded as canon changes:
+- Generating alternate or “new” maps of the same world
+- Introducing new towns, landmarks, ruins, islands, borders, or labels
+- Visually implying capitals, fortresses, political centers, or ownership not canonized
+- Creating new characters/factions implicitly through images or labels
+- Decorative elements that suggest lore (sea monsters, banners, sigils, statues, castles) unless already canon
+- “Improved,” “cleaned up,” or stylistically altered versions of existing canon maps
+
+**Silence does not grant permission.**
+
+### IMAGE GENERATION RULES (BINDING)
+When any visual generation is allowed at all, it must follow these constraints:
+
+1. **Reference-Only Mode:** depict established canon only; no added detail, interpretation, or implication.
+2. **Consistency Over Variety:** do not vary the conceptual output across runs; avoid prompt-driven randomness that changes geography/identity.
+3. **Minimal, Archival Style:** survey plates / schematics only; avoid storybook illustration unless canon explicitly demands it.
+4. **Vagueness Over Invention:** if a detail is uncertain or not in canon, omit it. Blank space is preferred to guesswork.
+5. **Visuals Never Define Canon:** text canon outranks visuals; visuals may only mirror what is already locked.
+
+### MANDATORY EMBEDDED PROMPT (USE VERBATIM)
+Whenever any visual is generated, the following text **must** be included in the generation prompt and treated as immutable:
+
+> “This image must strictly adhere to established AETHERYN canon. Do not invent, alter, embellish, reinterpret, or imply any locations, characters, structures, bo

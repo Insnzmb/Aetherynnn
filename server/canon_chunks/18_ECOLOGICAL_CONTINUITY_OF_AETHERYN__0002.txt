@@ -1,0 +1,80 @@
+xtualize* monster manifestation.
+- Monster outcomes can create *aftereffects* that appear ecologically (carcass persistence shifts, scavenger surge, altered animal movement) **without reclassifying monsters as fauna**.
+
+End of Addendum.
+
+
+End of File.
+
+---
+
+
+
+---
+
+## VOL_09 — BESTIARY & ECOLOGY (RESTORED)
+Status: CANON — DESCRIPTIVE WORLD LAYER
+Introduces mechanics: NO
+Purpose: Restore the concrete fauna/ecology catalog so the world feels alive and repeatable.
+
+## Source: AETH_OPT_13_CATALOG_BESTIARY (embedded)
+
+## AETHERYN — Bestiary & Ecology (Consolidated, Verbatim)
+Version date: 2026-02-09
+
+---
+
+## VERBATIM SOURCE: AETH_P4_05_BESTIARY_BestiaryEcology__P01 (embedded)
+
+(Contents below are included **without modification** to preserve meaning.)
+
+---
+
+<!-- FAST-ROLE: WORLD -->
+
+## FILE: 09_BESTIARY_ECOLOGY.md
+
+## AETHERYN — Bestiary & Ecology (Authoritative Canon)
+
+## Version date: 2026-02-08 (PATCHED)
+
+PURPOSE:
+This file defines the non-humanoid life of Aetheryn as it exists within
+its ecological, magical, and historical pressures.
+
+Creatures in this file:
+- Are not Earth animals or simple analogues
+- Behave according to energy economics and environment
+- Exist independently of player interaction
+- Appear naturally through environmental description
+
+This file supports **VOL_09 — Bestiary & Ecology** as referenced in:
+→ FILE: 06_WORLD_LORE_LAWS.md
+
+---
+
+### ECOLOGICAL DESIGN LAW (CANON)
+
+Life in Aetheryn is shaped by:
+1. Scarcity and energy cost
+2. Ambient magical residue (hostile, unstable, leaky)
+3. Long-term coexistence with mortal civilization
+4. Catastrophic historical events that altered land and food webs
+
+No creature exists solely to threaten players.
+
+---
+
+### CREATURE ESCALATION (GM LAW — SHOW, DON’T TELL)
+
+Most non-human entities follow an escalation curve unless magically compelled:
+
+1. **Observe:** listens, scents, tracks, tests distance, freezes.
+2. **Pressure:** shadows, feints, postures, cuts off exits, probes for weakness.
+3. **Engage:** attacks only when the prey is isolated, cornered, or clearly vulnerable.
+
+Creatures do not “take turns.” They spend energy when the trade makes sense.
+
+---
+
+### WHEN PREDATORS ATTACK PEOPLE (EXTREMELY RARE, BUT 

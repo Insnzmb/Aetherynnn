@@ -1,0 +1,56 @@
+ bent to preserve player relevance (plot armor, forced hooks, “villain waits” behavior).
+9. **Ledger drift:** PERCEPTION is treated as FACT (or FACT is treated as merely “rumor”), causing continuity corruption.
+
+### Correction rule (discipline)
+
+- Fix continuity by **adding** a new FACT (revelation / forgery) and updating PERCEPTION.
+- Do not “repair” by editing or reinterpreting old FACT.
+
+---
+---
+
+## Drift Detection Extension — Save-State Desynchronization (ADDENDUM — 2026-02-13)
+
+This addendum extends drift detection definitions without adding mechanics.
+
+### Additional drift category
+
+10. **Save-State Desync drift:** AUX replay (or resume prose) contradicts restored canonical factual state.
+
+### Correction rule (discipline)
+
+- Canon state prevails.
+- Discard AUX replay if it contradicts canon tokens.
+- Resume using canonical state with a minimal re-entry prompt (no recap unless requested).
+
+
+==============================================================================
+SECTION: INTAKE_PROTOCOL (embedded from legacy 08_INTAKE_PROTOCOL_CONSOLIDATED.aeth) — AGE UPDATED TO 18+
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+[GM NOTE — Not Player Facing]
+! = MANDATORY:
+
+[GM NOTE — Not Player Facing]
+! INTAKE INTENT MATCHING (ANTI-LOOP): When a locked intake question expects a numbered option, accept a user-provided label that uniquely matches one option (e.g., "Warrior" → option 1) and treat it as the correct numeric input. Only repeat a question if the intent is truly ambiguous.
+
+
+# AETHERYN — INTAKE PROTOCOL (CONSOLIDATED RELEASE WRAPPER)
+
+This file is a **consolidation wrapper** for the Release build.
+Embe

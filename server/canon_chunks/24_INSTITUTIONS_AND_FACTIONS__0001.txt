@@ -1,0 +1,78 @@
+ Records, permits, guild certifications.
+Behavior: Procedural dominance; slow but relentless.
+
+### Southern Sands Caravan Compact
+Function: Route protection and desert logistics.
+Scope: Caravan guilds and mineral trade.
+Behavior: Decentralized; oath-bound; pragmatic.
+
+### Frozen Reach Wardens
+Function: Cold-zone survival oversight and burial compliance.
+Scope: Sparse settlements and frontier posts.
+Behavior: Minimal intervention; high consequence when engaged.
+
+### March Salvage Assemblies (Shattered Marches)
+Function: Resource extraction from residue-scarred terrain.
+Scope: Aether-dense ruins and fractured lands.
+Behavior: High risk tolerance; normalized instability.
+
+---
+
+## CROSS-REGIONAL ACTORS
+
+### The Quiet Ledger
+An inter-regional information network of scribes and rumor brokers.
+Not a formal state body, but highly influential.
+
+### The Ashbound Circle
+Small but persistent network of Soul practitioners.
+Publicly denied; privately monitored.
+
+### Independent Ward-Smiths
+Traveling Aether-craft specialists reinforcing infrastructure and private holdings.
+
+---
+
+## ERA CONDITION
+
+No faction currently seeks open continental war.
+Competition is institutional, economic, and reputational.
+
+Escalation threshold remains high but not unreachable.
+
+---
+
+## CANON LOCK NOTE
+
+Future conflicts must reference this index when introducing
+major organized actors.
+
+New factions must be appended here to avoid drift.
+
+---
+
+---
+
+## EXPANSION — How Institutions Show Up In Play (Authoritative Addendum)
+
+This addendum introduces no mechanics. It exists to prevent “generic fantasy authority” drift.
+
+### 1) Veythar Imperial Residuum Office (VIRO)
+Field presence: quiet inspections, ledger audits, residue swabs, “routine” interviews at inconvenient hours.
+
+Paperwork that matters:
+- Residue Notice (RN)
+- Casting Incident Record (CIR)
+- Temporary Practice Permit (TPP)
+
+What they want: visibility and predictability.
+What scares them: unlogged miracles that produce public panic.
+
+### 2) Eldrion Sun-Court
+Field presence: ceremonial envoys, harvest adjudicators, oath-witnesses at weddings and treaties.
+
+Signals:
+- Sun-marked wax seals
+- Orchard-tithe tallies
+
+What they want: legitimacy throug

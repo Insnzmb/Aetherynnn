@@ -1,0 +1,38 @@
+orpses are nearby, if a grave is shallow, or if the party is carrying trophies.
+- **Echo Step:** After taking damage, it may blink to cover, leaving a hot afterimage.
+- **Testimony Burn:** One target must relive their last act of violence or betrayal; on a poor defense, they lose their next action (stun/fear).
+- **Witness Mark (Passive):** Anyone who strikes it becomes easier for it to track for the next day (ash-stain that won’t wash).
+
+**Defeat:**
+It can be killed. But the “clean” solution is to **bury the dead correctly** and speak a true accounting of what happened. Doing so weakens it drastically before the fight even begins.
+
+**Signs:**
+Ash falling without fire. Smoke that moves against wind. A distant smell of burned rope.
+
+---
+
+#### THE HOLLOW SURPLUS
+*(Called “The Pantry-Hunger,” “The Full-Empty,” “The Hoard-Worm,” depending on who survived.)*
+
+**Type:** Crisis Swarm / Scarcity Manifestation
+**Threat:** Very High
+**HP:** 180 (shared across swarm nodes)
+**DR:** 2
+**Magic Resistance:** Low (but hard to target cleanly)
+**Move:** Fast, erratic; climbs, pours, squeezes
+**Senses:** Detects stored food, coin, unused stockpiles, “kept back” supplies
+
+**Description:**
+A moving tangle of pale mouths and empty sacks that are somehow heavier than they look. It sounds like a storeroom settling: grain shifting, jars clinking, a latch almost closing.
+
+**Behavior:**
+It does not “hunt people.” It hunts **stored survival**. It follows caravans, granaries, cellars, strongboxes—especially when scarcity has lasted long enough for someone to hoard. When it can’t reach the hoard, it consumes the *hoarder*.
+
+**Combat:**
+- **Gnawing Rush:** Swarm surge; multiple small hits that add up.
+- **Siphon Bite:** On hit, destroys/ruins one carried ration, potion, bandage bundle, or coin pouch segment (GM picks something plausible).
+- **Split Nodes:** When it takes a big hit, it divides into two smaller nodes (still share HP).
+- **Hoard-Sense (Passive):** It gains advantage-like positioning against the party member carrying the most supplies.
+
+**Defeat:**
+Killable by fire, controlled blasts, or grinding physical defense. It also collapses if the hoard it’s “keyed” to is **opened and redi

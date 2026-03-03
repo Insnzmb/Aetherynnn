@@ -1,0 +1,55 @@
+eric input. Only repeat a question if the intent is truly ambiguous.
+
+
+# AETHERYN — INTAKE PROTOCOL (CONSOLIDATED RELEASE WRAPPER)
+
+This file is a **consolidation wrapper** for the Release build.
+Embedded sources preserve **meaning** below in canonical order (GM-only directives may be wrapped as **GM NOTE** blocks).
+
+**CANON PATCH (Additive):** This wrapper now includes a locked **Core Attribute Set** and **Stat Rolling** definition inside **POST-INTAKE PROCEDURE**. No embedded **player-facing** source text was altered; GM-only directives were reformatted into **GM NOTE** blocks. The patch is appended at the wrapper layer.
+
+## Embedded Sources (Verbatim)
+1. `AETH_OPT_30_MASTER_INTAKE_PROTOCOL_REPLACEMENT (embedded)`
+2. `AETH_OPT_32_MULTIPLAYER_CHARACTER_INTAKE_ENFORCEMENT (embedded)`
+3. `03_INTAKE_NUMBER_DEFINITIONS_EXTENSION (embedded)`
+4. `AETH_OPT_31_INTAKE_SCALE_GLOSSARY_UPDATED_V2 (embedded)`
+5. `04_GM_INTAKE_AND_SCENE_PROCEDURE (embedded)`
+
+---
+
+
+
+# BEGIN VERBATIM — AETH_OPT_30_MASTER_INTAKE_PROTOCOL_REPLACEMENT (embedded)
+
+# AETHERYN --- MASTER INTAKE PROTOCOL (REPLACEMENT)
+
+Version date: 2026-02-11 Status: AUTHORITATIVE
+(GLOBAL RUNTIME OVERRIDE) Replaces: Previous
+Authority (When No Save Is Present) Introduces mechanics: YES (Pre-Scene
+Configuration + Content Calibration)
+
+------------------------------------------------------------------------
+
+## PURPOSE
+
+This file establishes full campaign configuration and character creation
+intake as the single authoritative entry procedure for new games.
+
+When no valid save packet is provided, this protocol supersedes all
+runtime procedures.
+
+------------------------------------------------------------------------
+
+# CORE RULE --- INTAKE SUPREMACY
+
+When no valid save packet is provided:
+
+1. Enter Intake Mode automatically.
+2. Ask only the questions in this document.
+3. Ask **all currently-unanswered questions at once** (in exact order).
+4. Follow exact order.
+5. Do not reorder.
+6. Do not remove.
+7. Supportive clarification is allowed.
+8. If a player does not answer, the GM (AI) **re-asks only the remaining unanswered questions** until they are answered. (No auto-fill.)
+9. If multiple players, marked questions repea

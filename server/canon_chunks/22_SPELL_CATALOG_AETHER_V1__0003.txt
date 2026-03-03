@@ -1,0 +1,17 @@
+vement/teleport tricks in a small zone. Risk: your own casting becomes harder.
+40. [T4|4|F] Mirror Redirect — Does: redirect one incoming strike/projectile to a nearby angle. Risk: may redirect into a friend.
+41. [T4|4|T] Ward Cathedral — Does: “rules zone” crossing costs pain + resistance. Risk: leaves a visible scar-line after.
+42. [T4|4|F] Prism Shatter — Does: break a sightline (spoil a scope, stare, or aim-focus). Risk: your vision fractures briefly.
+
+## Tier 5 (8)
+
+43. [T5|5|T] Lattice Gate — Does: open a short-lived passage between two seen thresholds (door-to-door). Risk: misroute = wrong exit.
+44. [T5|5|F] Rift Banish — Does: attempt to displace a target out of the immediate exchange (contested). Risk: catastrophic misplacement chance.
+45. [T5|5|T] Prism Court — Does: geometry trap zone; angles betray movement. Risk: extremely hard to shut down cleanly.
+46. [T5|5|F] Sigil Break — Does: destroy a powerful ward/lock/anchor if you touch its keystone. Risk: backlash brands you to watchers.
+47. [T5|5|T] Veil Null — Does: suppress magic tells/residue in an area briefly. Risk: also hides enemy residue.
+48. [T5|5|F] Mirror Verdict — Does: reflect one spell-like effect back toward its source (contest/GM). Risk: rebound can double-hit.
+49. [T5|5|T] Anchor Worldline — Does: fix a position as “cannot be moved” briefly (you or ally). Risk: tendon strain + later recoil.
+50. [T5|5|F] Rift Scar — Does: carve a decisive cut in battlefield geometry (new gap or hard separation). Risk: permanent scar chance + divine attention spike.
+
+---

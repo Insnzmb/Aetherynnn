@@ -1,0 +1,34 @@
+do Freeform).
+AI: rolls dice (or asks you to roll) and tells you what happens.
+Repeat until you’re unstoppable (or heroically doomed).
+
+============================================================
+WHEN THE AI MESSES UP (HOW TO FIX IT)
+============================================================
+If something feels wrong, type:
+“Please check for drift and correct yourself.”
+
+If the AI forgot something you said, just remind it plainly:
+“No, I said X earlier. Please correct the state.”
+
+If the AI still won’t behave, do this:
+1) SAVE NOW
+2) Start a NEW chat
+3) Paste the save bundle
+4) Type: RESTORE
+
+============================================================
+SAVING TIPS (DO THIS)
+============================================================
+- Save at the end of big moments.
+- Save before risky choices.
+- Save before you stop playing.
+- Keep 2 copies of your save bundle (just in case).
+
+============================================================
+THANK YOU
+============================================================
+Thank you for playing AETHERYN and helping it grow.
+
+— Brian L. Zinsmeyer
+  aka Insane Zombie

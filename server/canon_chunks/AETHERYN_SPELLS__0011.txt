@@ -1,0 +1,28 @@
+ performed identity. Risk: false certainty.
+4. [T1|1|F] Borrowed Breath — Does: share air briefly. Risk: contamination transfer.
+5. [T1|1|T] Hand Steady — Does: damp tremor for fine work. Risk: shakes after.
+6. [T1|1|T] Hearth Recall — Does: summon calming memory image. Risk: memory bruise.
+7. [T1|1|F] Wound Hush — Does: mute pain scream to prevent shock spiral. Risk: hidden worsening.
+8. [T1|1|T] Bond Ping — Does: feel strain/distance on a bond. Risk: obsession loop.
+9. [T1|1|T] Eye of Mercy — Does: read pain level in a body. Risk: empathic overload.
+10. [T1|1|F] Sigh Theft — Does: steal a breath-timing moment (interrupt). Risk: cruelty-stain feeling.
+
+## Tier 2 (12)
+11. [T2|2|T] Grief Anchor — Does: anchor emotion to a memory. Risk: intrusive echoes.
+12. [T2|2|T] Stillhand — Does: steady spasm/tremor. Risk: strain spike if chained.
+13. [T2|2|F] Hearthbound Whisper — Does: message along a genuine bond. Risk: warps if bond is poisoned.
+14. [T2|2|T] Sorrow Veil — Does: mute rage/panic spikes in an area. Risk: mutes resolve too.
+15. [T2|2|F] Pain Trade — Does: move pain between willing targets. Risk: consent wobble backlash.
+16. [T2|2|T] Nameweight — Does: make a true claim carry presence. Risk: punishes false claim.
+17. [T2|2|T] Vigil Wake — Does: keep someone conscious briefly. Risk: crash after.
+18. [T2|2|T] Memory Pin — Does: hold one detail against stress. Risk: headache/nosebleed.
+19. [T2|2|F] Truth Bruise — Does: make lies feel physically uncomfortable. Risk: hits nervous truth too.
+20. [T2|2|T] Breath Braid — Does: sync a group’s breathing briefly. Risk: panic surge if broken.
+21. [T2|2|F] Ego Scar — Does: sting pride to break intimidation. Risk: escalates hostility.
+22. [T2|2|T] Grief Cup — Does: contain grief surge temporarily. Risk: later spillover.
+
+## Tier 3 (12)
+23. [T3|3|F] Vital Exchange — Does: transfer fatigue/ache load (willing). Risk: rebound to both.
+24. [T3|3|T] Memory Splice — Does: share one specific memory image briefly. Risk: identity bleed.
+25. [T3|3|T] Soulbrand Covenant — Does: bind mutual promise with pressure. Risk: sloppy wording traps you.
+26. [T3|3|F] Heartbeat Command — Does: force breath/beat reset (stabilize). Risk: arrhythmia 

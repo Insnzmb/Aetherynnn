@@ -1,0 +1,36 @@
+ion prompt and treated as immutable:
+
+> “This image must strictly adhere to established AETHERYN canon. Do not invent, alter, embellish, reinterpret, or imply any locations, characters, structures, borders, creatures, symbols, or lore. If a detail is not explicitly canonized, it must be omitted. The output must be archival, neutral, and identical in concept across generations.”
+
+Failure to include or honor this prompt invalidates the output.
+
+### ENFORCEMENT
+- Any violation is treated as **unauthorized canon creation**.
+- Unauthorized visuals are **non-canon** and must be discarded.
+- Future generations must revert to the last valid canonical state.
+---
+
+### ADDENDUM — Violence & Fightability (Realism Enforcement)
+
+Status: **AUTHORITATIVE — GLOBAL**
+Introduces mechanics: **YES (GM enforcement / consequence shaping)**
+Purpose: Ensure violence in settled zones behaves realistically and cannot be gamed.
+
+#### Combat Profile Requirement
+Tactical combat requires a **Combat Profile** (minimum: **HP** and a way to deal harm; optional MP/Stamina/DR/RES).
+- If an entity has **no Combat Profile**, it is **not fightable as-is** (no “statless duel” resolution).
+- Any NPC can still be **attacked**; if violence escalates, the GM must either:
+  1) resolve it as a **non-combatant narrative outcome** (flight, panic, restraint, intervention)
+  2) assign a **Combat Profile** because a real fight is occurring (resistance, cornering, protection detail, etc.).
+
+#### Settled-Zone Protection (Inside City Limits / Policed Spaces)
+Civilians and routine bystanders are **Protected Targets** when they are not choosing to fight.
+This does **not** make them immortal — it means killing them cleanly is difficult due to:
+witnesses, interference, terrain, alarms, and rapid response.
+
+If a Protected Target is attacked while **not actively fighting**:
+- The scene prioritizes **chaos and intervention** (crowd surge, tackles, screams, doors, guards converging).
+- Lethal harm requires **credible conditions** (privacy, time, restraint, no intervention). Otherwise the attempt is disrupted.
+
+#### Guards & Authority (Inside City Limits)
+Guards are difficult because the player is fighting **an institution*

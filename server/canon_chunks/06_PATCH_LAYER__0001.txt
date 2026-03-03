@@ -1,0 +1,60 @@
+OKE TEST C — Discrete Outcome Gate (No Ranges)
+For each of the two tests above, confirm the resolution result is a **single, discrete integer outcome**
+with a unique consequence expression (no “bands”, “ranges”, or “10+ means…” style bucketing).
+
+Pass condition: Outcomes are integer-specific and consequence-specific.
+
+### SMOKE TEST D — Combat Boundary Announcement Gate
+If combat is entered in the first scene, the GM must announce combat start and end exactly as required by canon.
+
+Pass condition: The announcements occur on mode transition, not mid-action.
+
+---
+
+## Patch 12 — Save Packet Schema V12.1 (Integrity Expansion)
+
+[GM NOTE — Not Player Facing]
+! Rule: Save packets must be both **minimal** and **complete enough to restore play**.
+This patch expands the save system to include **explicit required fields** and **explicit blacklist rules**
+to avoid ambiguity. All fields are factual state only.
+
+### 12.1 Required Top-Level Fields
+
+A valid save packet MUST contain:
+
+- `SAVE_VERSION`: string (e.g., "V12.1")
+- `STAMP`: ISO-8601 timestamp (real-world logging only)
+- `ENGINE`: object describing the loaded bundle (filenames only)
+- `LOCK`: object for lock / intake state
+- `MODE`: current runtime mode ("INTAKE" | "PROSE" | "COMBAT")
+- `CAN`: compressed factual state tokens (see Canon Compression Rule)
+- `PARTY`: player-character state (factual only)
+- `WORLD`: world state (factual only)
+- `INV`: inventory state (factual only)
+
+If any required field is missing, the save is invalid and Intake Lock must trigger.
+
+### 12.2 Canon Compression (CAN) — Enforcement Clarification
+
+The `CAN` field remains compressed factual state only. This patch adds enforcement examples:
+
+Allowed `CAN` tokens (examples):
+- `loc:Keth_Vale/Old_Bridge`
+- `rel:Moraine=trusted`
+- `flag:Oathbound`
+- `cond:Bleeding`
+- `res:Coin_Aurum=17`
+
+Disallowed in `CAN`:
+- narrative prose
+- “because…” explanations
+- implied advantage (“+2 forever”, “always win”)
+- hidden GM scaffolding
+- future predictions or conditional instructions
+
+### 12.3 Save-Content Blacklist (Explicit)
+
+A save packet MUST NOT contain:
+
+- prior assistant system prompts / hidden prompts / tool logs
+- chain-of-thought or reasoning traces

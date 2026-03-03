@@ -1,0 +1,79 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+# 11_WORLD_LORE_HISTORY.md
+Status: CANON — WORLD HISTORY + LAWS
+Introduces mechanics: NO
+Purpose: Restore dated chronology and the world-law layer that prevents lore drift.
+
+---
+
+## FILE: 06_WORLD_LORE_LAWS.md
+
+## AETHERYN — World Lore Laws (Verbatim)
+Version date: 2026-02-11
+
+---
+
+## VERBATIM SOURCE: AETH_P1_04_LAWS_WorldLoreLaws (embedded)
+
+(Contents below are included **without modification** to preserve meaning.)
+
+---
+
+## PATCH — VOL_06 ECONOMY & MARKETS (APPENDED)
+
+### ADDENDUM: REGIONAL MARKET CLOCK PRESETS (GM-ONLY REFERENCE)
+
+The following presets define default economic pressure states by region.
+They are starting conditions, not permanent truths.
+
+Region: Veythar Empire
+Supply 2 / Demand 3 / Risk 2 / Trust 3
+
+Region: Eldrion Kingdom
+Supply 3 / Demand 2 / Risk 1 / Trust 2
+
+Region: Rhenwall Free Cities
+Supply 2 / Demand 4 / Risk 3 / Trust 1
+
+Region: Sapphire Dominion
+Supply 1 / Demand 3 / Risk 2 / Trust 4
+
+Region: Southern Sands
+Supply 4 / Demand 3 / Risk 4 / Trust 3
+
+Region: Frozen Reaches
+Supply 5 / Demand 2 / Risk 3 / Trust 4
+
+Region: Shattered Marches
+Supply 2 / Demand 4 / Risk 5 / Trust 2
+
+Economic conflict may propagate between regions via trade routes.
+See GM Procedure for offscreen advancement.
+
+---
+
+### ADDENDUM — OPTIONAL REGIONS
+
+#### The Glasswind Coast
+A storm-sheared coastline where salt, trade, and rumor move faster than law.
+
+#### The Briarbound Vale
+A landlocked basin of oath-marked hedgerows and hereditary feuds.
+
+### ADDENDUM — HISTORICAL MICRO-EVENTS
+
+- The Three-Day Quiet (−412): All birds fell silent across three regions. No cause recorded.
+- The Ledger Fire (+88): A provincial archive burned; debts vanished, g

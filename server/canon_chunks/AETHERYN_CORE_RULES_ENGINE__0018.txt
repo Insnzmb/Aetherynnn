@@ -1,0 +1,54 @@
+ADD — Gate K: Start Command Must Route to Intake Q0 (Startup Determinism)
+
+This gate applies when the Operator is about to emit the first player-facing output of a session.
+
+### Gate Conditions
+
+If ALL are true:
+1) The player’s message intent matches a Start Command (e.g., “start game”, “new game”, “begin”, “play”).
+2) The player has NOT provided a valid save artifact in the message:
+   - BEGIN_AETHSAVE_BUNDLE_V1 … END_AETHSAVE_BUNDLE_V1
+   - or BEGIN_SAFE_MODE_SAVE … END_SAFE_MODE_SAVE
+
+Then the Operator must:
+- Set mode to INTAKE, and
+- Output ONLY Intake Question 0 from AETHERYN_CORE_RULES_ENGINE.aeth (Section: INTAKE_PROTOCOL) verbatim.
+
+### Fail Behavior (mandatory)
+
+If the drafted first output is anything other than the verbatim Question 0 intake prompt:
+- Gate fails → discard the draft output → re-anchor intake → regenerate.
+
+
+==============================================================================
+SECTION: DRIFT_DETECTION (embedded from legacy 15_AUTOMATIC_DRIFT_DETECTION.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# AUTOMATIC DRIFT DETECTION (Correctness-Only)
+
+## Goal
+Detect when the AI’s current draft output diverges from established canon, file authority order, or previously confirmed decisions.
+
+**Important:** This logic must NOT trigger or force any save-file behavior. It is purely a correctness check.
+
+---
+## What “drift” means here
+Drift is any of the following:
+1. **Contradiction drift:** output conflicts with a higher-authority file.
+2. **Duplication drift:** output redefines an existing rule as if new.
+3. **Authority drift:** a lower file or patch overrides a higher file wi

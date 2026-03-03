@@ -1,0 +1,25 @@
+r climb. Risk: visible flare signature.
+12. [T2|2|T] Ash-Mute — Does: dull sound in a pocket with ash-thick air. Risk: grit-choke and eye burn.
+13. [T2|2|F] Flashforge — Does: soften metal/stone at a seam to bend/break. Risk: molten spall splash.
+14. [T2|2|F] Sear Mark — Does: brand target/object for tracking. Risk: other Touched can sense it.
+15. [T2|2|T] Ember Line — Does: hot boundary that punishes crossing. Risk: collateral burns spread.
+16. [T2|2|F] Flare Wink — Does: flash-blind an area momentarily. Risk: afterimage disorients allies.
+17. [T2|2|T] Kiln Veil — Does: heat mirage that hides exact silhouettes. Risk: can ignite dry cloth.
+18. [T2|2|F] Singe Thread — Does: burn one rope/thread precisely. Risk: chain unravel surprise.
+19. [T2|2|T] Glow-Script — Does: write heat-text visible only in darkness. Risk: residue stain lingers.
+20. [T2|2|F] Boil Blessing — Does: heat a small liquid rapidly. Risk: container cracks violently.
+21. [T2|2|T] Hearthguard — Does: buffer a teammate vs chill/fear-shiver. Risk: caster fatigue spike.
+22. [T2|2|F] Sootburst — Does: blast soot into eyes to break focus. Risk: wind returns it.
+
+## Tier 3 (12)
+23. [T3|3|F] Furnace Breath — Does: cone of brutal heat-pressure. Risk: oxygen-thin dizziness.
+24. [T3|3|T] Kiln Cage — Does: hot “box” that shapes movement lanes. Risk: radiates outward.
+25. [T3|3|F] Sunlance Arc — Does: focused flare strike. Risk: afterimage blindness.
+26. [T3|3|T] Brandwake — Does: re-ignite a surface’s recent heat story. Risk: wrong pattern returns.
+27. [T3|3|T] Blister Halo — Does: heat aura punishes close approach. Risk: harms allies near you.
+28. [T3|3|F] Glassblush — Does: fuse sand/ash into jagged slag field. Risk: cripples everyone’s footing.
+29. [T3|3|T] Pyre Draft — Does: pull nearby flames toward a corridor. Risk: fire obeys imperfectly.
+30. [T3|3|F] Coalheart Surge — Does: short burst of brutal exertion. Risk: tendon tear backlash.
+31. [T3|3|T] Redline Temper — Does: stabilize overheated gear briefly. Risk: sudden snap later.
+32. [T3|3|F] Smoke Needle — Does: hot pinprick to interrupt a chant/breath. Risk: cruelty-stain feeling.
+33. [T3|3|T] Ember Orbit — Does: embers swirl as close deterrent. Risk: 

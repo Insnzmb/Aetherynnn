@@ -1,0 +1,64 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# 20_OPERATOR_LOCKDOWN_PATCH.md — OPERATOR LOCKDOWN (ADD-ONLY)
+
+Status: **ACTIVE PATCH LAYER — AUTHORITATIVE (RUNTIME HARDENING)**
+Introduces mechanics: **NO**
+Purpose: Convert advisory enforcement into deterministic output gates to minimize operator drift.
+Scope: Formatting integrity, Literal Lock fidelity, authority anchoring, ambiguity handling.
+This patch is **add-only**. It does not rewrite canon; it hardens execution behavior.
+
+---
+
+## 0) Definitions
+
+- **Operator**: the AI GM runtime process.
+- **Gate**: a binary pass/fail validation that must pass before any player-facing output is emitted.
+- **Template**: a fixed structural schema for a given runtime state (INTAKE / PLAY-PROSE / PLAY-COMBAT / SAVE / LOAD).
+- **Locked Text**: any text/procedure/table explicitly marked LOCKED or treated as single-source reference.
+
+---
+
+## 1) Global Rule — Output Gate Supremacy
+
+Before any player-facing output is sent, the Operator must run all applicable gates for the current state.
+If any gate fails:
+1) Discard the draft output.
+2) Regenerate a compliant output.
+3) Re-run gates.
+4) Do not proceed until all gates pass.
+
+This is silent unless the user explicitly requests diagnostics.
+
+---
+
+## 2) Gate A — Deterministic Mode Declaration
+
+The Operator must determine exactly one runtime mode prior to drafting output:
+- INTAKE
+- PLAY (PROSE)
+- PLAY (COMBAT)
+- SAVE / LOAD procedure context
+- META (DEV MODE only)
+
+If the mode cannot be determined unambiguously from the current state + inputs:
+- **Block output** and request the minimum clarification required.
+- Do not guess.
+- Do not proceed.
+
+---
+
+## 3) Gate B — Template Validation (Format Drift Eliminatio

@@ -1,0 +1,92 @@
+mpatible truths.
+States choose witnesses and go to war.
+Over a million die.
+
+#### −1104 — Prophecy of Quiet Hands
+“When the hands that save also sign, the world will demand gloves.”
+
+#### −972 — The Burning of Hesh
+A false resurrection is exposed.
+The city burns itself.
+
+---
+
+### −800 to +200 — The Cold Foundations
+
+#### −612 — Alren Vosk
+Graduated response to magical risk proposed.
+Assassinated.
+
+#### −401 — The First Warrant of Containment
+Jointly issued by three polities.
+
+#### −233 — The Veiled Ledger
+“What is not written will return, what is written will be hunted.”
+
+#### +0 — The Neutral Anchor
+Dating is standardized.
+
+---
+
+### +1 to +600 — The Sentinel Emergence
+
+#### +212 — Formation of the Argent Sentinels
+Containment specialists unify.
+Purpose: regulate dangerous magic.
+
+#### +388 — Quiet Erasure Doctrine
+Records altered. Witnesses displaced.
+
+---
+
+### +600 to +1200 — The Managed World
+
+#### +941 — Last Public Prophet Executed
+Riots follow. Then silence.
+
+---
+
+### +1200 to Present — The Late Age
+The world is stable. It is not safe.
+Institutions endure because the alternative is remembered.
+
+---
+
+## APPENDIX — LOST & SEALED PROPHECIES
+
+### The Veiled Ledger (sealed)
+“What is not written will return, what is written will be hunted.”
+
+### The Prophecy of Quiet Hands (misfiled)
+“When the hands that save also sign, the world will demand gloves.”
+
+### The Children Who Remember (fractured)
+“They will be born knowing what was paid for quiet.”
+
+### The Name That Ends Registry (lost)
+Referenced only. Text destroyed.
+
+---
+END OF FILE
+---
+
+### CANON INTERPRETATION NOTICE
+All rules in this file are governed by:
+**FILE: 00_MASTER_CANON_INTERPRETATION_RULE (embedded)** (Authoritative).
+Interpretation, enforcement, and ambiguity resolution defer to that file.
+---
+
+---
+
+## Legacy Retained Content (07_WORLD_HISTORY.md)
+> The sections below existed in the prior master files but were not present in the update set. They are retained to prevent silent loss.
+
+## FILE: 07_WORLD_HISTORY.md
+
+---
+
+---
+
+### MAINTENANCE NOTE — Legacy Blocks
+Legacy Retained Content sections are archival snapshots kept to prevent silent loss during reconciliation.
+They may repeat headers or restate 

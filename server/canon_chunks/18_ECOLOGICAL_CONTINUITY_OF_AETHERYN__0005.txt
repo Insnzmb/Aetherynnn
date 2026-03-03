@@ -1,0 +1,79 @@
+ion:** Regionally Common
+
+Tall, jointed creature with sail-like membranes along its sides.
+Feeds on mineral crusts, insects, and carrion.
+
+**Behavior:**
+Moves with prevailing winds.
+Will abandon areas instantly if weather shifts.
+
+**Eaten By (typical):**
+- Deep-wild predators rarely range here; juveniles may be taken by roaming hunters during hard seasons.
+
+**Human Interaction:**
+Followed by caravans as weather indicators.
+Never hunted; meat is inedible.
+
+**Environmental Signs:**
+Sliced sand patterns, mineral-lick scars.
+
+#### FOOD-WEB NOTES (Arid)
+- **Strider →** insects, carrion, mineral crust
+- **Occasional predators →** juveniles during extreme scarcity
+
+---
+
+### WETLANDS, FLOODPLAINS, AND RIVER DELTAS
+
+#### PREY & FORAGERS
+(Abundant fish, amphibians, and small mammals form the base of the web.)
+
+#### PREDATORS & SCAVENGERS
+
+##### RIVER GLASSER
+**Trophic Role:** Semi-Aquatic Predator
+**Population:** Uncommon
+
+Flat-bodied swimmer with reflective scale clusters that scatter light.
+Almost invisible beneath moving water.
+
+**Diet (typical):**
+Fish, amphibians, and small mammals; larger prey taken at crossings.
+
+**Behavior:**
+Consumes fish and small mammals.
+Avoids boats; attacks wading creatures.
+
+**Human Risk (extremely rare):**
+Usually avoids groups and boats. Attacks occur when a lone person wades at dusk/dawn, during flood muddiness, or when baited by blood from a recent kill.
+
+**Human Interaction:**
+Fisherfolk wear dull-cloth leggings.
+Glasser oil is valuable for lamps.
+
+**Environmental Signs:**
+Blinded fish, rippling light distortions.
+
+#### FOOD-WEB NOTES (Wetlands)
+- **River Glasser →** fish, amphibians, small mammals, occasional Thornback calves at crossings
+
+---
+
+### HIGH STONE, UPLANDS, AND WIND-SHELVES
+
+#### PREY & FORAGERS
+
+##### SKY-CARAPACE RUMBLER
+**Trophic Role:** Primary Consumer (Cliff Grazer)
+**Population:** Rare but Stable
+
+Heavily armored quadruped that feeds on lichen and stone-moss.
+Produces low-frequency vibrations while feeding.
+
+**Behavior:**
+Territorial but slow.
+Vibrations loosen rockfalls unintentionally.
+
+**Eaten By (typical):**
+- Hollow-Eye Sentinel (exceptional, if present)
+- Avalanche, exposure, and falls take more Rumblers than 

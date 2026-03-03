@@ -1,0 +1,23 @@
+es obvious “touched” residue.
+13. [T2|2|F] Lattice Snare — Does: catch a weapon-hand/wrist for a beat (contest in combat). Risk: forearm strain spike.
+14. [T2|2|T] Pocket Hide — Does: conceal a small cache from casual search. Risk: fails hard under panic/haste.
+15. [T2|2|F] Rift Shear — Does: cut rope/strap precisely without a blade. Risk: nearby fibers fray unpredictably.
+16. [T2|2|T] Anchor Plank — Does: stabilize a precarious ledge/plank briefly. Risk: later collapse worsens.
+17. [T2|2|F] Sigil Swap — Does: swap positions with a handheld object you’re touching. Risk: disorientation + wrong-hand arrival.
+18. [T2|2|T] Prism Glare — Does: a thin glare-screen spoils aim through it. Risk: spoils your aim too.
+19. [T2|2|F] Veil Hush — Does: silence your own footfall/breath for a short beat. Risk: cough rebound after.
+20. [T2|2|T] Ward Ring — Does: small circle that punishes crossing (burning discomfort). Risk: allies suffer too.
+21. [T2|2|F] Lattice Tug — Does: yank a small object toward you if unobstructed. Risk: arrives fast enough to injure.
+22. [T2|2|T] Prism Bend — Does: deflect casual sightlines; you’re “harder to notice” at a glance. Risk: fails under direct stare.
+
+## Tier 3 (12)
+
+23. [T3|3|F] Rift Stumble — Does: force a target one “wrong step” (micro-displacement; contested). Risk: may displace you instead.
+24. [T3|3|T] Lattice Fence — Does: waist-high boundary that punishes crossing. Risk: can pen allies in.
+25. [T3|3|F] Keystone Crack — Does: break a simple lock/fastener on touch. Risk: loud structural pop.
+26. [T3|3|T] Prism Maze — Does: distort angles so paths feel longer/shorter within a room. Risk: you get lost too.
+27. [T3|3|F] Veil Blink — Does: blind a target for a blink (contest). Risk: afterimage blinds you briefly.
+28. [T3|3|T] Anchor Floor — Does: “sticky footing” zone: suppress slides/charges briefly. Risk: sudden release whips ankles.
+29. [T3|3|F] Mirror Beat — Does: create a single false-you motion beat. Risk: draws attention when it breaks.
+30. [T3|3|T] Ward Wall — Does: make a surface harder to cross/climb briefly. Risk: residue lingers as a tell.
+31. [T3|3|F] Veil Sever — Does: strip concealment/illusion on a target/object. Risk: expose

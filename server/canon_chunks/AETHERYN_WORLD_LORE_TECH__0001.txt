@@ -1,0 +1,65 @@
+-AUTHORING COMPATIBILITY FILE**
+Introduces mechanics: **NO**
+Purpose: This filename is referenced by legacy pointers inside the merged canon.
+This stub exists to prevent broken internal references.
+
+Authoritative content for this pointer is contained in:
+- **AETHERYN_ENGINE_CORE_MERGED.aeth (World Lore / Laws content, if present) and PATCH_LAYER.aeth.**
+
+If conflict arises, follow the Authority Order (02_CONFIGURE_TAB_INSTRUCTIONS (embedded)) and any locked procedures.
+
+---
+
+# 07_WORLD_HISTORY.aeth (Compatibility Stub)
+
+Status: **NON-AUTHORING COMPATIBILITY FILE**
+Introduces mechanics: **NO**
+Purpose: This filename is referenced by legacy pointers inside the merged canon.
+This stub exists to prevent broken internal references.
+
+Authoritative content for this pointer is contained in:
+- **AETHERYN_ENGINE_CORE_MERGED.aeth (World History / Chronicle content, if present) and/or legacy retained blocks.**
+
+If conflict arises, follow the Authority Order (02_CONFIGURE_TAB_INSTRUCTIONS (embedded)) and any locked procedures.
+
+---
+
+
+==============================================================================
+SECTION: GODSLAYER_EVENT_AMENDMENT (legacy 12_GODSLAYER_EVENT_AMENDMENT.aeth)
+==============================================================================
+
+# AETHERYN_WORLD_LORE_TECH.aeth (Section: GODSLAYER_EVENT_AMENDMENT)
+
+# AETHERYN CANON AMENDMENT --- GODSLAYER EVENT
+
+## Status
+
+Engine-Level Canon Integration\
+Authority: Structural Override Layer\
+Scope: Cosmology, Monster Origin, Relic Doctrine, Combat Philosophy
+
+------------------------------------------------------------------------
+
+# I. THE GODSLAYER EVENT (FOUNDATIONAL CANON)
+
+Two mortal twins --- one Warrior, one Mage --- killed a god.
+
+The event caused:
+
+-   Collapse of localized divine architecture
+-   Severe Aether lattice destabilization
+-   Soul pressure inversion
+-   Emergence of monster manifestations
+-   Withdrawal and paranoia among remaining gods
+
+This event is historical fact within the world, though interpretations
+vary culturally.
+
+------------------------------------------------------------------------
+
+# II. THE WARRIOR --- RELIC ASCENSION
+
+The Warrior survived the god-killing.
+
+Due to di

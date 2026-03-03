@@ -1,0 +1,24 @@
+bribes: paid in favors more often than coin.
+
+---
+
+## D. Contraband & Restricted Goods (By Region)
+
+Veythar: unlogged spell components; residue concentrates; false permits.
+Eldrion: Soul implements; out-of-season ritual reagents.
+Rhenwall: tariff-dodging cargo; galvanic parts without consortium stamps.
+Sapphire: forged identity papers; registry seal wax; ward-core fragments.
+Southern Sands: stolen water rights; route tokens; mineral claims.
+Frozen Reaches: improper remains; unburned dead; ration fraud.
+Shattered Marches: relic-adjacent scrap; salvage taken without claim; unstable residue jars.
+
+---
+
+## E. Market Signals (Show, Don’t Tell)
+- Full stalls and loud hawkers = high supply, low risk.
+- Quiet markets and many guards = high risk.
+- Everyone demanding written proof = low trust.
+- People paying in favors = scarcity and institutional pressure.
+
+---
+End of file.

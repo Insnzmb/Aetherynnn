@@ -1,0 +1,42 @@
+al cause recorded.
+
++312 — The Hardened Quiet (Present)
+The world is stable, not safe. Institutions endure because the alternative is remembered.
+
+---
+
+
+---
+
+## CANON PATCH — EXPANDED WORLD TIMELINE (AI-FACING; AUTHORITATIVE)
+Date: 2026-02-25
+Introduces mechanics: NO
+Purpose: Provide a dense, definitive dated spine for *AI world continuity*. This is not player-facing. Players learn history in fragments through play.
+
+### Calendar / Naming
+- **Neutral Year (NY)** is the standard dating system.
+- **NY +0 = The Neutral Anchor** is also remembered as **Godfall / the Godslayer Year**: the Warrior–Mage twins killed a god, and the surviving polities standardized dating around the rupture that followed.
+- **NY < 0** dates are reconstructed (oral tradition, damaged archives, scar-studies). Confidence varies.
+
+### Reliability Tags (reading aid)
+- **SOLID**: widely attested; treated as true.
+- **HIGH**: likely true; minor detail variance.
+- **DISPUTED**: regionally contested; treat as rumor until play confirms.
+- **MYTHIC**: culturally true; literal truth uncertain.
+
+---
+
+## TIMELINE SPINE (Continental)
+
+### NY −5000 to −4200 — The Unbound World (HIGH)
+Kin-bands, scavenger hosts, and seasonal camps. Magic is ambient and feral, answering fear and belief more readily than intent. Early burial law emerges from repeated recurrence.
+
+- **NY −4872 — The First Binding Death (SOLID)**
+  A hunter later called Uru-That-Would-Not-Die is slain and rises at dusk, hostile and aware. He is killed again. He rises again. Only fire, scattering, and erasure of name ends the recurrence.
+  Regional note: Frozen Reaches treat this as the start of *burial compliance*; Rhenwall treats it as the start of *registry paranoia*.
+
+- **NY −4600 to −4500 — The Totem Kings (HIGH)**
+  Miracle-warlords claim beasts, storms, ancestors, or unnamed voices. Rule by terror and ritual. Sacrifice stabilizes camps; children are taught ritual deception early.
+
+- **NY −4190 — The Red Valley Convergence (SOLID)**
+  Multiple bands converge independently after shared dreams of safety. For three seasons food is abundant and magic quiets. On the fourth season, incompatible rituals fracture belief. The valley annihilates i

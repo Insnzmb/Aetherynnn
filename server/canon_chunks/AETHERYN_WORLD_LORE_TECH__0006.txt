@@ -1,0 +1,90 @@
+(carcass persistence shifts, scavenger surge, altered animal movement) **without reclassifying monsters as fauna**.
+
+End of Addendum.
+
+
+End of File.
+
+---
+
+
+==============================================================================
+SECTION: MONSTER_DOCTRINE (legacy 19_MONSTER_DOCTRINE_OF_AETHERYN.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# AETHERYN_WORLD_LORE_TECH.aeth (Section: MONSTER_DOCTRINE)
+Status: CANON — STRUCTURAL LAYER
+Introduces Mechanics: YES (Combat Templates Only)
+Does Not Modify: Ecology, Crisis, Engine Core
+
+---
+
+# AETHERYN — MONSTER DOCTRINE
+
+## I. SEPARATION LAW
+
+Animals:
+- Exist independently of Crisis
+- Part of trophic chain
+- Reproductive
+- Energy-bound
+
+Monsters:
+- Crisis-responsive
+- Non-ecological entities
+- Battle-ready by design
+- May appear, dissipate, or reconfigure
+- Do not require breeding logic
+
+Animals stabilize.
+Monsters destabilize.
+
+---
+
+# II. MONSTER ONTOLOGY
+
+A monster in Aetheryn is:
+A combat-capable manifestation of accumulated structural stress.
+
+They are born from:
+- Institutional overreach
+- Residue imbalance
+- Ideological polarization
+- War pressure
+- Ritual misalignment
+- Environmental shock layered with Crisis
+
+---
+
+# III. LOCKED ARCHETYPE TABLE
+
+1. Skirmisher — Mobility pressure
+2. Hunter — Isolation punisher
+3. Juggernaut — Line breaker
+4. Controller — Field denial
+5. Executioner — Burst finisher
+6. Harrow Swarm — Multi-body pressure
+7. Ritual Anchor — Support amplifier
+8. Crisis Avatar — Boss embodiment
+
+All archetypes:
+- Use 3d6 for combat actions; roll d20 for damage
+- No range bands
+- Discrete outcomes only
+- No scaling with Crisis
+- Balanced 

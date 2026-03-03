@@ -1,0 +1,68 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# 24_INSTITUTIONS_AND_FACTIONS.md
+Status: CANON — WORLD STRUCTURE (ACTORS)
+Introduces mechanics: NO
+Purpose: Keep institutions consistent, legible, and repeatable so the world behaves like a place with memory.
+
+---
+
+## Source: AETH_OPT_18_FACTIONS_INSTITUTIONS (embedded)
+
+## AETHERYN — Factions & Institutional Index (Authoritative Canon)
+Version date: 2026-02-11
+Status: AUTHORITATIVE (WORLD STRUCTURE)
+Introduces mechanics: NO
+
+Aligned with Present Era Snapshot (+312).
+
+---
+
+### DESIGN INTENT
+
+This file establishes major factions and institutional blocs
+as structural actors in the Hardened Quiet era.
+
+No numeric systems are introduced.
+Disposition, economy, and institutional memory systems already apply.
+
+---
+
+## MAJOR INSTITUTIONAL BLOCS
+
+### Veythar Imperial Residuum Office
+Function: Centralized tracking of magical residue and unauthorized casting.
+Scope: Urban centers and trade corridors.
+Behavior: Surveillance-forward; documentation heavy; rarely overt.
+
+### Eldrion Sun-Court
+Function: Ritual legitimacy and agricultural sanctification.
+Scope: Noble houses and seasonal rites.
+Behavior: Public ceremony masking private political volatility.
+
+### Rhenwall Dock Consortium
+Function: Maritime trade arbitration and galvanic infrastructure.
+Scope: Inter-city commerce and port security.
+Behavior: Profit-first; loyalty transactional.
+
+### Sapphire Dominion Registry Authority
+Function: Bureaucratic consolidation and infrastructure reinforcement.
+Scope: Records, permits, guild certifications.
+Behavior: Procedural dominance; slow but relentless.
+
+### Southern Sands Caravan Compact
+Function: Route protection and desert logistics.
+Scope: Caravan guilds

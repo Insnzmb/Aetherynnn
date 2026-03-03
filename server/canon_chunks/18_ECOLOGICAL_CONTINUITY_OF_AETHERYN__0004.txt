@@ -1,0 +1,76 @@
+ contraction.
+Its skull is rigid; the rest of its body flows.
+
+**Diet (typical):**
+Small mammals, ground birds, sick or isolated grazers, carrion when available.
+
+**Behavior:**
+Hunts by vibration sensing. Attacks only isolated prey.
+Freezes completely when uncertain.
+
+**Human Risk (extremely rare):**
+Will test lone travelers if it detects limp, heavy bleeding, panic-running, or if a camp has been raided for food repeatedly.
+
+**Human Interaction:**
+Road wardens hang weighted chains to disrupt its sensing.
+Feared but rarely seen.
+
+**Environmental Signs:**
+Drag marks, silence of ground birds, collapsed burrows.
+
+#### FOOD-WEB NOTES (Temperate)
+- **Mirehound →** small mammals, birds, Thornback calves, carrion
+- **Hollow-Eye Sentinel →** any large animal when conditions favor it (myth-level rare)
+
+---
+
+### COLD REACHES & PERMAFROST
+
+#### PREY & FORAGERS
+(Regional prey species vary; many are not cataloged. Absence is intentional.)
+
+#### PREDATORS & SCAVENGERS
+
+##### ICE-SCAVEN LURKER
+**Trophic Role:** Scavenger / Ambush Carnivore
+**Population:** Rare
+
+Pale, translucent-bodied creature with internal organs faintly visible.
+Metabolism slows nearly to stillness.
+
+**Diet (typical):**
+Frozen carcasses; opportunistic strikes on warm-blooded animals near remains.
+
+**Behavior:**
+Waits weeks beside frozen carcasses.
+Strikes only when heat is detected at close range.
+
+**Human Risk (extremely rare):**
+Attacks happen when people linger at a carcass site (salvage, burial, butchery), sleep too near the dead, or bleed onto snow.
+
+**Human Interaction:**
+Considered a bad omen rather than a threat.
+Bodies are burned quickly to deny it food.
+
+**Environmental Signs:**
+Unexplained preservation of remains, frost patterns disturbed.
+
+#### FOOD-WEB NOTES (Cold)
+- **Ice-Scaven Lurker →** carcass sites, weak/bleeding animals, occasional opportunistic bite-and-drag
+
+---
+
+### ARID SANDS & SALT FLATS
+
+#### PREY & FORAGERS
+
+##### SALT-WIND STRIDER
+**Trophic Role:** Omnivore / Mineral Forager
+**Population:** Regionally Common
+
+Tall, jointed creature with sail-like membranes along its sides.
+Feeds on mineral crusts, insects, and carrion.
+
+**Behavior:**
+Moves with prevailing winds.
+Will abandon areas

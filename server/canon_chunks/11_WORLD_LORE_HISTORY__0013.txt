@@ -1,0 +1,49 @@
+st Rupture Winter (DISPUTED)**
+  In some regions the first winter after Godfall arrives early; in others it does not. This becomes a theological argument and a smuggling season.
+
+- **NY +14 — Registry Fever (HIGH)**
+  “Counting” becomes the default response to fear: burial ledgers, travel slips, witness lists, ward permits.
+
+- **NY +27 — The Quiet Hands Prototype (DISPUTED)**
+  Early mutual-aid scribes appear in several ports and border towns. Later regions claim origin.
+
+---
+
+### NY +88 — The Ledger Fire (SOLID)
+A provincial archive burns; debts vanish; grudges persist. Every major region remembers this differently:
+- Veythar calls it an administrative catastrophe.
+- Rhenwall calls it a liberation.
+- Sapphire calls it proof that infrastructure is sovereignty.
+
+### NY +212 — Formation of the Argent Sentinels (SOLID)
+Containment specialists unify across borders; the first widely-recognized professional monster doctrine stabilizes.
+
+### NY +241 — Last Public Prophet Executed (SOLID; patched date)
+Riots follow; then silence becomes policy.
+
+### NY +288 — Quiet Erasure Doctrine (SOLID; patched date)
+Records are altered; witnesses displaced; the world learns to doubt its own paper.
+
+### NY +301 — The Warrant of Corridor (HIGH)
+Joint patrol authority is granted along the Diagonal River Corridor after repeated residue spikes.
+
+### NY +307 — Ashwind Pass Closure Week (HIGH)
+A temporary closure becomes habit; tolls double; smuggling becomes community service.
+
+### NY +311 — The Winter of Wrong Smoke (DISPUTED)
+Across multiple regions, smoke drifts against wind. No official cause recorded.
+
+### NY +312 — The Hardened Quiet (PRESENT; SOLID)
+Stable, not safe. Institutions endure because the alternative is remembered.
+
+---
+
+## REGIONAL MEMORY DIVERGENCE (Same events, different truths)
+This section is a *lens* for the AI: the event list above is the shared spine, but each region teaches it differently.
+
+### Veythar Empire (records-as-weather)
+- Calls Godfall “**The Calibration**.” Emphasizes permits, seals, and enforcement as survival technology.
+- Treats the Oath Collapse as proof speech is a weapon; paperwork is armor.
+
+### Eldrion Kingdom (ceremony-as-agriculture)
+- Calls 

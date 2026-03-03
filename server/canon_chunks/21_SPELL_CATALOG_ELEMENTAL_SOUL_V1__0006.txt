@@ -1,0 +1,29 @@
+pen one direction of sound. Risk: miss other threats.
+8. [T1|1|F] Sail Tug — Does: yank cloth/strap at range. Risk: pulls wrong target.
+9. [T1|1|T] Breath Spare — Does: ease breathing in smoke briefly. Risk: oxygen debt after.
+10. [T1|1|F] Blink Breeze — Does: distraction gust breaks eye contact. Risk: reveals caster.
+
+## Tier 2 (12)
+11. [T2|2|T] Sound Dampen — Does: muffle an area. Risk: teamwork suffers.
+12. [T2|2|F] Windhook — Does: nudge projectile off-course. Risk: redirects into ally.
+13. [T2|2|F] Storm Needle — Does: pressure+static sting to nerves. Risk: heart rhythm stress.
+14. [T2|2|F] Draftstep — Does: burst reposition. Risk: slam into hazards.
+15. [T2|2|T] Ventriloquy Whorl — Does: throw a voice around a corner. Risk: echo betrays you.
+16. [T2|2|T] Airlock Palm — Does: seal a gap from gas/smoke. Risk: pressure pop.
+17. [T2|2|T] Static Veil — Does: hair-raising field spoils fine aim. Risk: ignites powder dust.
+18. [T2|2|F] Wing-Shear — Does: lateral gust breaks balance. Risk: topples allies too.
+19. [T2|2|F] Pressure Kiss — Does: ear-pop pain burst. Risk: permanent injury possibility.
+20. [T2|2|T] Soot Spiral — Does: pull smoke into a tight column. Risk: suffocation pocket.
+21. [T2|2|T] Glassbreath — Does: clear fog from your face zone. Risk: blinds others.
+22. [T2|2|T] Needle Calm — Does: steady hands via laminar airflow. Risk: dependence sensation.
+
+## Tier 3 (12)
+23. [T3|3|F] Thunder Step — Does: burst-move with concussive crack. Risk: announces you.
+24. [T3|3|T] Pressure Dome — Does: air-bubble deflects debris briefly. Risk: breathing becomes work.
+25. [T3|3|F] Gale Shear — Does: wide cutting wind. Risk: shreds ropes/sails.
+26. [T3|3|T] Lightning Lattice — Does: static threads reveal metal motion. Risk: storm attraction.
+27. [T3|3|F] Vacuum Palm — Does: steal air in a fist-sized pocket. Risk: lung-burn.
+28. [T3|3|T] Crosswind Maze — Does: conflicting gusts scramble pursuit. Risk: you get lost too.
+29. [T3|3|F] Razorwhirl — Does: tight spinning cut around you. Risk: self-injury.
+30. [T3|3|F] Stormhand Grasp — Does: yank weapon via pressure claw. Risk: tears straps/fingers.
+31. [T3|3|T] Siren Draft — Does: airflow carries lure-sound. Risk: lures wro

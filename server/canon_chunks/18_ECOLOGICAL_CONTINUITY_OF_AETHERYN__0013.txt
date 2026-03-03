@@ -1,0 +1,51 @@
+20
+**DR:** 3
+**Magic Resistance:** Medium
+**Move:** Fast in water; slow on land
+**Senses:** Detects panic breath, splashing, and magic residue near waterways
+
+**Description:**
+A translucent mass like water wearing the shape of a crouched person. Its “face” is a smooth plane where bubbles gather, then pop soundlessly.
+
+**Behavior:**
+It attacks travelers who wash blood from weapons, dump ash into streams, or cast near water. It prefers to pull one person under, then wait for the next rescuer.
+
+**Combat:**
+- **Undertow Grab:** Pulls a target; if they fail to break free, drowning begins.
+- **Silence Flood:** Burst that muffles sound in an area (harder to coordinate).
+- **Cold-Fill:** Touch that saps stamina; makes swimming harder.
+- **Mirror Drift (Passive):** Ranged attacks misjudge distance across its shimmering body.
+
+**Defeat:**
+Killable via sustained damage, shock, or forcing it onto dry ground and keeping it there.
+
+**Signs:**
+Ripples without wind. Fish floating unbitten. A shoreline that smells like rain indoors.
+
+---
+
+#### THE LANTERN-NULL
+*(Recorded as “The Dark That Followed,” “The Lamp-Eater,” “The Night Clerk.”)*
+
+**Type:** Crisis Hunter / Light- and Ward-Feeding Entity
+**Threat:** Very High
+**HP:** 145
+**DR:** 4
+**Magic Resistance:** High (especially vs ward/containment effects)
+**Move:** Medium; appears closer than it is
+**Senses:** Detects lamplight, ward-lines, protective circles
+
+**Description:**
+A tall shape like a person made from the absence of flame—edges flickering as if heat is being stolen. Glassy “eyes” reflect light a moment late.
+
+**Behavior:**
+It follows safe roads—because safe roads have lamps. It circles camps, waiting for the first lapse. It loves warded doors and clean circles: proof of fear, proof of energy.
+
+**Combat:**
+- **Gutter Swipe:** Heavy hit that also extinguishes carried lights in reach.
+- **Null Step (1/scene):** Ignores one physical barrier (as if it simply “wasn’t there”).
+- **Ward-Drink:** If a ward/ritual circle exists, it can consume it to heal.
+- **Late Reflection (Passive):** The first attack against it each round has reduced effect—people swing where it was.
+
+**Defeat:**
+Killable, but easiest when lured away from w

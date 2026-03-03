@@ -1,0 +1,29 @@
+14. [T2|2|T] Brine Purge — Does: flush irritants from eyes/skin. Risk: salt-burn pain.
+15. [T2|2|T] Drift Bubble — Does: buoyancy pocket for a moment. Risk: misjudge and still sink.
+16. [T2|2|T] Condensation Lens — Does: bead-water magnifies tiny detail. Risk: glare reveals you.
+17. [T2|2|T] Silt Screen — Does: muddy cloud concealment. Risk: obvious contamination trail.
+18. [T2|2|F] Rime Tag — Does: frost-mark a handle for later. Risk: melts with time.
+19. [T2|2|F] Salt Prick — Does: sting eyes to break focus. Risk: escalates panic.
+20. [T2|2|T] Gutter Run — Does: guide spilled water along a path. Risk: tracks and stains.
+21. [T2|2|T] Cold Halo — Does: chill pocket reduces heat exhaustion. Risk: shiver backlash.
+22. [T2|2|T] Cup of Quiet — Does: dampen drip sounds briefly. Risk: uncanny stillness.
+
+## Tier 3 (12)
+23. [T3|3|T] Undertow Field — Does: dragging zone slows charges. Risk: leg exhaustion.
+24. [T3|3|F] Waterwhip Bind — Does: snap-line entangles briefly. Risk: rebound lash.
+25. [T3|3|T] Frost Coffin — Does: ice-shell immobilize/protect. Risk: nerve pain.
+26. [T3|3|T] Mirror Pool — Does: show most recent motion in a space. Risk: emotion imprint bleed.
+27. [T3|3|F] Pressure Jet — Does: cutting water jet at close range. Risk: spray blinds.
+28. [T3|3|F] Hail Scatter — Does: burst of hard ice pellets. Risk: friendly bruising.
+29. [T3|3|T] Drownlight — Does: wet lamps/wicks to dim light. Risk: sparks + smoke.
+30. [T3|3|F] Tide Backstep — Does: shove yourself via water burst. Risk: slam injuries.
+31. [T3|3|T] Melt Memory — Does: soften snow/ice to reveal tracks. Risk: ruins evidence.
+32. [T3|3|T] Cold Ledger — Does: preserve food/corpse briefly. Risk: attracts scavengers.
+33. [T3|3|F] Brine Brand — Does: salt-burn mark that resists washing. Risk: worsens injury.
+34. [T3|3|T] Current Cage — Does: circulating ring traps movement. Risk: catches allies.
+
+## Tier 4 (8)
+35. [T4|4|F] Glacial Judgment — Does: deep cold forces brittle failure. Risk: lasting tissue damage.
+36. [T4|4|T] Tide-Null — Does: cancel small flows/drips/ripples. Risk: suspicious stillness.
+37. [T4|4|T] Flood Stitch — Does: water sheet blocks sightlines. Risk: ruins footing.
+38. [T4|4|T] Ice Crown

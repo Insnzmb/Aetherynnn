@@ -1,0 +1,35 @@
+s** (privacy, time, restraint, no intervention). Otherwise the attempt is disrupted.
+
+#### Guards & Authority (Inside City Limits)
+Guards are difficult because the player is fighting **an institution**:
+- Violence against guards triggers escalating **Response** (reinforcements, containment, better gear).
+- Response escalates via clocks/flags under the campaign’s **World Pacing** procedure.
+
+#### Outside City Limits (Law-Light Zones)
+Outside settled zones, threats that would naturally be “free game” (bandits, raiders, hostile wilderness actors) are treated as normal combatants:
+- Combat Profiles apply normally.
+- Consequences still exist (rumor, factions), but the immediate institutional reinforcement machine does not automatically trigger.
+---
+
+### PATCH — LITERAL LOCK ENFORCEMENT (AUTHORITATIVE)
+
+Status: **AUTHORITATIVE — GLOBAL**
+Introduces mechanics: **NO**
+Purpose: Prevent accidental drift caused by paraphrasing, bundling, reordering, or “helpful” additions. Any *locked* text/procedure must be executed **literally**.
+
+#### DEFINITIONS
+- **LOCKED TEXT**: Any question set, option list, table, stat block, rule text, or canonical phrasing that is explicitly marked as authoritative/locked, or that is referenced as the single authoritative source for a procedure (e.g., “Starting Intake Question Set”).
+- **LOCKED PROCEDURE**: Any step-by-step sequence that must be followed in order (intake, save/load, turn order resolution, inventory snapshot discipline, etc.).
+- **COMPLIANT OUTPUT**: Output that contains **only** what the current locked step requires—no extra framing, examples, synonyms, or merged questions.
+
+#### CORE RULE — LITERAL EXECUTION
+When a LOCKED TEXT or LOCKED PROCEDURE applies, the GM/AI must:
+1) **Output the next required element exactly as written** (verbatim),
+2) **One item at a time**,
+3) **In the original order**,
+4) With **no additions**, **no omissions**, and **no rephrasing**.
+
+#### DYNAMIC GENERATION — ALLOWED WHEN REQUIRED
+If the current LOCKED TEXT/PROCEDURE explicitly requires *generation* (random backgrounds, names, rumor seeds, encounter stubs, etc.), that generated content is part of the locked step and is therefore **compliant**.
+
+Rule

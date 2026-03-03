@@ -1,0 +1,61 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+# AETHERYN — SPELL CATALOGS (RELEASE BUILD)
+
+This file consolidates the spell catalogs required for play.
+
+## Table of Contents
+- SECTION: ELEMENTAL + SOUL SPELL CATALOG
+- SECTION: AETHER SPELL CATALOG
+
+## Reference Note
+Rules live in **AETHERYN_CORE_RULES_ENGINE.aeth** and setting doctrine lives in **AETHERYN_WORLD_LORE_TECH.aeth**.
+
+
+==============================================================================
+SECTION: ELEMENTAL + SOUL SPELL CATALOG (legacy 21_SPELL_CATALOG_ELEMENTAL_SOUL_V1.aeth)
+==============================================================================
+
+# AETHERYN_SPELLS.aeth (Section: ELEMENTAL_SOUL)
+
+Status: AUTHORITATIVE — CONTENT CATALOG  
+Introduces mechanics: YES (Spell options only; uses existing resolution; no system changes)  
+Scope: Combat + Non-combat utility spells for infinite-play campaigns  
+Pillars covered: Elemental (Fire / Water / Air / Earth) + Soul
+
+---
+
+## GLOBAL SPELL RULES (BINDING)
+
+- Tier = Mana Cost: Tier 1→5 costs 1→5 mana.
+- Lanes:
+  - Flash (F) = immediate effect
+  - Tactical (T) = shapes space/tempo/constraints
+- Resolution:
+  - Combat: resolve spell outcomes with 3d6 (and roll d20 for damage where applicable).
+  - Non-combat: resolve with the current non-combat mode’s resolution.
+- Hard prohibitions (all spells):
+  - No permanent dice-size modification
+  - No stacking flat numeric bonuses
+  - No bypass of discrete resolution / no “auto-win” language
+  - Narrative may be epic; results remain discrete and mechanically honest
+
+---
+
+## SPELL MINTING GRAMMAR (REMINDER — KEEP THIS FOREVER)
+
+Spell Name = (Verb) + (Medium) + (Constraint)
+
+- Verb examples: bind, shear, hush, sever, crown, stit

@@ -1,0 +1,43 @@
+tion begins early. Downtime exists but carries forward motion.
+
+5 — Balanced drive. Each session meaningfully advances pressure. Consequences stack at a reliable pace.
+
+6 — Accelerated cadence. Major shifts occur frequently. Institutions respond quickly.
+
+7 — High tempo. Limited recovery space. Stakes rise sharply within each session.
+
+8 — Relentless forward push. Complications overlap. Recovery windows are narrow and costly.
+
+9 — Crisis-dense pacing. Structural shifts occur rapidly. Few quiet moments.
+
+10 — Continuous escalation. Minimal downtime. Pressure compounds scene-to-scene with little stabilization.
+
+------------------------------------------------------------------------
+
+### 6. Campaign difficulty
+
+1 — Minimal lethality. Failure complicates rather than destroys. Recovery is accessible.
+2 — Light danger. Poor choices hurt, but survival is likely with caution.
+3 — Noticeable threat. Tactical mistakes begin to carry weight.
+4 — Firm risk. Enemies punish sloppy execution.
+5 — Balanced danger. Competence matters; consequences are real but survivable.
+6 — Elevated lethality. Recovery requires planning.
+7 — Severe opposition. Systems respond aggressively.
+8 — High mortality pressure. Mistakes compound quickly.
+9 — Extreme danger. Survival depends on precision and restraint.
+10 — Maximum lethality. The world does not cushion error.
+------------------------------------------------------------------------
+
+### 7. Realism severity (1--10)
+
+1 --- Heroic cinematic tone; wounds rarely linger; recovery is rapid;
+physics bends toward drama. 2 --- Light consequence; injuries matter
+briefly but rarely disable. 3 --- Grounded heroism; logistics
+occasionally relevant. 4 --- Resource tracking meaningful; travel time
+matters. 5 --- Standard realism baseline; wounds, fatigue, and scarcity
+are credible threats. 6 --- Injuries may persist; recovery requires
+effort or support. 7 --- Harsh realism; trauma, logistics, and
+institutional friction prominent. 8 --- Severe realism; survival
+pressure constant; moral complexity heightened. 9 --- Brutal realism;
+long-term consequences unavoidable; scarcity defines choices. 10 ---
+Unforgiving realism; systemic failure, psychological stra

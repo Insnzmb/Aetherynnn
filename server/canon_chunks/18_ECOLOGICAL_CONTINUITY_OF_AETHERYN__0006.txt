@@ -1,0 +1,83 @@
+**
+Territorial but slow.
+Vibrations loosen rockfalls unintentionally.
+
+**Eaten By (typical):**
+- Hollow-Eye Sentinel (exceptional, if present)
+- Avalanche, exposure, and falls take more Rumblers than predators do
+
+**Human Interaction:**
+Avoided due to landslide risk.
+Carapace fragments used in fortifications.
+
+**Environmental Signs:**
+Fresh rockfalls, resonant humming.
+
+#### FOOD-WEB NOTES (High Stone)
+- **Rumbler →** lichen, stone-moss
+- **Predation is rare; terrain is the main killer**
+
+---
+
+### DEEP WILDS (LOW HUMAN PRESENCE)
+
+#### PREDATORS
+
+##### HOLLOW-EYE SENTINEL
+**Trophic Role:** Apex Predator
+**Population:** Myth-Level Rare
+
+Tall, asymmetrical creature with multiple sensory pits instead of eyes.
+Tracks by emotional stress responses.
+
+**Diet (typical):**
+Large animals; it prefers panic, injury, and isolation—because they are cheap.
+
+**Behavior:**
+Avoids settlements.
+Stalks only those who panic or flee blindly.
+
+**Human Risk (still rare, but highest in this file):**
+Can attack people who are alone, panicked, bleeding, or lost deep off-road—especially during residue storms or after loud magical events.
+
+**Human Interaction:**
+Survivors report calm prevents attack.
+Its existence is debated.
+
+**Environmental Signs:**
+Perfectly still forests, prey with no struggle marks.
+
+#### FOOD-WEB NOTES (Deep Wilds)
+- **Hollow-Eye Sentinel →** whatever is cheapest: wounded animals, isolated travelers, panic-scented prey
+
+---
+
+### CANON NOTICE
+
+This file is governed by:
+→ FILE: 00_MASTER_CANON_INTERPRETATION_RULE (embedded)
+
+Ecological absence is intentional.
+Not all species are known.
+Not all knowledge is safe.
+
+---
+
+---
+
+## Legacy Retained Content (09_BESTIARY_ECOLOGY.md)
+> The sections below existed in the prior master files but were not present in the update set. They are retained to prevent silent loss.
+
+## FILE: 09_BESTIARY_ECOLOGY.md
+
+---
+---
+
+### PATCH — LITERAL LOCK ENFORCEMENT (AUTHORITATIVE)
+
+Status: **AUTHORITATIVE — GLOBAL**
+Introduces mechanics: **NO**
+Purpose: Prevent accidental drift caused by paraphrasing, bundling, reordering, or “helpful” additions. Any *locked* text/procedure must be executed **literally**.
+
+#### DEFINITIONS
+- **LOCKED TEXT**: Any que

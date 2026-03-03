@@ -1,0 +1,67 @@
+ntradictions)
+- Authority: read-only
+- Memory: no canon mutation
+- Runtime: no narrative output
+- Inputs: target files and checks requested
+
+
+# END VERBATIM — 03_INTAKE_NUMBER_DEFINITIONS_EXTENSION (embedded)
+
+
+# BEGIN VERBATIM — AETH_OPT_31_INTAKE_SCALE_GLOSSARY_UPDATED_V2 (embedded)
+
+# AETH_OPT_31 --- Intake Scale Glossary (Replacement)
+
+1 = 1 session 2 = 2 sessions 3 = 4 sessions 4 = 8 sessions 5 = 16
+sessions 6 = 32 sessions 7 = 64 sessions 8 = 128 sessions 9 = 256
+sessions 10 = 512 sessions 11 = 1024 sessions 12 = Endless sessions
+
+
+# END VERBATIM — AETH_OPT_31_INTAKE_SCALE_GLOSSARY_UPDATED_V2 (embedded)
+
+
+# BEGIN VERBATIM — 04_GM_INTAKE_AND_SCENE_PROCEDURE (embedded)
+
+# 04_GM_INTAKE_AND_SCENE_PROCEDURE (embedded) (Compatibility Stub)
+
+Status: **NON-AUTHORING COMPATIBILITY FILE**
+Introduces mechanics: **NO**
+Purpose: This filename is referenced by legacy pointers inside the merged canon.
+This stub exists to prevent broken internal references.
+
+Authoritative content for this pointer is contained in:
+- **INTAKE_PROTOCOL (this release) (intake) and PLAY_INSTRUCTIONS (this release) (scene cadence).**
+
+# END VERBATIM — 04_GM_INTAKE_AND_SCENE_PROCEDURE (embedded)
+
+
+==============================================================================
+SECTION: PLAY_INSTRUCTIONS (embedded from legacy 09_PLAY_INSTRUCTIONS.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# ADD --- EPIC MODE CLARIFICATION (PLAYER-FACING)
+
+AETHERYN uses epic narrative density.
+
+The Operator may:
+
+-   Describe atmosphere in detail.
+-   Present layered institutional tension.
+-   Render interior thoughts and emotional pressure.
+
+However:

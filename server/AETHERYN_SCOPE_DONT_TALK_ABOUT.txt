@@ -1,0 +1,559 @@
+AETHERYN SCOPE LOCK — OUT-OF-SCOPE TOPICS LIST (LOCAL)
+
+This runtime is intentionally narrow: it only discusses AETHERYN gameplay, AETHERYN canon/rules, and local setup/troubleshooting for THIS bundle.
+
+Everything below is considered OUT OF SCOPE unless you are using a dedicated meta command (e.g., /help) AND the question is directly about running this bundle.
+
+If you need general help, use another chat instance or disable SCOPE_LOCKDOWN in server/.env.
+
+
+---
+
+
+## Real-world politics & elections
+
+- presidents
+- prime ministers
+- kings/queens
+- political parties
+- campaigns
+- polling
+- voting
+- ballots
+- referendums
+- legislation
+- lobbying
+- political scandals
+- current events about governments
+- geopolitics
+- wars
+- sanctions
+- intelligence
+- propaganda
+- coups
+- terrorism news
+- Example keywords:
+  - election
+  - vote
+  - voting
+  - ballot
+  - president
+  - prime minister
+  - congress
+  - senate
+  - parliament
+  - campaign
+  - polling
+  - democrat
+  - republican
+  - labour
+  - tory
+  - biden
+  - trump
+  - putin
+  - zelensky
+  - xi jinping
+  - kim jong
+  - netanyahu
+  - gaza
+  - ukraine
+  - israel
+  - palestine
+  - iran
+  - russia
+  - china
+  - taiwan
+  - nato
+  - united nations
+  - sanction
+
+## News & current events (outside Aetheryn)
+
+- breaking news
+- trending headlines
+- live updates
+- disaster coverage
+- public health updates
+- celebrity news
+- tabloids
+
+## Personal advice & life coaching
+
+- relationship advice
+- family conflicts
+- dating
+- therapy-style counseling
+- workplace drama
+- self-improvement plans unrelated to Aetheryn
+
+## Medical & health guidance
+
+- diagnosis
+- treatment plans
+- medication advice
+- interpreting symptoms
+- emergency triage
+- nutrition plans as healthcare
+- Example keywords:
+  - symptom
+  - diagnose
+  - diagnosis
+  - treatment
+  - medicine
+  - medication
+  - dose
+  - dosage
+  - prescription
+  - doctor
+  - hospital
+  - pain
+  - rash
+  - fever
+  - blood pressure
+  - anxiety
+  - depression
+  - therapy
+  - suicide
+  - self-harm
+
+## Legal advice
+
+- lawsuits
+- legal strategy
+- interpreting statutes
+- contracts
+- immigration advice
+- criminal defense guidance
+- Example keywords:
+  - lawyer
+  - attorney
+  - court
+  - lawsuit
+  - sue
+  - contract
+  - legal
+  - illegal
+  - crime
+  - felony
+  - misdemeanor
+  - immigration
+  - visa
+  - copyright
+  - dmca
+
+## Financial advice
+
+- investing
+- trading
+- crypto price predictions
+- taxes
+- budgeting
+- loans
+- credit repair
+- retirement planning
+- Example keywords:
+  - stock
+  - stocks
+  - invest
+  - investment
+  - crypto
+  - bitcoin
+  - ethereum
+  - trading
+  - options
+  - forex
+  - tax
+  - taxes
+  - irs
+  - loan
+  - mortgage
+  - credit score
+  - 401k
+  - retirement
+  - portfolio
+  - dividend
+  - bond
+  - budget
+
+## Explicit sexual content
+
+- pornographic content
+- erotic roleplay
+- explicit sexual descriptions
+- fetish content
+- Example keywords:
+  - porn
+  - erotic
+  - sex
+  - nude
+  - fetish
+  - onlyfans
+
+## How-to guides for wrongdoing
+
+- crime instructions
+- hacking
+- fraud
+- weapon construction
+- evading law enforcement
+
+## Software engineering help (general)
+
+- debugging unrelated code
+- building apps unrelated to Aetheryn
+- tutorials for programming languages
+- web dev questions unrelated to this bundle
+- Example keywords:
+  - javascript
+  - python
+  - java
+  - c++
+  - c#
+  - sql
+  - html
+  - css
+  - node
+  - react
+  - vue
+  - angular
+  - unreal
+  - ue5
+  - unity
+  - bug
+  - stack trace
+  - compile
+  - npm
+  - pip
+  - docker
+  - kubernetes
+  - linux
+  - windows
+  - macos
+  - android
+  - ios
+  - api key
+  - openai
+  - grok
+  - llama
+  - ollama
+  - prompt
+  - system prompt
+  - temperature
+  - top_p
+  - token
+  - embedding
+  - vector database
+
+## Academic homework & exam answers
+
+- solving homework problems
+- writing essays for school
+- answering test questions
+- doing assignments unrelated to Aetheryn
+
+## Celebrity & pop culture gossip
+
+- celebrity relationships
+- influencer drama
+- paparazzi news
+- reality TV recaps
+
+## Sports
+
+- game scores
+- betting picks
+- team stats
+- schedules
+- fantasy sports
+- Example keywords:
+  - nfl
+  - nba
+  - mlb
+  - nhl
+  - soccer
+  - football
+  - fantasy
+  - betting
+  - odds
+  - spread
+
+## Religion & doctrine debates
+
+- arguing theology
+- converting
+- debating real-world religions as truth claims
+
+## Science & tech news (general)
+
+- latest AI releases
+- hardware news
+- tech rumors
+- product comparisons unrelated to running Aetheryn locally
+- Example keywords:
+  - javascript
+  - python
+  - java
+  - c++
+  - c#
+  - sql
+  - html
+  - css
+  - node
+  - react
+  - vue
+  - angular
+  - unreal
+  - ue5
+  - unity
+  - bug
+  - stack trace
+  - compile
+  - npm
+  - pip
+  - docker
+  - kubernetes
+  - linux
+  - windows
+  - macos
+  - android
+  - ios
+  - api key
+  - openai
+  - grok
+  - llama
+  - ollama
+  - prompt
+  - system prompt
+  - temperature
+  - top_p
+  - token
+  - embedding
+  - vector database
+
+## Shopping recommendations (general)
+
+- what phone to buy
+- best laptop
+- best headphones
+- product deal hunting unrelated to this local setup
+- Example keywords:
+  - buy
+  - best
+  - deal
+  - price
+  - amazon
+  - walmart
+  - target
+  - laptop
+  - phone
+  - headphones
+  - gpu
+  - cpu
+
+## Travel planning (real world)
+
+- itineraries
+- flights
+- hotels
+- visas
+- tourist recommendations
+- Example keywords:
+  - flight
+  - hotel
+  - airbnb
+  - visa
+  - itinerary
+  - trip
+  - vacation
+
+## Cooking & recipes
+
+- how to cook dishes
+- meal plans
+- baking recipes
+
+## Real-world history deep dives (unrelated)
+
+- historical events
+- biographies
+- timelines unless directly tied to analogies requested via /help
+
+## General world facts & trivia
+
+- capitals
+- flags
+- geography
+- encyclopedic explanations
+- general trivia
+- puzzles unrelated to Aetheryn
+
+## Entertainment recaps & spoilers
+
+- movie/TV summaries
+- episode recaps
+- spoiler discussions
+- game walkthroughs not about Aetheryn
+
+## Creative writing outside Aetheryn
+
+- poems
+- songs
+- scripts
+- fanfic for other IPs
+- worldbuilding for other universes
+
+## Adult content and dating
+
+- explicit dating advice
+- sexual content
+- escorting
+- explicit roleplay
+
+## Hate/harassment
+
+- slurs
+- harassment
+- doxxing
+- targeted abuse
+
+## Personal data requests
+
+- asking for addresses
+- phone numbers
+- private identities
+- tracking
+- surveillance
+
+---
+
+
+## Keyword Appendix (trigger words)
+
+- 401k
+- airbnb
+- aliexpress
+- amazon
+- android
+- angular
+- api key
+- attorney
+- bangbros
+- best buy
+- betting
+- biden
+- bitcoin
+- blood pressure
+- bond
+- booking.com
+- brazzers
+- bug
+- c#
+- c++
+- camsoda
+- chaturbate
+- china
+- compile
+- copyright
+- costco
+- credit score
+- crypto
+- css
+- diagnose
+- diagnosis
+- dividend
+- dmca
+- docker
+- dosage
+- dose
+- draftkings
+- ebay
+- embedding
+- epl
+- ethereum
+- expedia
+- fanduel
+- fantasy football
+- felony
+- forex
+- gaza
+- grok
+- hospital
+- html
+- http://
+- https://
+- immigration
+- ios
+- iran
+- irs
+- israel
+- java
+- javascript
+- kayak
+- kim jong
+- kubernetes
+- lawsuit
+- lawyer
+- linux
+- llama
+- macos
+- medication
+- micro center
+- misdemeanor
+- mlb
+- mortgage
+- nato
+- nba
+- netanyahu
+- newegg
+- nfl
+- nhl
+- node
+- npm
+- odds
+- ollama
+- onlyfans
+- openai
+- options
+- palestine
+- pip
+- pornhub
+- portfolio
+- prescription
+- prompt
+- putin
+- python
+- react
+- redtube
+- russia
+- skyscanner
+- spread
+- sql
+- stack trace
+- stock
+- stocks
+- sue
+- symptom
+- system prompt
+- taiwan
+- target
+- temperature
+- token
+- top_p
+- trading
+- tripadvisor
+- trump
+- ue5
+- ukraine
+- united nations
+- unity
+- unreal
+- vector database
+- visa
+- vue
+- walmart
+- windows
+- www.
+- xi jinping
+- xnxx
+- xvideos
+- zelensky

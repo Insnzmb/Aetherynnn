@@ -1,0 +1,57 @@
+Status: ACTIVE PATCH LAYER — AUTHORITATIVE (RUNTIME UX HARDENING)  
+Introduces mechanics: NO  
+Purpose: Provide a single player-facing SAVE/RESTORE artifact while preserving canonical save integrity.
+
+### Rule
+
+When saving, emit exactly one opaque bundle containing:
+- a canonical factual save packet (`CANON_SAVE`) governed by Save Schema V12.1 + SRC-X1 MasterRef
+- optional non-canon auxiliary fields (`AUX_*`) including replay buffers for seamless continuation
+
+### Canon Integrity
+
+- `CANON_SAVE` remains facts-only; prose is prohibited in factual fields.
+- `AUX_*` is non-canon and prune-safe.
+- On restore, canon tokens prevail over AUX.
+
+This patch clarifies transport + UX behavior without altering save mechanics, dice systems, or authority order.
+
+### SAFE_MODE Fallback (Anti-Brick)
+
+If a valid bundle cannot be generated due to malformed JSON, SAFE_MODE (structured text fallback) may be emitted per the governing Save System spec. SAFE_MODE is restore-compatible and exists to prevent hard campaign loss.
+
+---
+
+## Patch XY — Soft Autosave Cadence (Every Other Scene)
+
+Status: ACTIVE PATCH LAYER — AUTHORITATIVE (RUNTIME UX)  
+Introduces mechanics: NO  
+Purpose: Provide optional autosave at scene cadence without forcing saves or emitting on beats.
+
+### Rule
+
+- Default: `flag:autosave=on`
+- Player may toggle via `AUTOSAVE ON/OFF` (outside locked procedures).
+- When autosave is ON, the GM emits one unified opaque save bundle at the end of every other Scene (2, 4, 6, …), provided:
+  - Mode is not COMBAT
+  - No unresolved roll is pending
+  - Scene is concluded
+
+### Non-Mechanic Note
+
+This patch changes **save emission cadence only**. It does not change save schema, restore order, canon compression, or blacklist rules.
+---
+
+
+==============================================================================
+SECTION: OPERATOR_LOCKDOWN_PATCH (embedded from legacy 07_OPERATOR_LOCKDOWN_PATCH.aeth) — DEV-FREE RELEASE CUT
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural org

@@ -1,0 +1,3607 @@
+{
+  "version": 1,
+  "generated": "2026-02-28",
+  "source": "aetheryn_map_canon_coords_v2.json",
+  "start_points": [
+    {
+      "id": "frostveil_wild_01",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Northwind Watch",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.382534,
+        0.373117
+      ],
+      "terrain": "a frozen creekbed choked with pale reeds",
+      "title": "Levee \u2014 a frozen creekbed choked with pale",
+      "notes": "Wilderness start near Northwind Watch (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_02",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Frostmere",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.1747,
+        0.128891
+      ],
+      "terrain": "a frozen creekbed choked with pale reeds",
+      "title": "Ford \u2014 a frozen creekbed choked with pale",
+      "notes": "Wilderness start near Frostmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_03",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Ashwind Pass",
+      "nearest_anchor_type": "pass",
+      "xy": [
+        0.628046,
+        0.32112
+      ],
+      "terrain": "a wind-scoured ridge where black spruce cling to stone",
+      "title": "Shelf \u2014 a wind-scoured ridge where black spruce",
+      "notes": "Wilderness start near Ashwind Pass (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_04",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Skarhald",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.396354,
+        0.124848
+      ],
+      "terrain": "a frozen creekbed choked with pale reeds",
+      "title": "Waystone \u2014 a frozen creekbed choked with pale",
+      "notes": "Wilderness start near Skarhald (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_05",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Icewatch Hold",
+      "nearest_anchor_type": "fortress",
+      "xy": [
+        0.2884,
+        0.078423
+      ],
+      "terrain": "a stand of pines where the wind dies abruptly",
+      "title": "Hollow \u2014 a stand of pines where the",
+      "notes": "Wilderness start near Icewatch Hold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_06",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Glacierspine Holdfast",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.476471,
+        0.329407
+      ],
+      "terrain": "a wind-scoured ridge where black spruce cling to stone",
+      "title": "Ridge \u2014 a wind-scoured ridge where black spruce",
+      "notes": "Wilderness start near Glacierspine Holdfast (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_07",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Whitebarrow",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.671892,
+        0.335388
+      ],
+      "terrain": "a wind-scoured ridge where black spruce cling to stone",
+      "title": "Waystone \u2014 a wind-scoured ridge where black spruce",
+      "notes": "Wilderness start near Whitebarrow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_08",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Varyn",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.805853,
+        0.262019
+      ],
+      "terrain": "a wind-scoured ridge where black spruce cling to stone",
+      "title": "Shelf \u2014 a wind-scoured ridge where black spruce",
+      "notes": "Wilderness start near Varyn (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_09",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Northwind Watch",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.396861,
+        0.370042
+      ],
+      "terrain": "a shallow vale of drifted snow and frozen brush",
+      "title": "Boardwalk \u2014 a shallow vale of drifted snow",
+      "notes": "Wilderness start near Northwind Watch (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_10",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Frostmere",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.145211,
+        0.137181
+      ],
+      "terrain": "a wind-scoured ridge where black spruce cling to stone",
+      "title": "Shelf \u2014 a wind-scoured ridge where black spruce",
+      "notes": "Wilderness start near Frostmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_11",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Ashwind Pass",
+      "nearest_anchor_type": "pass",
+      "xy": [
+        0.63914,
+        0.286171
+      ],
+      "terrain": "a stand of pines where the wind dies abruptly",
+      "title": "Ford \u2014 a stand of pines where the",
+      "notes": "Wilderness start near Ashwind Pass (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_12",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Skarhald",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.361297,
+        0.143102
+      ],
+      "terrain": "a low ruin line half-buried in rime",
+      "title": "Cut \u2014 a low ruin line half-buried in",
+      "notes": "Wilderness start near Skarhald (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_13",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Icewatch Hold",
+      "nearest_anchor_type": "fortress",
+      "xy": [
+        0.2948,
+        0.091956
+      ],
+      "terrain": "a stand of pines where the wind dies abruptly",
+      "title": "Levee \u2014 a stand of pines where the",
+      "notes": "Wilderness start near Icewatch Hold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_14",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Glacierspine Holdfast",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.512092,
+        0.289986
+      ],
+      "terrain": "a shallow vale of drifted snow and frozen brush",
+      "title": "Ford \u2014 a shallow vale of drifted snow",
+      "notes": "Wilderness start near Glacierspine Holdfast (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_15",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Whitebarrow",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.709574,
+        0.382039
+      ],
+      "terrain": "a shallow vale of drifted snow and frozen brush",
+      "title": "Hollow \u2014 a shallow vale of drifted snow",
+      "notes": "Wilderness start near Whitebarrow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_16",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Varyn",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.800631,
+        0.237664
+      ],
+      "terrain": "a low ruin line half-buried in rime",
+      "title": "Cut \u2014 a low ruin line half-buried in",
+      "notes": "Wilderness start near Varyn (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_17",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Northwind Watch",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.407019,
+        0.373257
+      ],
+      "terrain": "a frozen creekbed choked with pale reeds",
+      "title": "Gully \u2014 a frozen creekbed choked with pale",
+      "notes": "Wilderness start near Northwind Watch (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_18",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Frostmere",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.176902,
+        0.12534
+      ],
+      "terrain": "a stand of pines where the wind dies abruptly",
+      "title": "Ridge \u2014 a stand of pines where the",
+      "notes": "Wilderness start near Frostmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_19",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Ashwind Pass",
+      "nearest_anchor_type": "pass",
+      "xy": [
+        0.684091,
+        0.331205
+      ],
+      "terrain": "a hard-packed trail between ice-glazed boulders",
+      "title": "Trail \u2014 a hard-packed trail between ice-glazed boulders",
+      "notes": "Wilderness start near Ashwind Pass (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_20",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Icewatch Hold",
+      "nearest_anchor_type": "fortress",
+      "xy": [
+        0.325765,
+        0.072316
+      ],
+      "terrain": "a low ruin line half-buried in rime",
+      "title": "Switchback \u2014 a low ruin line half-buried in",
+      "notes": "Wilderness start near Icewatch Hold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_21",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Glacierspine Holdfast",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.483072,
+        0.292369
+      ],
+      "terrain": "a stand of pines where the wind dies abruptly",
+      "title": "Cut \u2014 a stand of pines where the",
+      "notes": "Wilderness start near Glacierspine Holdfast (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_22",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Whitebarrow",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.692509,
+        0.353351
+      ],
+      "terrain": "a stand of pines where the wind dies abruptly",
+      "title": "Switchback \u2014 a stand of pines where the",
+      "notes": "Wilderness start near Whitebarrow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_23",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Varyn",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.808278,
+        0.237067
+      ],
+      "terrain": "a shallow vale of drifted snow and frozen brush",
+      "title": "Trail \u2014 a shallow vale of drifted snow",
+      "notes": "Wilderness start near Varyn (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_24",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Northwind Watch",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.415076,
+        0.336744
+      ],
+      "terrain": "a low ruin line half-buried in rime",
+      "title": "Ridge \u2014 a low ruin line half-buried in",
+      "notes": "Wilderness start near Northwind Watch (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_25",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Frostmere",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.190781,
+        0.166973
+      ],
+      "terrain": "a hard-packed trail between ice-glazed boulders",
+      "title": "Ridge \u2014 a hard-packed trail between ice-glazed boulders",
+      "notes": "Wilderness start near Frostmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_26",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Ashwind Pass",
+      "nearest_anchor_type": "pass",
+      "xy": [
+        0.683303,
+        0.326921
+      ],
+      "terrain": "a hard-packed trail between ice-glazed boulders",
+      "title": "Boardwalk \u2014 a hard-packed trail between ice-glazed boulders",
+      "notes": "Wilderness start near Ashwind Pass (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_27",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Skarhald",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.408029,
+        0.131938
+      ],
+      "terrain": "a wind-scoured ridge where black spruce cling to stone",
+      "title": "Glade \u2014 a wind-scoured ridge where black spruce",
+      "notes": "Wilderness start near Skarhald (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_28",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Icewatch Hold",
+      "nearest_anchor_type": "fortress",
+      "xy": [
+        0.326298,
+        0.058289
+      ],
+      "terrain": "a hard-packed trail between ice-glazed boulders",
+      "title": "Gully \u2014 a hard-packed trail between ice-glazed boulders",
+      "notes": "Wilderness start near Icewatch Hold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_29",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Glacierspine Holdfast",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.492292,
+        0.300696
+      ],
+      "terrain": "a shallow vale of drifted snow and frozen brush",
+      "title": "Levee \u2014 a shallow vale of drifted snow",
+      "notes": "Wilderness start near Glacierspine Holdfast (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "frostveil_wild_30",
+      "region_id": "frostveil",
+      "region_name": "Frostveil Dominion",
+      "nearest_anchor": "Whitebarrow",
+      "nearest_anchor_type": "outpost",
+      "xy": [
+        0.667292,
+        0.369656
+      ],
+      "terrain": "a shallow vale of drifted snow and frozen brush",
+      "title": "Ridge \u2014 a shallow vale of drifted snow",
+      "notes": "Wilderness start near Whitebarrow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "frostveil"
+      ]
+    },
+    {
+      "id": "eryndor_wild_01",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Oldenmoor Hamlet",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.470235,
+        0.39754
+      ],
+      "terrain": "an old cart road cut through thorn and briar",
+      "title": "Trail \u2014 an old cart road cut through",
+      "notes": "Wilderness start near Oldenmoor Hamlet (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_02",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Riverend",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.296715,
+        0.398659
+      ],
+      "terrain": "an old cart road cut through thorn and briar",
+      "title": "Ruin-Line \u2014 an old cart road cut through",
+      "notes": "Wilderness start near Riverend (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_03",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Sunfall Keep",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.391723,
+        0.607673
+      ],
+      "terrain": "a shallow ford where stones show through clear water",
+      "title": "Ruin-Line \u2014 a shallow ford where stones show",
+      "notes": "Wilderness start near Sunfall Keep (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_04",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Greenrise",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.310057,
+        0.426352
+      ],
+      "terrain": "a hedgerow-lined lane beside winter-bare fields",
+      "title": "Hollow \u2014 a hedgerow-lined lane beside winter-bare fields",
+      "notes": "Wilderness start near Greenrise (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_05",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Redbrook",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.430646,
+        0.332626
+      ],
+      "terrain": "a low hill crowned by a leaning waystone",
+      "title": "Ford \u2014 a low hill crowned by a",
+      "notes": "Wilderness start near Redbrook (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_06",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Highfield",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.490929,
+        0.445721
+      ],
+      "terrain": "a fallow pasture with broken fence posts",
+      "title": "Ford \u2014 a fallow pasture with broken fence",
+      "notes": "Wilderness start near Highfield (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_07",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Goldmere",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.091276,
+        0.459361
+      ],
+      "terrain": "a hedgerow-lined lane beside winter-bare fields",
+      "title": "Cut \u2014 a hedgerow-lined lane beside winter-bare fields",
+      "notes": "Wilderness start near Goldmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_08",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Oldenmoor Hamlet",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.449946,
+        0.423401
+      ],
+      "terrain": "a hedgerow-lined lane beside winter-bare fields",
+      "title": "Ruin-Line \u2014 a hedgerow-lined lane beside winter-bare fields",
+      "notes": "Wilderness start near Oldenmoor Hamlet (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_09",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Riverend",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.301902,
+        0.351748
+      ],
+      "terrain": "a low hill crowned by a leaning waystone",
+      "title": "Ruin-Line \u2014 a low hill crowned by a",
+      "notes": "Wilderness start near Riverend (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_10",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Sunfall Keep",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.377728,
+        0.555368
+      ],
+      "terrain": "a ditch-road running between damp meadows",
+      "title": "Ford \u2014 a ditch-road running between damp meadows",
+      "notes": "Wilderness start near Sunfall Keep (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_11",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Greenrise",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.331456,
+        0.400467
+      ],
+      "terrain": "a hedgerow-lined lane beside winter-bare fields",
+      "title": "Switchback \u2014 a hedgerow-lined lane beside winter-bare fields",
+      "notes": "Wilderness start near Greenrise (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_12",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Redbrook",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.429393,
+        0.287879
+      ],
+      "terrain": "a ditch-road running between damp meadows",
+      "title": "Switchback \u2014 a ditch-road running between damp meadows",
+      "notes": "Wilderness start near Redbrook (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_13",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Highfield",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.505192,
+        0.4061
+      ],
+      "terrain": "a hedgerow-lined lane beside winter-bare fields",
+      "title": "Waystone \u2014 a hedgerow-lined lane beside winter-bare fields",
+      "notes": "Wilderness start near Highfield (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_14",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Goldmere",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.058645,
+        0.4854
+      ],
+      "terrain": "a low hill crowned by a leaning waystone",
+      "title": "Waystone \u2014 a low hill crowned by a",
+      "notes": "Wilderness start near Goldmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_15",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Oldenmoor Hamlet",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.465386,
+        0.37616
+      ],
+      "terrain": "an old cart road cut through thorn and briar",
+      "title": "Levee \u2014 an old cart road cut through",
+      "notes": "Wilderness start near Oldenmoor Hamlet (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_16",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Riverend",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.283704,
+        0.378391
+      ],
+      "terrain": "a shallow ford where stones show through clear water",
+      "title": "Levee \u2014 a shallow ford where stones show",
+      "notes": "Wilderness start near Riverend (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_17",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Sunfall Keep",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.369011,
+        0.588487
+      ],
+      "terrain": "a ditch-road running between damp meadows",
+      "title": "Boardwalk \u2014 a ditch-road running between damp meadows",
+      "notes": "Wilderness start near Sunfall Keep (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_18",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Greenrise",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.33381,
+        0.411334
+      ],
+      "terrain": "an old cart road cut through thorn and briar",
+      "title": "Ridge \u2014 an old cart road cut through",
+      "notes": "Wilderness start near Greenrise (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_19",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Redbrook",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.419562,
+        0.334874
+      ],
+      "terrain": "a low hill crowned by a leaning waystone",
+      "title": "Hollow \u2014 a low hill crowned by a",
+      "notes": "Wilderness start near Redbrook (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_20",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Highfield",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.479243,
+        0.445604
+      ],
+      "terrain": "a hedgerow-lined lane beside winter-bare fields",
+      "title": "Trail \u2014 a hedgerow-lined lane beside winter-bare fields",
+      "notes": "Wilderness start near Highfield (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_21",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Goldmere",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.087356,
+        0.453902
+      ],
+      "terrain": "a fallow pasture with broken fence posts",
+      "title": "Switchback \u2014 a fallow pasture with broken fence",
+      "notes": "Wilderness start near Goldmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_22",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Oldenmoor Hamlet",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.468414,
+        0.421534
+      ],
+      "terrain": "a hedgerow-lined lane beside winter-bare fields",
+      "title": "Trail \u2014 a hedgerow-lined lane beside winter-bare fields",
+      "notes": "Wilderness start near Oldenmoor Hamlet (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_23",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Riverend",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.329286,
+        0.371076
+      ],
+      "terrain": "a ditch-road running between damp meadows",
+      "title": "Glade \u2014 a ditch-road running between damp meadows",
+      "notes": "Wilderness start near Riverend (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_24",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Sunfall Keep",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.396294,
+        0.557399
+      ],
+      "terrain": "a shallow ford where stones show through clear water",
+      "title": "Gully \u2014 a shallow ford where stones show",
+      "notes": "Wilderness start near Sunfall Keep (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_25",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Greenrise",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.335766,
+        0.405684
+      ],
+      "terrain": "a ditch-road running between damp meadows",
+      "title": "Ruin-Line \u2014 a ditch-road running between damp meadows",
+      "notes": "Wilderness start near Greenrise (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_26",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Redbrook",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.424712,
+        0.336395
+      ],
+      "terrain": "a ditch-road running between damp meadows",
+      "title": "Levee \u2014 a ditch-road running between damp meadows",
+      "notes": "Wilderness start near Redbrook (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_27",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Highfield",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.484508,
+        0.394243
+      ],
+      "terrain": "a shallow ford where stones show through clear water",
+      "title": "Boardwalk \u2014 a shallow ford where stones show",
+      "notes": "Wilderness start near Highfield (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_28",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Goldmere",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.074085,
+        0.503189
+      ],
+      "terrain": "a fallow pasture with broken fence posts",
+      "title": "Ridge \u2014 a fallow pasture with broken fence",
+      "notes": "Wilderness start near Goldmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_29",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Oldenmoor Hamlet",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.426963,
+        0.400096
+      ],
+      "terrain": "a hedgerow-lined lane beside winter-bare fields",
+      "title": "Cut \u2014 a hedgerow-lined lane beside winter-bare fields",
+      "notes": "Wilderness start near Oldenmoor Hamlet (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "eryndor_wild_30",
+      "region_id": "eryndor",
+      "region_name": "Eryndor Confederacy",
+      "nearest_anchor": "Riverend",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.330283,
+        0.377223
+      ],
+      "terrain": "a ditch-road running between damp meadows",
+      "title": "Glade \u2014 a ditch-road running between damp meadows",
+      "notes": "Wilderness start near Riverend (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "eryndor"
+      ]
+    },
+    {
+      "id": "verdantis_wild_01",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Lowwood",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.771909,
+        0.464359
+      ],
+      "terrain": "a hollow where the air is cool and too still",
+      "title": "Trail \u2014 a hollow where the air is",
+      "notes": "Wilderness start near Lowwood (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_02",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Heartwood Spire",
+      "nearest_anchor_type": "landmark",
+      "xy": [
+        0.83889,
+        0.420876
+      ],
+      "terrain": "an old-growth track under moss and dripping leaves",
+      "title": "Ruin-Line \u2014 an old-growth track under moss and",
+      "notes": "Wilderness start near Heartwood Spire (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_03",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Eastfall",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.606434,
+        0.42852
+      ],
+      "terrain": "a fern-thick glade where sound seems muted",
+      "title": "Ridge \u2014 a fern-thick glade where sound seems",
+      "notes": "Wilderness start near Eastfall (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_04",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Silvergrove",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.699344,
+        0.458446
+      ],
+      "terrain": "a narrow footbridge over a slow, shadowed stream",
+      "title": "Glade \u2014 a narrow footbridge over a slow,",
+      "notes": "Wilderness start near Silvergrove (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_05",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Verdantbay Port",
+      "nearest_anchor_type": "port",
+      "xy": [
+        0.893042,
+        0.50389
+      ],
+      "terrain": "an old-growth track under moss and dripping leaves",
+      "title": "Boardwalk \u2014 an old-growth track under moss and",
+      "notes": "Wilderness start near Verdantbay Port (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_06",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Glimmerfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.609771,
+        0.540587
+      ],
+      "terrain": "a fern-thick glade where sound seems muted",
+      "title": "Switchback \u2014 a fern-thick glade where sound seems",
+      "notes": "Wilderness start near Glimmerfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_07",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Thornreach",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.915849,
+        0.436361
+      ],
+      "terrain": "a narrow footbridge over a slow, shadowed stream",
+      "title": "Boardwalk \u2014 a narrow footbridge over a slow,",
+      "notes": "Wilderness start near Thornreach (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_08",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Greencoast Port",
+      "nearest_anchor_type": "port",
+      "xy": [
+        0.602532,
+        0.707259
+      ],
+      "terrain": "an old-growth track under moss and dripping leaves",
+      "title": "Glade \u2014 an old-growth track under moss and",
+      "notes": "Wilderness start near Greencoast Port (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_09",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Lowwood",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.735182,
+        0.436379
+      ],
+      "terrain": "a narrow footbridge over a slow, shadowed stream",
+      "title": "Boardwalk \u2014 a narrow footbridge over a slow,",
+      "notes": "Wilderness start near Lowwood (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_10",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Heartwood Spire",
+      "nearest_anchor_type": "landmark",
+      "xy": [
+        0.825326,
+        0.429834
+      ],
+      "terrain": "a vine-choked ruin line swallowed by green",
+      "title": "Gully \u2014 a vine-choked ruin line swallowed by",
+      "notes": "Wilderness start near Heartwood Spire (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_11",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Eastfall",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.604523,
+        0.451262
+      ],
+      "terrain": "a vine-choked ruin line swallowed by green",
+      "title": "Boardwalk \u2014 a vine-choked ruin line swallowed by",
+      "notes": "Wilderness start near Eastfall (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_12",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Silvergrove",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.730688,
+        0.472481
+      ],
+      "terrain": "a vine-choked ruin line swallowed by green",
+      "title": "Hollow \u2014 a vine-choked ruin line swallowed by",
+      "notes": "Wilderness start near Silvergrove (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_13",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Verdantbay Port",
+      "nearest_anchor_type": "port",
+      "xy": [
+        0.859755,
+        0.486834
+      ],
+      "terrain": "a root-laced slope above dark water",
+      "title": "Track \u2014 a root-laced slope above dark water",
+      "notes": "Wilderness start near Verdantbay Port (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_14",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Glimmerfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.62995,
+        0.5144
+      ],
+      "terrain": "a hollow where the air is cool and too still",
+      "title": "Ford \u2014 a hollow where the air is",
+      "notes": "Wilderness start near Glimmerfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_15",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Thornreach",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.892823,
+        0.466065
+      ],
+      "terrain": "a vine-choked ruin line swallowed by green",
+      "title": "Ridge \u2014 a vine-choked ruin line swallowed by",
+      "notes": "Wilderness start near Thornreach (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_16",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Greencoast Port",
+      "nearest_anchor_type": "port",
+      "xy": [
+        0.598586,
+        0.681493
+      ],
+      "terrain": "an old-growth track under moss and dripping leaves",
+      "title": "Track \u2014 an old-growth track under moss and",
+      "notes": "Wilderness start near Greencoast Port (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_17",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Lowwood",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.782471,
+        0.466729
+      ],
+      "terrain": "a fern-thick glade where sound seems muted",
+      "title": "Waystone \u2014 a fern-thick glade where sound seems",
+      "notes": "Wilderness start near Lowwood (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_18",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Heartwood Spire",
+      "nearest_anchor_type": "landmark",
+      "xy": [
+        0.816419,
+        0.443119
+      ],
+      "terrain": "a root-laced slope above dark water",
+      "title": "Waystone \u2014 a root-laced slope above dark water",
+      "notes": "Wilderness start near Heartwood Spire (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_19",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Eastfall",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.646811,
+        0.447476
+      ],
+      "terrain": "a vine-choked ruin line swallowed by green",
+      "title": "Glade \u2014 a vine-choked ruin line swallowed by",
+      "notes": "Wilderness start near Eastfall (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_20",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Verdantbay Port",
+      "nearest_anchor_type": "port",
+      "xy": [
+        0.859297,
+        0.522974
+      ],
+      "terrain": "an old-growth track under moss and dripping leaves",
+      "title": "Hollow \u2014 an old-growth track under moss and",
+      "notes": "Wilderness start near Verdantbay Port (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_21",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Glimmerfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.599316,
+        0.490775
+      ],
+      "terrain": "a narrow footbridge over a slow, shadowed stream",
+      "title": "Waystone \u2014 a narrow footbridge over a slow,",
+      "notes": "Wilderness start near Glimmerfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_22",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Thornreach",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.883032,
+        0.448561
+      ],
+      "terrain": "a root-laced slope above dark water",
+      "title": "Ford \u2014 a root-laced slope above dark water",
+      "notes": "Wilderness start near Thornreach (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_23",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Greencoast Port",
+      "nearest_anchor_type": "port",
+      "xy": [
+        0.625456,
+        0.698096
+      ],
+      "terrain": "a narrow footbridge over a slow, shadowed stream",
+      "title": "Ford \u2014 a narrow footbridge over a slow,",
+      "notes": "Wilderness start near Greencoast Port (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_24",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Lowwood",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.774923,
+        0.437139
+      ],
+      "terrain": "a fern-thick glade where sound seems muted",
+      "title": "Ruin-Line \u2014 a fern-thick glade where sound seems",
+      "notes": "Wilderness start near Lowwood (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_25",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Heartwood Spire",
+      "nearest_anchor_type": "landmark",
+      "xy": [
+        0.827114,
+        0.424289
+      ],
+      "terrain": "a root-laced slope above dark water",
+      "title": "Track \u2014 a root-laced slope above dark water",
+      "notes": "Wilderness start near Heartwood Spire (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_26",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Eastfall",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.595971,
+        0.435916
+      ],
+      "terrain": "a narrow footbridge over a slow, shadowed stream",
+      "title": "Switchback \u2014 a narrow footbridge over a slow,",
+      "notes": "Wilderness start near Eastfall (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_27",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Silvergrove",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.719085,
+        0.441555
+      ],
+      "terrain": "a vine-choked ruin line swallowed by green",
+      "title": "Hollow \u2014 a vine-choked ruin line swallowed by",
+      "notes": "Wilderness start near Silvergrove (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_28",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Verdantbay Port",
+      "nearest_anchor_type": "port",
+      "xy": [
+        0.857152,
+        0.463353
+      ],
+      "terrain": "a narrow footbridge over a slow, shadowed stream",
+      "title": "Levee \u2014 a narrow footbridge over a slow,",
+      "notes": "Wilderness start near Verdantbay Port (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_29",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Glimmerfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.613736,
+        0.488013
+      ],
+      "terrain": "a root-laced slope above dark water",
+      "title": "Gully \u2014 a root-laced slope above dark water",
+      "notes": "Wilderness start near Glimmerfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "verdantis_wild_30",
+      "region_id": "verdantis",
+      "region_name": "Verdantis Crownlands",
+      "nearest_anchor": "Thornreach",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.879997,
+        0.436351
+      ],
+      "terrain": "a vine-choked ruin line swallowed by green",
+      "title": "Levee \u2014 a vine-choked ruin line swallowed by",
+      "notes": "Wilderness start near Thornreach (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "verdantis"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_01",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Murkfield",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.657884,
+        0.780915
+      ],
+      "terrain": "a fog-heavy boardwalk half-rotted through",
+      "title": "Trail \u2014 a fog-heavy boardwalk half-rotted through",
+      "notes": "Wilderness start near Murkfield (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_02",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Blackwater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.709719,
+        0.913887
+      ],
+      "terrain": "a mudflat stitched with crab holes and dead grass",
+      "title": "Switchback \u2014 a mudflat stitched with crab holes",
+      "notes": "Wilderness start near Blackwater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_03",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Duskfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.501875,
+        0.94261
+      ],
+      "terrain": "a mudflat stitched with crab holes and dead grass",
+      "title": "Ford \u2014 a mudflat stitched with crab holes",
+      "notes": "Wilderness start near Duskfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_04",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Mirehold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.547849,
+        0.888917
+      ],
+      "terrain": "a drowned lowland of reeds and cold water",
+      "title": "Ridge \u2014 a drowned lowland of reeds and",
+      "notes": "Wilderness start near Mirehold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_05",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Soulmarsh",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.475183,
+        0.446653
+      ],
+      "terrain": "a fog-heavy boardwalk half-rotted through",
+      "title": "Ford \u2014 a fog-heavy boardwalk half-rotted through",
+      "notes": "Wilderness start near Soulmarsh (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_06",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Wraithwater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.705186,
+        0.848265
+      ],
+      "terrain": "a drowned lowland of reeds and cold water",
+      "title": "Waystone \u2014 a drowned lowland of reeds and",
+      "notes": "Wilderness start near Wraithwater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_07",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Murkfield",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.611688,
+        0.813859
+      ],
+      "terrain": "a sunken road where water hides the stones",
+      "title": "Boardwalk \u2014 a sunken road where water hides",
+      "notes": "Wilderness start near Murkfield (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_08",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Blackwater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.678368,
+        0.898145
+      ],
+      "terrain": "a sunken road where water hides the stones",
+      "title": "Glade \u2014 a sunken road where water hides",
+      "notes": "Wilderness start near Blackwater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_09",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Duskfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.485427,
+        0.938506
+      ],
+      "terrain": "a mudflat stitched with crab holes and dead grass",
+      "title": "Ruin-Line \u2014 a mudflat stitched with crab holes",
+      "notes": "Wilderness start near Duskfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_10",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Mirehold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.58352,
+        0.87683
+      ],
+      "terrain": "a fog-heavy boardwalk half-rotted through",
+      "title": "Gully \u2014 a fog-heavy boardwalk half-rotted through",
+      "notes": "Wilderness start near Mirehold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_11",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Soulmarsh",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.49434,
+        0.458344
+      ],
+      "terrain": "a narrow levee between black pools",
+      "title": "Switchback \u2014 a narrow levee between black pools",
+      "notes": "Wilderness start near Soulmarsh (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_12",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Wraithwater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.689332,
+        0.875761
+      ],
+      "terrain": "a sunken road where water hides the stones",
+      "title": "Ford \u2014 a sunken road where water hides",
+      "notes": "Wilderness start near Wraithwater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_13",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Murkfield",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.648723,
+        0.786958
+      ],
+      "terrain": "a sunken road where water hides the stones",
+      "title": "Switchback \u2014 a sunken road where water hides",
+      "notes": "Wilderness start near Murkfield (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_14",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Blackwater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.671656,
+        0.938691
+      ],
+      "terrain": "a peat bank with bone markers jutting out",
+      "title": "Boardwalk \u2014 a peat bank with bone markers",
+      "notes": "Wilderness start near Blackwater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_15",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Duskfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.490058,
+        0.898397
+      ],
+      "terrain": "a fog-heavy boardwalk half-rotted through",
+      "title": "Track \u2014 a fog-heavy boardwalk half-rotted through",
+      "notes": "Wilderness start near Duskfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_16",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Mirehold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.586955,
+        0.899556
+      ],
+      "terrain": "a sunken road where water hides the stones",
+      "title": "Boardwalk \u2014 a sunken road where water hides",
+      "notes": "Wilderness start near Mirehold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_17",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Soulmarsh",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.459038,
+        0.433428
+      ],
+      "terrain": "a fog-heavy boardwalk half-rotted through",
+      "title": "Cut \u2014 a fog-heavy boardwalk half-rotted through",
+      "notes": "Wilderness start near Soulmarsh (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_18",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Wraithwater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.69038,
+        0.870255
+      ],
+      "terrain": "a fog-heavy boardwalk half-rotted through",
+      "title": "Gully \u2014 a fog-heavy boardwalk half-rotted through",
+      "notes": "Wilderness start near Wraithwater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_19",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Murkfield",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.617652,
+        0.820802
+      ],
+      "terrain": "a peat bank with bone markers jutting out",
+      "title": "Trail \u2014 a peat bank with bone markers",
+      "notes": "Wilderness start near Murkfield (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_20",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Blackwater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.704747,
+        0.934747
+      ],
+      "terrain": "a drowned lowland of reeds and cold water",
+      "title": "Gully \u2014 a drowned lowland of reeds and",
+      "notes": "Wilderness start near Blackwater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_21",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Duskfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.523972,
+        0.900355
+      ],
+      "terrain": "a sunken road where water hides the stones",
+      "title": "Boardwalk \u2014 a sunken road where water hides",
+      "notes": "Wilderness start near Duskfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_22",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Mirehold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.554176,
+        0.905185
+      ],
+      "terrain": "a drowned lowland of reeds and cold water",
+      "title": "Levee \u2014 a drowned lowland of reeds and",
+      "notes": "Wilderness start near Mirehold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_23",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Soulmarsh",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.451096,
+        0.466137
+      ],
+      "terrain": "a sunken road where water hides the stones",
+      "title": "Track \u2014 a sunken road where water hides",
+      "notes": "Wilderness start near Soulmarsh (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_24",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Wraithwater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.697819,
+        0.873535
+      ],
+      "terrain": "a drowned lowland of reeds and cold water",
+      "title": "Waystone \u2014 a drowned lowland of reeds and",
+      "notes": "Wilderness start near Wraithwater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_25",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Murkfield",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.646735,
+        0.821465
+      ],
+      "terrain": "a peat bank with bone markers jutting out",
+      "title": "Ford \u2014 a peat bank with bone markers",
+      "notes": "Wilderness start near Murkfield (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_26",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Blackwater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.712029,
+        0.905546
+      ],
+      "terrain": "a narrow levee between black pools",
+      "title": "Cut \u2014 a narrow levee between black pools",
+      "notes": "Wilderness start near Blackwater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_27",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Duskfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.523086,
+        0.928074
+      ],
+      "terrain": "a peat bank with bone markers jutting out",
+      "title": "Ruin-Line \u2014 a peat bank with bone markers",
+      "notes": "Wilderness start near Duskfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_28",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Mirehold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.579348,
+        0.938307
+      ],
+      "terrain": "a peat bank with bone markers jutting out",
+      "title": "Gully \u2014 a peat bank with bone markers",
+      "notes": "Wilderness start near Mirehold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_29",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Soulmarsh",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.435403,
+        0.47772
+      ],
+      "terrain": "a narrow levee between black pools",
+      "title": "Waystone \u2014 a narrow levee between black pools",
+      "notes": "Wilderness start near Soulmarsh (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ebonreach_wild_30",
+      "region_id": "ebonreach",
+      "region_name": "Ebonreach Covenant",
+      "nearest_anchor": "Murkfield",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.643408,
+        0.818534
+      ],
+      "terrain": "a mudflat stitched with crab holes and dead grass",
+      "title": "Levee \u2014 a mudflat stitched with crab holes",
+      "notes": "Wilderness start near Murkfield (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ebonreach"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_01",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Cindralith",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.337117,
+        0.57632
+      ],
+      "terrain": "a soot-blackened ruin line with warped nails",
+      "title": "Boardwalk \u2014 a soot-blackened ruin line with warped",
+      "notes": "Wilderness start near Cindralith (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_02",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Riftshadow",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.402749,
+        0.5929
+      ],
+      "terrain": "a low ridge of dark stone and powdery grit",
+      "title": "Gully \u2014 a low ridge of dark stone",
+      "notes": "Wilderness start near Riftshadow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_03",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Dustmere",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.445372,
+        0.842423
+      ],
+      "terrain": "a cinder-strewn cut where the air tastes of metal",
+      "title": "Shelf \u2014 a cinder-strewn cut where the air",
+      "notes": "Wilderness start near Dustmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_04",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Ridge of Echoes",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.298206,
+        0.749721
+      ],
+      "terrain": "a cinder-strewn cut where the air tastes of metal",
+      "title": "Hollow \u2014 a cinder-strewn cut where the air",
+      "notes": "Wilderness start near Ridge of Echoes (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_05",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Emberfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.519244,
+        0.680592
+      ],
+      "terrain": "a soot-blackened ruin line with warped nails",
+      "title": "Boardwalk \u2014 a soot-blackened ruin line with warped",
+      "notes": "Wilderness start near Emberfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_06",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Cinder Plains",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.279336,
+        0.861744
+      ],
+      "terrain": "a field of ash grass and broken posts",
+      "title": "Ridge \u2014 a field of ash grass and",
+      "notes": "Wilderness start near Cinder Plains (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_07",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Obsidian Hold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.343602,
+        0.682604
+      ],
+      "terrain": "a soot-blackened ruin line with warped nails",
+      "title": "Ridge \u2014 a soot-blackened ruin line with warped",
+      "notes": "Wilderness start near Obsidian Hold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_08",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Ashgate",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.35327,
+        0.634846
+      ],
+      "terrain": "a field of ash grass and broken posts",
+      "title": "Hollow \u2014 a field of ash grass and",
+      "notes": "Wilderness start near Ashgate (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_09",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Cindralith",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.306729,
+        0.612359
+      ],
+      "terrain": "a low ridge of dark stone and powdery grit",
+      "title": "Levee \u2014 a low ridge of dark stone",
+      "notes": "Wilderness start near Cindralith (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_10",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Riftshadow",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.41771,
+        0.539725
+      ],
+      "terrain": "a cinder-strewn cut where the air tastes of metal",
+      "title": "Hollow \u2014 a cinder-strewn cut where the air",
+      "notes": "Wilderness start near Riftshadow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_11",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Dustmere",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.424889,
+        0.821042
+      ],
+      "terrain": "a field of ash grass and broken posts",
+      "title": "Track \u2014 a field of ash grass and",
+      "notes": "Wilderness start near Dustmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_12",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Ridge of Echoes",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.352497,
+        0.781484
+      ],
+      "terrain": "a soot-blackened ruin line with warped nails",
+      "title": "Ridge \u2014 a soot-blackened ruin line with warped",
+      "notes": "Wilderness start near Ridge of Echoes (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_13",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Emberfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.572478,
+        0.687526
+      ],
+      "terrain": "a cracked clay wash scattered with slag",
+      "title": "Trail \u2014 a cracked clay wash scattered with",
+      "notes": "Wilderness start near Emberfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_14",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Cinder Plains",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.309543,
+        0.839011
+      ],
+      "terrain": "a cinder-strewn cut where the air tastes of metal",
+      "title": "Trail \u2014 a cinder-strewn cut where the air",
+      "notes": "Wilderness start near Cinder Plains (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_15",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Obsidian Hold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.373718,
+        0.686261
+      ],
+      "terrain": "a field of ash grass and broken posts",
+      "title": "Ford \u2014 a field of ash grass and",
+      "notes": "Wilderness start near Obsidian Hold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_16",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Ashgate",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.307523,
+        0.618327
+      ],
+      "terrain": "a low ridge of dark stone and powdery grit",
+      "title": "Ridge \u2014 a low ridge of dark stone",
+      "notes": "Wilderness start near Ashgate (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_17",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Cindralith",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.318771,
+        0.559902
+      ],
+      "terrain": "a cracked clay wash scattered with slag",
+      "title": "Switchback \u2014 a cracked clay wash scattered with",
+      "notes": "Wilderness start near Cindralith (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_18",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Riftshadow",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.43595,
+        0.579606
+      ],
+      "terrain": "a cinder-strewn cut where the air tastes of metal",
+      "title": "Waystone \u2014 a cinder-strewn cut where the air",
+      "notes": "Wilderness start near Riftshadow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_19",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Dustmere",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.478503,
+        0.80931
+      ],
+      "terrain": "a field of ash grass and broken posts",
+      "title": "Waystone \u2014 a field of ash grass and",
+      "notes": "Wilderness start near Dustmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_20",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Ridge of Echoes",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.336763,
+        0.734585
+      ],
+      "terrain": "a field of ash grass and broken posts",
+      "title": "Switchback \u2014 a field of ash grass and",
+      "notes": "Wilderness start near Ridge of Echoes (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_21",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Emberfen",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.530816,
+        0.679568
+      ],
+      "terrain": "a cinder-strewn cut where the air tastes of metal",
+      "title": "Waystone \u2014 a cinder-strewn cut where the air",
+      "notes": "Wilderness start near Emberfen (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_22",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Cinder Plains",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.274045,
+        0.830265
+      ],
+      "terrain": "a cracked clay wash scattered with slag",
+      "title": "Ruin-Line \u2014 a cracked clay wash scattered with",
+      "notes": "Wilderness start near Cinder Plains (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_23",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Obsidian Hold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.354074,
+        0.6771
+      ],
+      "terrain": "a shallow ravine where ash drifts like snow",
+      "title": "Ruin-Line \u2014 a shallow ravine where ash drifts",
+      "notes": "Wilderness start near Obsidian Hold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_24",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Ashgate",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.294709,
+        0.649528
+      ],
+      "terrain": "a soot-blackened ruin line with warped nails",
+      "title": "Ruin-Line \u2014 a soot-blackened ruin line with warped",
+      "notes": "Wilderness start near Ashgate (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_25",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Cindralith",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.330364,
+        0.585726
+      ],
+      "terrain": "a low ridge of dark stone and powdery grit",
+      "title": "Levee \u2014 a low ridge of dark stone",
+      "notes": "Wilderness start near Cindralith (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_26",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Riftshadow",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.426989,
+        0.562121
+      ],
+      "terrain": "a low ridge of dark stone and powdery grit",
+      "title": "Levee \u2014 a low ridge of dark stone",
+      "notes": "Wilderness start near Riftshadow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_27",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Dustmere",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.427307,
+        0.786198
+      ],
+      "terrain": "a shallow ravine where ash drifts like snow",
+      "title": "Track \u2014 a shallow ravine where ash drifts",
+      "notes": "Wilderness start near Dustmere (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_28",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Ridge of Echoes",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.312857,
+        0.729916
+      ],
+      "terrain": "a cracked clay wash scattered with slag",
+      "title": "Cut \u2014 a cracked clay wash scattered with",
+      "notes": "Wilderness start near Ridge of Echoes (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_29",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Cinder Plains",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.312603,
+        0.813281
+      ],
+      "terrain": "a low ridge of dark stone and powdery grit",
+      "title": "Boardwalk \u2014 a low ridge of dark stone",
+      "notes": "Wilderness start near Cinder Plains (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "ashmarsh_wild_30",
+      "region_id": "ashmarsh",
+      "region_name": "Ashmarsh Principalities",
+      "nearest_anchor": "Obsidian Hold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.36291,
+        0.726115
+      ],
+      "terrain": "a shallow ravine where ash drifts like snow",
+      "title": "Gully \u2014 a shallow ravine where ash drifts",
+      "notes": "Wilderness start near Obsidian Hold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "ashmarsh"
+      ]
+    },
+    {
+      "id": "emberlands_wild_01",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Scorchwind",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.805746,
+        0.777441
+      ],
+      "terrain": "a sulfur-stung hollow where stones sweat",
+      "title": "Ruin-Line \u2014 a sulfur-stung hollow where stones sweat",
+      "notes": "Wilderness start near Scorchwind (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_02",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Redwaste",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.748018,
+        0.775177
+      ],
+      "terrain": "a cooled lava seam split with glassy shards",
+      "title": "Gully \u2014 a cooled lava seam split with",
+      "notes": "Wilderness start near Redwaste (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_03",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Emberdeep",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.616047,
+        0.864348
+      ],
+      "terrain": "a sulfur-stung hollow where stones sweat",
+      "title": "Boardwalk \u2014 a sulfur-stung hollow where stones sweat",
+      "notes": "Wilderness start near Emberdeep (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_04",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Ashflow",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.637757,
+        0.902377
+      ],
+      "terrain": "a heat-hazed scrub of red stone and thorn",
+      "title": "Cut \u2014 a heat-hazed scrub of red stone",
+      "notes": "Wilderness start near Ashflow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_05",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Sulfur Harbor",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.784855,
+        0.894394
+      ],
+      "terrain": "an old mineral road marked by cairns",
+      "title": "Levee \u2014 an old mineral road marked by",
+      "notes": "Wilderness start near Sulfur Harbor (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_06",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Ironblood",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.715079,
+        0.860525
+      ],
+      "terrain": "a heat-hazed scrub of red stone and thorn",
+      "title": "Ruin-Line \u2014 a heat-hazed scrub of red stone",
+      "notes": "Wilderness start near Ironblood (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_07",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Dragoncrater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.648117,
+        0.665871
+      ],
+      "terrain": "a heat-hazed scrub of red stone and thorn",
+      "title": "Waystone \u2014 a heat-hazed scrub of red stone",
+      "notes": "Wilderness start near Dragoncrater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_08",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Furnacehold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.806525,
+        0.716486
+      ],
+      "terrain": "a sulfur-stung hollow where stones sweat",
+      "title": "Gully \u2014 a sulfur-stung hollow where stones sweat",
+      "notes": "Wilderness start near Furnacehold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_09",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Scorchwind",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.808582,
+        0.78689
+      ],
+      "terrain": "a basalt shelf above a dry gully",
+      "title": "Shelf \u2014 a basalt shelf above a dry",
+      "notes": "Wilderness start near Scorchwind (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_10",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Redwaste",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.792917,
+        0.779016
+      ],
+      "terrain": "an old mineral road marked by cairns",
+      "title": "Glade \u2014 an old mineral road marked by",
+      "notes": "Wilderness start near Redwaste (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_11",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Emberdeep",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.605088,
+        0.862433
+      ],
+      "terrain": "a cooled lava seam split with glassy shards",
+      "title": "Gully \u2014 a cooled lava seam split with",
+      "notes": "Wilderness start near Emberdeep (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_12",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Ashflow",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.674798,
+        0.902411
+      ],
+      "terrain": "an old mineral road marked by cairns",
+      "title": "Cut \u2014 an old mineral road marked by",
+      "notes": "Wilderness start near Ashflow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_13",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Sulfur Harbor",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.78643,
+        0.890388
+      ],
+      "terrain": "a heat-hazed scrub of red stone and thorn",
+      "title": "Cut \u2014 a heat-hazed scrub of red stone",
+      "notes": "Wilderness start near Sulfur Harbor (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_14",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Ironblood",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.688982,
+        0.927381
+      ],
+      "terrain": "a heat-hazed scrub of red stone and thorn",
+      "title": "Shelf \u2014 a heat-hazed scrub of red stone",
+      "notes": "Wilderness start near Ironblood (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_15",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Dragoncrater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.631809,
+        0.683867
+      ],
+      "terrain": "a heat-hazed scrub of red stone and thorn",
+      "title": "Ford \u2014 a heat-hazed scrub of red stone",
+      "notes": "Wilderness start near Dragoncrater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_16",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Furnacehold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.852707,
+        0.742337
+      ],
+      "terrain": "a wind-carved badland of rust-red ridges",
+      "title": "Shelf \u2014 a wind-carved badland of rust-red ridges",
+      "notes": "Wilderness start near Furnacehold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_17",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Scorchwind",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.826206,
+        0.805955
+      ],
+      "terrain": "a cooled lava seam split with glassy shards",
+      "title": "Waystone \u2014 a cooled lava seam split with",
+      "notes": "Wilderness start near Scorchwind (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_18",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Redwaste",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.767708,
+        0.804065
+      ],
+      "terrain": "a wind-carved badland of rust-red ridges",
+      "title": "Ridge \u2014 a wind-carved badland of rust-red ridges",
+      "notes": "Wilderness start near Redwaste (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_19",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Emberdeep",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.60911,
+        0.864502
+      ],
+      "terrain": "an old mineral road marked by cairns",
+      "title": "Shelf \u2014 an old mineral road marked by",
+      "notes": "Wilderness start near Emberdeep (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_20",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Ashflow",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.644589,
+        0.94335
+      ],
+      "terrain": "a wind-carved badland of rust-red ridges",
+      "title": "Levee \u2014 a wind-carved badland of rust-red ridges",
+      "notes": "Wilderness start near Ashflow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_21",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Sulfur Harbor",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.749741,
+        0.905785
+      ],
+      "terrain": "a cooled lava seam split with glassy shards",
+      "title": "Boardwalk \u2014 a cooled lava seam split with",
+      "notes": "Wilderness start near Sulfur Harbor (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_22",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Ironblood",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.710189,
+        0.862284
+      ],
+      "terrain": "a sulfur-stung hollow where stones sweat",
+      "title": "Waystone \u2014 a sulfur-stung hollow where stones sweat",
+      "notes": "Wilderness start near Ironblood (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_23",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Dragoncrater",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.663465,
+        0.639744
+      ],
+      "terrain": "a sulfur-stung hollow where stones sweat",
+      "title": "Hollow \u2014 a sulfur-stung hollow where stones sweat",
+      "notes": "Wilderness start near Dragoncrater (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_24",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Furnacehold",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.844294,
+        0.715131
+      ],
+      "terrain": "a wind-carved badland of rust-red ridges",
+      "title": "Track \u2014 a wind-carved badland of rust-red ridges",
+      "notes": "Wilderness start near Furnacehold (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_25",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Scorchwind",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.791689,
+        0.805475
+      ],
+      "terrain": "a wind-carved badland of rust-red ridges",
+      "title": "Hollow \u2014 a wind-carved badland of rust-red ridges",
+      "notes": "Wilderness start near Scorchwind (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_26",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Redwaste",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.732004,
+        0.782403
+      ],
+      "terrain": "a sulfur-stung hollow where stones sweat",
+      "title": "Track \u2014 a sulfur-stung hollow where stones sweat",
+      "notes": "Wilderness start near Redwaste (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_27",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Emberdeep",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.644634,
+        0.847012
+      ],
+      "terrain": "a cooled lava seam split with glassy shards",
+      "title": "Boardwalk \u2014 a cooled lava seam split with",
+      "notes": "Wilderness start near Emberdeep (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_28",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Ashflow",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.663213,
+        0.900169
+      ],
+      "terrain": "a heat-hazed scrub of red stone and thorn",
+      "title": "Cut \u2014 a heat-hazed scrub of red stone",
+      "notes": "Wilderness start near Ashflow (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_29",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Sulfur Harbor",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.753916,
+        0.900797
+      ],
+      "terrain": "a heat-hazed scrub of red stone and thorn",
+      "title": "Levee \u2014 a heat-hazed scrub of red stone",
+      "notes": "Wilderness start near Sulfur Harbor (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    },
+    {
+      "id": "emberlands_wild_30",
+      "region_id": "emberlands",
+      "region_name": "Emberlands Imperium",
+      "nearest_anchor": "Ironblood",
+      "nearest_anchor_type": "town",
+      "xy": [
+        0.695789,
+        0.869901
+      ],
+      "terrain": "a cooled lava seam split with glassy shards",
+      "title": "Shelf \u2014 a cooled lava seam split with",
+      "notes": "Wilderness start near Ironblood (outside settlement).",
+      "tags": [
+        "wilderness",
+        "outside_settlement",
+        "start_ok",
+        "emberlands"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+ure** encounters.
+
+#### NAMING RULE (CANON)
+Aetheryn has no stable “true names” for crisis-born entities.
+- Locals, institutions, and survivors **name them after the campaign of suffering that introduced them**—an incident, a season, a road, a fire, a vanished caravan, a court purge.
+- The same creature may carry multiple names across settlements; records conflict.
+- Scholars track them by **pattern of behavior**, not by name.
+
+#### CRISIS TRICKLE (GM LAW — SHOW, DON’T TELL)
+Crisis-born entities appear as the world’s pressure climbs. Their spread is **slow** and **pacing-linked**, not region-locked.
+- **Early campaign:** omens, residue textures, missing livestock, altered procedures, “no fire at night” warnings.
+- **Mid campaign:** isolated sightings, small-scale attacks, institutional bulletins, bounty posters with wrong details.
+- **Long campaign:** mature forms, repeat encounters, organized responses (wardens, temples, registries), and cascading consequences.
+
+Never announce “tier” or “phase.” Let the world’s behavior prove escalation: tighter curfews, doubled tolls, new seals, ash-lines around doors, funerary queues, closed roads.
+
+---
+
+#### THE LEDGERMAW
+*(Called by whatever name a town gives the thing after it empties their records: “The Debt-Drawer,” “The Stamp-Jaw,” “What Ate the Registry,” etc.)*
+
+**Type:** Crisis Predator / Institutional Scavenger
+**Threat:** Very High
+**HP:** 150
+**DR:** 4
+**Magic Resistance:** High (hostile spells land “real, but reduced,” unless ritual-anchored)
+**Move:** Slow, inevitable; ignores difficult terrain where paperwork once ruled
+**Senses:** Detects unresolved obligation (debts, warrants, broken vows, misfiled identities)
+
+**Description:**
+A towering, hunched figure layered in parchment-skin, seals, tags, and rusted chains. Its mouth opens like a filing drawer—stacked with stamped bone. Ink leaks from joints as if the body is still being written.
+
+**Behavior:**
+Observes first. Follows patterns, not footprints. It prefers quiet hours outside offices, courts, tollhouses, guild halls—especially those recently burned, looted, or “lost to error.” It targets people who try to *escape being recorded*: deserters, oath-breakers, 

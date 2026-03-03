@@ -1,0 +1,29 @@
+e slows charges. Risk: leg exhaustion.
+24. [T3|3|F] Waterwhip Bind — Does: snap-line entangles briefly. Risk: rebound lash.
+25. [T3|3|T] Frost Coffin — Does: ice-shell immobilize/protect. Risk: nerve pain.
+26. [T3|3|T] Mirror Pool — Does: show most recent motion in a space. Risk: emotion imprint bleed.
+27. [T3|3|F] Pressure Jet — Does: cutting water jet at close range. Risk: spray blinds.
+28. [T3|3|F] Hail Scatter — Does: burst of hard ice pellets. Risk: friendly bruising.
+29. [T3|3|T] Drownlight — Does: wet lamps/wicks to dim light. Risk: sparks + smoke.
+30. [T3|3|F] Tide Backstep — Does: shove yourself via water burst. Risk: slam injuries.
+31. [T3|3|T] Melt Memory — Does: soften snow/ice to reveal tracks. Risk: ruins evidence.
+32. [T3|3|T] Cold Ledger — Does: preserve food/corpse briefly. Risk: attracts scavengers.
+33. [T3|3|F] Brine Brand — Does: salt-burn mark that resists washing. Risk: worsens injury.
+34. [T3|3|T] Current Cage — Does: circulating ring traps movement. Risk: catches allies.
+
+## Tier 4 (8)
+35. [T4|4|F] Glacial Judgment — Does: deep cold forces brittle failure. Risk: lasting tissue damage.
+36. [T4|4|T] Tide-Null — Does: cancel small flows/drips/ripples. Risk: suspicious stillness.
+37. [T4|4|T] Flood Stitch — Does: water sheet blocks sightlines. Risk: ruins footing.
+38. [T4|4|T] Ice Crown — Does: jagged ice barrier. Risk: uncontrolled shrapnel.
+39. [T4|4|F] Depth Pinch — Does: pressure crush in a fist-sized pocket. Risk: lethal edge stigma.
+40. [T4|4|T] Pearl-Sheen — Does: slick film hides blood/trace. Risk: hides threats too.
+41. [T4|4|T] Brine Silence — Does: dampen cries by thickening throat moisture. Risk: choking hazard.
+42. [T4|4|F] Ice Key — Does: freeze-lock a latch shut. Risk: snaps mechanism.
+
+## Tier 5 (8)
+43. [T5|5|T] River Reset — Does: wash a space to mundane baseline briefly. Risk: erases useful traces.
+44. [T5|5|F] Leviathan Wake — Does: massive shove repositions the line. Risk: structural collapse near bridges.
+45. [T5|5|T] Winter’s Writ — Does: declare “no-liquid” zone (seepage freezes). Risk: cracks pipes/stone.
+46. [T5|5|F] Floodgate Moment — Does: instant surge from nearby sources. Risk: uncontrolled overflow.
+47. [T5|5|T] 

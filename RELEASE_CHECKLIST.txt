@@ -1,0 +1,42 @@
+AETHERYN WEB — human release checklist
+
+Goal: fresh extract → click run → it works.
+
+PACKAGING
+[ ] Build a multi-part zip set (no overlapping file paths):
+    - Aetheryn_Web_FIX#.zip
+    - Aetheryn_Web_FIX#(1).zip
+    - Aetheryn_Web_FIX#(2).zip
+[ ] User instructions: create NEW empty folder → extract Part 0 → Part 1 → Part 2 → run.
+[ ] Canon outputs (if changed) included in exactly one part:
+    - server/canon/*
+    - server/canon_chunks/*
+    - server/canon_inv_index.json (+ any other canon index files)
+
+LEGAL / CREDITS
+[ ] credit.txt exists at project root and includes open-source + AI notices.
+[ ] If you bundled any fonts/icons/images/music, you have a license to redistribute them and credited them.
+
+CLEAN-MACHINE BOOT
+[ ] Extract into a brand-new empty folder.
+[ ] RUN_WINDOWS.bat boots server without errors.
+[ ] Browser opens to the correct URL.
+[ ] If Ollama isn’t running, the error is clear and actionable.
+
+SMOKE TEST (15 minutes)
+[ ] New game intake completes.
+[ ] Stat roll is mandatory before play.
+[ ] Book tab works; book files save (server/books/*.book.txt + *.book.json).
+[ ] Map click does NOT reveal fog-of-war.
+[ ] Travel only shows methods actually available (walk-only when appropriate).
+[ ] Inventory: no negative quantities; no easy duplication.
+[ ] House/stash: deposit/withdraw preserves totals (no dupes).
+
+MULTIPLAYER
+[ ] Second player joins room.
+[ ] Host-only tools stay host-only.
+[ ] Host disconnect → host reassigned → GM tools still usable.
+
+SECURITY SANITY (especially for LAN)
+[ ] Socket.IO origin/bind settings are correct for your use case.
+[ ] Model selection endpoint can’t inject newlines into .env.

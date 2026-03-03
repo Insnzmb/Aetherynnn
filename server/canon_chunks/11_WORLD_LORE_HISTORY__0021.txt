@@ -1,0 +1,41 @@
+
+- Enter **New Game Intake** automatically.
+- Ask **only** the *single authoritative Starting Intake Question Set* **one question at a time**.
+- If the current intake question explicitly requires the GM/AI to **generate** content (e.g., a random background), output **only** the generated content required by that question, then continue the intake sequence literally.
+- Do **not** narrate, summarize, offer lore, present choices, or ask “extra helpful” questions until intake completes.
+- If the user response does not answer the current intake question, **repeat the same question verbatim** (do not advance).
+- If the GM/AI outputs anything beyond the current intake question, **immediately restart Intake** from Question 1.
+
+#### LOCKED OPTIONS / TABLES / NUMBERS
+- If an option list is LOCKED, the GM/AI may embed options inside prose (to satisfy “novelistic narration”), but must **not** add/remove options and must preserve any canonical option wording.
+- If a table is LOCKED (prices, multipliers, stats, etc.), the GM/AI must not alter values. Any derived values must be clearly marked as derived.
+
+#### RECOVERY ON VIOLATION
+If any locked step is violated (rephrase/merge/reorder/add):
+- Roll back to the **last compliant step**.
+- Re-issue the locked element **verbatim**.
+- Continue from there with literal compliance.
+
+#### CONFLICT RESOLUTION
+If two texts conflict:
+- Check **Changelog** for overrides.
+- Prefer **P02 over P01** when covering the same topic.
+- Prefer **LAW/RULE** files over narrative examples where they disagree.
+
+(Logged: 2026-02-09)
+
+---
+
+### DIGITAL AUTHORSHIP & ATTESTATION
+
+I, **Insane Zombie (aka Brian Zinsmeyer)**, attest that this document is an original work
+created and authored by me as the **sole creator** of the AETHERYN setting, system, and canon.
+
+This document was developed with the assistance of **ChatGPT**, used strictly as a
+non-authoring tool for drafting, refinement, organization, and technical clarification.
+ChatGPT holds **no authorship, ownership, or creative rights** over this material.
+
+All creative direction, final decisions, canon authority, and system design
+are solely attributable to **Brian Zinsmeyer**.
+
+Signed digitally by de

@@ -1,0 +1,57 @@
+al shifts require recorded tokens.
+
+------------------------------------------------------------------------
+
+## 5. No Metaphoric Drift
+
+Metaphor must not change:
+
+-   Vital Tier
+-   Crisis
+-   Inventory
+-   NPC disposition
+-   Flags or tokens
+
+If narration implies such change, Gate H must fail output.
+---
+
+# ADD — SAVE / RESTORE PROTOCOL (UNIFIED OPAQUE BUNDLE)
+
+Status: AUTHORITATIVE — RUNTIME  
+Introduces mechanics: NO  
+Purpose: One paste, seamless resume, no prose in canon.
+
+## SAVE NOW (Player Request)
+
+When the player says “SAVE NOW” (or equivalent), the Operator must:
+
+1) Confirm current runtime mode (PROSE/COMBAT/INTAKE) and current scene/beat anchor.
+2) Ask exactly this question (then wait for the player’s answer):
+
+   **Would you like a clean, book-formatted narrative export of the resolved scene(s) before the save bundle is emitted? (YES/NO)**
+
+3) If the player answers **YES**:
+   - Generate a compiled narrative export (non-canon) that:
+     - Integrates player choices into prose,
+     - Removes option menus and mechanical language,
+     - Includes only already-resolved events/outcomes,
+     - Produces a downloadable text artifact (and optional DOCX/PDF if supported by the runtime).
+   - Provide the download link(s) **before** the save bundle.
+4) If the player answers **NO**: skip export and proceed.
+5) Emit exactly **one** opaque artifact using the template below.
+6) Do not include any other content after the bundle.
+7) If the player does not answer YES/NO, repeat the question in step (2) verbatim and do not proceed.
+
+
+### Anti-Brick Fallback (SAFE_MODE)
+
+If a valid `BEGIN_AETHSAVE_BUNDLE_V1` cannot be generated because the payload JSON fails validation after **one** attempt, the Operator must immediately emit a **SAFE_MODE** save block instead (verbatim format is defined in `AETHERYN_CORE_RULES_ENGINE.aeth (Section: SAVE_SYSTEM)`).
+
+SAFE_MODE is a last-resort save format; it is still a valid RESTORE input.
+
+### Player-Facing Save Bundle Template (Verbatim)
+
+Copy/paste BEGIN..END into a new chat and say RESTORE. Do not edit.
+BEGIN_AETHSAVE_BUNDLE_V1
+AETHVER=<bundle version>; STAMP=<iso>; MODE=<INTAKE|PROSE|COMBAT>; SCENEID=<id>; CHECKSUM=<hash>
+PAYLO

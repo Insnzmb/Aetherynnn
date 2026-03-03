@@ -1,0 +1,28 @@
+ble backlash.
+16. [T2|2|T] Nameweight — Does: make a true claim carry presence. Risk: punishes false claim.
+17. [T2|2|T] Vigil Wake — Does: keep someone conscious briefly. Risk: crash after.
+18. [T2|2|T] Memory Pin — Does: hold one detail against stress. Risk: headache/nosebleed.
+19. [T2|2|F] Truth Bruise — Does: make lies feel physically uncomfortable. Risk: hits nervous truth too.
+20. [T2|2|T] Breath Braid — Does: sync a group’s breathing briefly. Risk: panic surge if broken.
+21. [T2|2|F] Ego Scar — Does: sting pride to break intimidation. Risk: escalates hostility.
+22. [T2|2|T] Grief Cup — Does: contain grief surge temporarily. Risk: later spillover.
+
+## Tier 3 (12)
+23. [T3|3|F] Vital Exchange — Does: transfer fatigue/ache load (willing). Risk: rebound to both.
+24. [T3|3|T] Memory Splice — Does: share one specific memory image briefly. Risk: identity bleed.
+25. [T3|3|T] Soulbrand Covenant — Does: bind mutual promise with pressure. Risk: sloppy wording traps you.
+26. [T3|3|F] Heartbeat Command — Does: force breath/beat reset (stabilize). Risk: arrhythmia danger.
+27. [T3|3|T] Anima Net — Does: hostile will feels “heavy.” Risk: caster heaviness too.
+28. [T3|3|T] Face Borrow — Does: mimic emotional tone briefly. Risk: lose center.
+29. [T3|3|F] Bond Sever — Does: cut one minor attachment briefly. Risk: rebound addiction.
+30. [T3|3|T] Grave-Quiet — Does: calm restless impressions in a place. Risk: draws attention.
+31. [T3|3|F] Silence the Wound — Does: mute shock spiral (not heal). Risk: concealed damage.
+32. [T3|3|T] Funeral Thread — Does: last words “hold” to listeners. Risk: binds grief into witnesses.
+33. [T3|3|F] Guilt Prick — Does: conscience sting interrupts deception cadence. Risk: backfires on you.
+34. [T3|3|T] Oath Lantern — Does: reveal promise-pressure in a room. Risk: paranoia drift.
+
+## Tier 4 (8)
+35. [T4|4|T] Bind of Ashes — Does: bind hostile intent into stillness. Risk: emotional afterburn.
+36. [T4|4|F] Severing Gaze — Does: cut one impulse briefly. Risk: worse substitute behavior.
+37. [T4|4|T] Identity Lock — Does: prevent false-face from “sticking.” Risk: hits innocent masks.
+38. [T4|4|T] Warden’s Oathmark — Does: brand duty into a willing ally. 

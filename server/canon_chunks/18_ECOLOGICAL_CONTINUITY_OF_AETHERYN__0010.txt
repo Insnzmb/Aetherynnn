@@ -1,0 +1,37 @@
+et hours outside offices, courts, tollhouses, guild halls—especially those recently burned, looted, or “lost to error.” It targets people who try to *escape being recorded*: deserters, oath-breakers, forged-paper travelers, anyone whose identity is contested.
+
+**Combat:**
+- **Audit Slam:** Heavy strike. If the target has outstanding oaths/fees/warrants, the blow carries a second “aftershock” hit.
+- **Seizure Chain:** Ranged grab. On hit, restrain; at the start of the Ledgermaw’s turn, restrained targets take damage again (“assets reclaimed”).
+- **Record Rejection (Reaction, 1/scene):** Negate one incoming spell or item effect as “invalid.” (No backlash—just bureaucratic refusal.)
+- **Docket Haze (Passive):** The air around it muffles names; calling for help is harder, commands falter, witnesses “forget” details.
+
+**Defeat:**
+Killable through force. It also collapses if the **core-seal** embedded in its chest is destroyed—usually visible as a cracked wax stamp under layers of paper-skin.
+
+**Signs:**
+Misfiled names, wrong summons, a sudden flood of “returned” notices, ink-smell on windless nights.
+
+---
+
+#### THE ASHEN WITNESS
+*(Often named for the event it arrives after: “The Smoke Judge,” “The Gallows-Glow,” “After the Census Burned.”)*
+
+**Type:** Crisis Observer / Execution Echo
+**Threat:** High
+**HP:** 115
+**DR:** 3
+**Magic Resistance:** Medium
+**Move:** Quick; short blink-steps through smoke/ash within sight
+**Senses:** Sees violence, broken testimony, and unburied dead
+
+**Description:**
+A human silhouette burned hollow, interior lit by ember-glow. Faces surface briefly in its trailing smoke—eyes open, mouths shaping words that never land.
+
+**Behavior:**
+It appears after executions, massacres, purges, or oath-trials that ended in blood. It does not strike first unless attacked or lied to. It “tests” groups by forcing moments of truth—silences that won’t hold, confessions that slip out sideways.
+
+**Combat:**
+- **Cinder Verdict:** Ranged blast; damage increases if corpses are nearby, if a grave is shallow, or if the party is carrying trophies.
+- **Echo Step:** After taking damage, it may blink to cover, leaving a hot afterimage.
+- **Testimony Burn:** One target 

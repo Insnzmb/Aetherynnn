@@ -1,0 +1,29 @@
+eturns it.
+
+## Tier 3 (12)
+23. [T3|3|F] Furnace Breath — Does: cone of brutal heat-pressure. Risk: oxygen-thin dizziness.
+24. [T3|3|T] Kiln Cage — Does: hot “box” that shapes movement lanes. Risk: radiates outward.
+25. [T3|3|F] Sunlance Arc — Does: focused flare strike. Risk: afterimage blindness.
+26. [T3|3|T] Brandwake — Does: re-ignite a surface’s recent heat story. Risk: wrong pattern returns.
+27. [T3|3|T] Blister Halo — Does: heat aura punishes close approach. Risk: harms allies near you.
+28. [T3|3|F] Glassblush — Does: fuse sand/ash into jagged slag field. Risk: cripples everyone’s footing.
+29. [T3|3|T] Pyre Draft — Does: pull nearby flames toward a corridor. Risk: fire obeys imperfectly.
+30. [T3|3|F] Coalheart Surge — Does: short burst of brutal exertion. Risk: tendon tear backlash.
+31. [T3|3|T] Redline Temper — Does: stabilize overheated gear briefly. Risk: sudden snap later.
+32. [T3|3|F] Smoke Needle — Does: hot pinprick to interrupt a chant/breath. Risk: cruelty-stain feeling.
+33. [T3|3|T] Ember Orbit — Does: embers swirl as close deterrent. Risk: ignites fabrics.
+34. [T3|3|F] Scald Spit — Does: steam burst at close range. Risk: burns your throat.
+
+## Tier 4 (8)
+35. [T4|4|T] Pyre Mirror — Does: mirage-plane misleads distance/position. Risk: caster perception warps.
+36. [T4|4|T] Infernal Seal — Does: heat-weld a door/lock into refusal. Risk: cracks propagate elsewhere.
+37. [T4|4|T] Ash Eclipse — Does: broad ashfall concealment. Risk: leaves long evidence trail.
+38. [T4|4|F] Furnace Jaw — Does: melt hinge/lockworks on contact. Risk: smoke alarms the world.
+39. [T4|4|T] Crown of Coals — Does: embers intercept close threats. Risk: uncontrolled flare-ups.
+40. [T4|4|F] Molten Mercy — Does: fuse a wound shut (extreme stopgap). Risk: shock + permanent scar.
+41. [T4|4|T] Kiln-Quiet — Does: suppress flame light/sound briefly. Risk: sudden rebound flare.
+42. [T4|4|F] Brandscatter — Does: explode heat-stamps across a zone to confuse tracking. Risk: ignites clutter.
+
+## Tier 5 (8)
+43. [T5|5|T] Star-Brand Oath — Does: vow-brand; breaking creates consequence pressure. Risk: sloppy wording brands you.
+44. [T5|5|F] City-Glass Moment — Does: instant heat that reshapes fi

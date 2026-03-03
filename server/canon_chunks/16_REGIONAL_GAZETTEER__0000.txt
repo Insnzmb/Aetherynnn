@@ -1,0 +1,83 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# 16_REGIONAL_GAZETTEER.md
+Status: CANON — WORLD TEXTURE (PRESENT-TENSE)
+Introduces mechanics: NO
+Purpose: Provide stable regional texture so the world stays specific and repeatable.
+
+---
+
+## Source: AETH_OPT_17_PRESENT_ERA_SNAPSHOT (embedded)
+
+## AETHERYN — Present Era Snapshot (Authoritative Canon)
+Version date: 2026-02-11
+Status: AUTHORITATIVE (WORLD STATE ANCHOR)
+Introduces mechanics: NO
+
+---
+
+### CURRENT YEAR
+Neutral Year: +312
+
+---
+
+### ERA DESIGNATION
+The Hardened Quiet
+
+A period defined not by open war, but by accumulated memory:
+- Institutions track residue.
+- Markets react to instability.
+- Magic is monitored, not worshipped.
+- Rumor spreads faster than armies.
+
+---
+
+### GEOPOLITICAL CONDITION
+
+#### Veythar Empire
+- Expanding institutional surveillance of magic use.
+- Border tensions stable but watchful.
+- Shock-ward technologies increasingly standardized.
+
+#### Eldrion Kingdom
+- Internal court politics more volatile than external threats.
+- Agricultural stability holding.
+- Sun-court rituals publicly reinforced.
+
+#### Rhenwall Free Cities
+- Trade dominance rising.
+- Dockside galvanics widely adopted.
+- Trust remains low between city-states.
+
+#### Sapphire Dominion
+- Bureaucratic consolidation ongoing.
+- Infrastructure hardened against Aether disturbances.
+- Merchant guilds influence policy quietly.
+
+#### Southern Sands
+- Caravan networks strong.
+- Heat-adaptive craft widespread.
+- Peripheral raiding persists but does not escalate.
+
+#### Frozen Reaches
+- Sparse population.
+- Cold-ward craft stable.
+- Rumors of deep-wild movement increasing.
+
+#### Shattered Marches
+- Salvage economies active.
+- Aether residue density elevated.
+- R

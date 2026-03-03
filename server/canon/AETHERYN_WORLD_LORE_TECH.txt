@@ -1,0 +1,992 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+# AETHERYN — WORLD LORE + MONSTERS + TECH (RELEASE BUILD)
+
+This file consolidates setting and reference material used during play.
+
+## Table of Contents
+- SECTION: WORLD_LORE_HISTORY
+- SECTION: GODSLAYER_EVENT_AMENDMENT
+- SECTION: ECOLOGICAL_CONTINUITY
+- SECTION: MONSTER_DOCTRINE
+- SECTION: TECH_CATALOG
+- SECTION: CONSOLIDATED_AMENDMENT
+
+## Reference Note
+If you see a reference to a file-like name ending in “.aeth” that is not one of the 4 upload files,
+treat it as a **section label** inside AETHERYN_CORE_RULES_ENGINE.aeth or this file.
+
+If any rule text appears to conflict, follow the authority rules in **AETHERYN_CORE_RULES_ENGINE.aeth**.
+
+
+==============================================================================
+SECTION: WORLD_LORE_HISTORY (legacy 11_WORLD_LORE_HISTORY.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# 06_WORLD_LORE_LAWS.aeth (Compatibility Stub)
+
+Status: **NON-AUTHORING COMPATIBILITY FILE**
+Introduces mechanics: **NO**
+Purpose: This filename is referenced by legacy pointers inside the merged canon.
+This stub exists to prevent broken internal references.
+
+Authoritative content for this pointer is contained in:
+- **AETHERYN_ENGINE_CORE_MERGED.aeth (World Lore / Laws content, if present) and PATCH_LAYER.aeth.**
+
+If conflict arises, follow the Authority Order (02_CONFIGURE_TAB_INSTRUCTIONS (embedded)) and any locked procedures.
+
+---
+
+# 07_WORLD_HISTORY.aeth (Compatibility Stub)
+
+Status: **NON-AUTHORING COMPATIBILITY FILE**
+Introduces mechanics: **NO**
+Purpose: This filename is referenced by legacy pointers inside the merged canon.
+This stub exists to prevent broken internal references.
+
+Authoritative content for this pointer is contained in:
+- **AETHERYN_ENGINE_CORE_MERGED.aeth (World History / Chronicle content, if present) and/or legacy retained blocks.**
+
+If conflict arises, follow the Authority Order (02_CONFIGURE_TAB_INSTRUCTIONS (embedded)) and any locked procedures.
+
+---
+
+
+==============================================================================
+SECTION: GODSLAYER_EVENT_AMENDMENT (legacy 12_GODSLAYER_EVENT_AMENDMENT.aeth)
+==============================================================================
+
+# AETHERYN_WORLD_LORE_TECH.aeth (Section: GODSLAYER_EVENT_AMENDMENT)
+
+# AETHERYN CANON AMENDMENT --- GODSLAYER EVENT
+
+## Status
+
+Engine-Level Canon Integration\
+Authority: Structural Override Layer\
+Scope: Cosmology, Monster Origin, Relic Doctrine, Combat Philosophy
+
+------------------------------------------------------------------------
+
+# I. THE GODSLAYER EVENT (FOUNDATIONAL CANON)
+
+Two mortal twins --- one Warrior, one Mage --- killed a god.
+
+The event caused:
+
+-   Collapse of localized divine architecture
+-   Severe Aether lattice destabilization
+-   Soul pressure inversion
+-   Emergence of monster manifestations
+-   Withdrawal and paranoia among remaining gods
+
+This event is historical fact within the world, though interpretations
+vary culturally.
+
+------------------------------------------------------------------------
+
+# II. THE WARRIOR --- RELIC ASCENSION
+
+The Warrior survived the god-killing.
+
+Due to divine overload, the Warrior crystallized into a Relic-class
+entity.
+
+## Relic Classification
+
+Tier IV --- World-Shaping (per Relic Doctrine)
+
+## Fragmentation
+
+The relic fragmented into conceptual anchors representing:
+
+-   Discipline
+-   Precision
+-   Resolve
+-   Endurance
+
+Fragments remain dormant individually.
+
+## Activation Requirements
+
+Full activation requires:
+
+-   One Mage
+-   One Warrior
+-   Voluntary cooperation
+-   Divine pressure spike present
+-   Fragment convergence
+
+## Effect
+
+One declared action resolves at maximum allowable narrative margin
+within engine constraints.
+
+This does NOT: - Rewrite past events - Modify dice size - Override
+canonical locks
+
+It creates a decisive forward canon event.
+
+## Cost
+
+-   Regional instability spike
+-   Increased monster manifestation probability
+-   Both participants permanently altered
+-   Potential amplification of wandering rupture
+
+Tone: The world holds its breath. The act carries sorrow weight.
+
+------------------------------------------------------------------------
+
+# III. THE MAGE --- THE WANDERING RUPTURE
+
+The Mage did not survive intact.
+
+The Mage became a migrating metaphysical rupture within the Aether
+lattice.
+
+## Rupture Behavior
+
+-   Not fixed to one location
+-   Attracted to structural stress
+-   Migrates toward:
+    -   High arcane residue
+    -   Heavy Soul manipulation
+    -   Institutional fracture
+    -   Divine interference
+    -   Elevated Crisis density
+
+## Effects
+
+-   Monster manifestations increase in region
+-   Aether instability fluctuates
+-   Magic volatility rises temporarily
+
+The rupture never fully stabilizes. It drifts.
+
+------------------------------------------------------------------------
+
+# IV. MONSTER ORIGIN CLARIFICATION
+
+Monsters are manifestations of structural stress escaping through the
+wandering rupture.
+
+They are not inherently evil entities. They are pressure phenomena.
+
+This aligns with Monster Doctrine without altering mechanical templates.
+
+------------------------------------------------------------------------
+
+# V. COMBAT PHILOSOPHY REBALANCE
+
+Magic and Martial mastery are parity-based through asymmetry.
+
+## Mage Strengths
+
+-   Environmental shaping
+-   Identity manipulation
+-   High-impact volatility
+
+## Mage Risks
+
+-   Strain accumulation
+-   Concentration vulnerability
+-   Residue exposure
+-   Divine attention
+
+## Warrior Strengths
+
+-   Tempo control
+-   Close-quarters disruption
+-   Resource reliability
+-   Tactical lethality
+
+## Warrior Risks
+
+-   No supernatural recovery
+-   Precision-dependent survival
+
+Epic duel doctrine: Victory belongs to the side that commits the first
+irreversible mistake.
+
+------------------------------------------------------------------------
+
+# VI. DIVINE RESPONSE
+
+Remaining gods operate with increased caution.
+
+They fear:
+
+-   Mortal coordination
+-   Convergent Mage + Warrior alignment
+-   Reassembly of the Godslayer Relic
+
+Divine interference increases rupture movement probability.
+
+------------------------------------------------------------------------
+
+# VII. ENGINE INTEGRITY
+
+This amendment:
+
+-   Does not alter discrete resolution mechanics
+-   Does not modify dice boundaries
+-   Does not override save determinism
+-   Does not introduce retroactive canon manipulation
+
+It establishes cosmological context only.
+
+------------------------------------------------------------------------
+
+END OF AMENDMENT
+
+
+==============================================================================
+SECTION: ECOLOGICAL_CONTINUITY (legacy 18_ECOLOGICAL_CONTINUITY_OF_AETHERYN.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# AETHERYN_WORLD_LORE_TECH.aeth (Section: ECOLOGICAL_CONTINUITY)
+
+Status: CANON --- DESCRIPTIVE WORLD LAYER Introduces Mechanics: NO
+Purpose: Establish living ecological continuity across Aetheryn.
+
+------------------------------------------------------------------------
+
+# AETHERYN --- ECOLOGICAL CONTINUITY
+
+Aetheryn is a self-regulating ecological system shaped by:
+
+-   Climate bands
+-   Migration corridors
+-   Residue density
+-   Institutional pressure
+-   Keystone species balance
+
+Every region contains:
+
+1.  Primary Producers (flora)
+2.  Pollinators & Decomposers (insects, fungi)
+3.  Herbivores
+4.  Mesopredators
+5.  Apex Predators
+6.  Scavengers
+7.  Human Disruption Layer
+
+No species exists without ecological function.
+
+------------------------------------------------------------------------
+
+# INSECT & MICROFAUNA LAYER
+
+## Pollinators
+
+### Sunlace Bees (Eldrion / Sapphire)
+
+Primary orchard pollinators. Dependent on hedgerow continuity. Collapse
+triggers fruit failure and food pressure.
+
+### Riverthread Moths (Veythar Corridor)
+
+Night pollinators of reed systems. Residue-sensitive. Their absence
+precedes fish spawning shifts.
+
+### Glasswing Flies (Southern Sands)
+
+Dawn pollinators of succulents. Short lifecycle tied to early morning
+moisture cycles.
+
+------------------------------------------------------------------------
+
+## Decomposers
+
+### Carrion Beetles (Continental)
+
+Rapid carcass breakdown regulators. Population collapse increases
+disease vectors.
+
+### Scar Mites (Shattered Marches)
+
+Residue-tolerant microfauna. Stabilize high-density soil zones.
+
+------------------------------------------------------------------------
+
+# MIGRATION CORRIDORS
+
+-   Diagonal River Corridor (north--south seasonal flow)
+-   Southern Caravan Loop (succulent bloom cycle)
+-   Ironfall Ridge Spine (altitude-driven herd movement)
+-   Northern Freeze Arc (cold-cycle short migration)
+
+Residue zones alter but do not randomize migration paths.
+
+------------------------------------------------------------------------
+
+# FOOD WEB PRINCIPLE
+
+Producer → Herbivore → Predator → Apex → Scavenger → Decomposer → Soil →
+Producer
+
+Removal of any tier forces redistribution across adjacent tiers.
+Stability depends on keystone species integrity.
+
+------------------------------------------------------------------------
+
+# NARRATIVE INTEGRATION GUIDELINE
+
+Ecology must appear through:
+
+-   Seasonal timing shifts
+-   Predator movement patterns
+-   Insect presence or absence
+-   Carcass persistence
+-   Migration timing
+-   Crop health variation
+
+Never exposition. Always implication.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# MONSTER INTERACTION CLARIFICATION (ADDENDUM)
+
+Monsters are **not** part of the ecological food web defined in this file.
+
+Ecology governs:
+1. Primary Producers (flora)
+2. Pollinators & Decomposers
+3. Herbivores
+4. Mesopredators
+5. Apex Predators
+6. Scavengers
+7. Human Disruption Layer
+
+Monsters govern:
+- Crisis-responsive, battle-ready entities that manifest from accumulated structural stress
+- Non-ecological entities that may appear, dissipate, or reconfigure
+- Encounters whose *mechanics* are locked while *expression* reflects current Crisis
+
+Canonical reference:
+→ FILE: AETHERYN_WORLD_LORE_TECH.aeth (Section: MONSTER_DOCTRINE)
+
+Integration guideline (no mechanics):
+- Ecology provides *conditions* (seasonal timing, migration shifts, residue storms) that can *contextualize* monster manifestation.
+- Monster outcomes can create *aftereffects* that appear ecologically (carcass persistence shifts, scavenger surge, altered animal movement) **without reclassifying monsters as fauna**.
+
+End of Addendum.
+
+
+End of File.
+
+---
+
+
+==============================================================================
+SECTION: MONSTER_DOCTRINE (legacy 19_MONSTER_DOCTRINE_OF_AETHERYN.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# AETHERYN_WORLD_LORE_TECH.aeth (Section: MONSTER_DOCTRINE)
+Status: CANON — STRUCTURAL LAYER
+Introduces Mechanics: YES (Combat Templates Only)
+Does Not Modify: Ecology, Crisis, Engine Core
+
+---
+
+# AETHERYN — MONSTER DOCTRINE
+
+## I. SEPARATION LAW
+
+Animals:
+- Exist independently of Crisis
+- Part of trophic chain
+- Reproductive
+- Energy-bound
+
+Monsters:
+- Crisis-responsive
+- Non-ecological entities
+- Battle-ready by design
+- May appear, dissipate, or reconfigure
+- Do not require breeding logic
+
+Animals stabilize.
+Monsters destabilize.
+
+---
+
+# II. MONSTER ONTOLOGY
+
+A monster in Aetheryn is:
+A combat-capable manifestation of accumulated structural stress.
+
+They are born from:
+- Institutional overreach
+- Residue imbalance
+- Ideological polarization
+- War pressure
+- Ritual misalignment
+- Environmental shock layered with Crisis
+
+---
+
+# III. LOCKED ARCHETYPE TABLE
+
+1. Skirmisher — Mobility pressure
+2. Hunter — Isolation punisher
+3. Juggernaut — Line breaker
+4. Controller — Field denial
+5. Executioner — Burst finisher
+6. Harrow Swarm — Multi-body pressure
+7. Ritual Anchor — Support amplifier
+8. Crisis Avatar — Boss embodiment
+
+All archetypes:
+- Use 3d6 for combat actions; roll d20 for damage
+- No range bands
+- Discrete outcomes only
+- No scaling with Crisis
+- Balanced against player baseline
+
+---
+
+# IV. CRISIS EXPRESSION ENGINE
+
+Crisis always alters **appearance, symbolism, and environmental signature**.
+
+**Core statlines never change.** (HP, DEF/armor value, attack bonus, damage expression, and archetype role remain stable.)
+
+However, at higher Crisis the wandering rupture may attach **universal Expression Tags** that are:
+- fixed (no scaling numbers),
+- identical across all monsters,
+- and treated as environmental rupture behavior rather than “monster leveling.”
+
+Crisis 0–2: Latent Distortion  
+Crisis 3–5: Visible Fracture  
+Crisis 6–8: Open Instability *(Expression Tags may apply)*  
+Crisis 9–10: Mythic Rupture *(Expression Tags almost always apply)*  
+
+## Universal Expression Tag — [Volatile] (High Crisis)
+
+At **Crisis 6+**, monsters commonly manifest as **Ruptured**: they gain **[Volatile]**.
+
+**[Volatile]:** When the monster dies, its body ruptures into unstable residue. The GM expresses this as a short-range hazard (default: **d6** harm/effect in an adjacent zone or immediate radius, using the active engine’s hazard conventions).
+
+This does not change the monster’s core statline; it changes what the rupture does to the scene.
+
+---
+
+
+# V. BEHAVIORAL INTELLIGENCE LAYER
+
+Monsters prioritize:
+- Densest energy clusters
+- Visible authority
+- Open wounds (physical or institutional)
+
+Each archetype has tactical personality:
+- Skirmisher tests perimeter
+- Juggernaut fixates on obstacles
+- Hunter isolates prey
+- Controller shapes terrain
+- Executioner waits for vulnerability
+- Crisis Avatar forces phase shifts
+
+---
+
+# VI. PLAYER MIRROR SYSTEM
+
+[GM NOTE — Not Player Facing]
+! Hidden metric: Dominant Strategy Vector (DSV)
+! Tracked over last 5 combats.
+
+! Vectors:
+! 1. Burst-Damage
+! 2. Control/Zone
+! 3. Mobility
+! 4. Defensive
+! 5. Summon
+! 6. Ritual/Magic
+
+! Once stabilized, counter-archetype frequency increases slightly.
+! Stats never increase.
+
+---
+
+# VII. MONSTER SCAR SYSTEM
+
+Defeated monsters leave one scar:
+
+1. Residue Scar
+2. Institutional Scar
+3. Rumor Scar
+4. Ecological Scar
+5. Territorial Scar
+
+Three matching scars trigger Minor Regional Rewrite.
+
+---
+
+# VIII. LONG-HORIZON MONSTER EVOLUTION MODEL
+
+If a region experiences repeated monster manifestations tied to similar pressure axes:
+
+Stage 1: Recurring Expression Pattern
+Stage 2: Stable Archetype Frequency Bias
+Stage 3: Emergent Regional Monster Identity
+
+Evolution affects narrative form, not mechanics.
+
+---
+
+# IX. CRISIS AVATAR SUCCESSION TREE
+
+If a Crisis Avatar is defeated while Crisis remains high:
+
+Successor form may manifest reflecting unresolved dominant pressure.
+Succession preserves mechanical template but shifts symbolic embodiment.
+
+---
+
+# X. CATASTROPHIC SCAR CASCADE (HIGH CRISIS ONLY)
+
+If:
+- Crisis ≥ 8 sustained
+- 3+ Regional Rewrites
+- 1+ Avatar defeat
+
+Trigger Cascade Event:
+
+Effects:
+- Multiple scar types manifest simultaneously
+- Trade rerouting
+- Faction militarization
+- Environmental destabilization
+
+No automatic Crisis increase.
+Crisis review required per canon.
+
+---
+
+
+
+---
+
+# XI. CORE BESTIARY STARTER PACK (TRUTH BASELINE)
+
+Status: AUTHORITATIVE — BASELINE CONTENT  
+Introduces mechanics: YES (Monster Stat Blocks)  
+Purpose: Replace empty stubs so the Operator has a stable baseline and does not hallucinate monsters.
+
+## Stat Block Format (Minimal)
+
+- **HP**: hit points / durability pool
+- **DEF**: defense target to hit (engine-mappable)
+- **ATK**: attack modifier (engine-mappable)
+- **DMG**: default harm expression (engine-mappable)
+- **Behavior / Trigger**: tactical personality; deterministic tells
+
+If the active engine uses different labels, map as follows:
+- DEF ↔ the engine’s “to-hit target” for attacks against the creature.
+- ATK ↔ the engine’s attack roll modifier.
+- DMG ↔ harm expression (dice or fixed harm), as used by the current combat layer.
+
+## Universal Crisis Note
+
+- Crisis 0–5: Standard Form
+- Crisis 6+: Ruptured Form (adds **[Volatile]** on death; see Section IV)
+
+---
+
+## 1) Hollow Husk (Skirmisher)
+*Manifestation of starvation/neglect.*
+- **HP:** 8 | **DEF:** 12 | **ATK:** +3 | **DMG:** d20 (Claw)
+- **Behavior:** Swarms. Flees if alone.
+- **Trigger:** Targets anyone with `cond:Exhausted` first.
+
+## 2) Iron-Bound Sentinel (Juggernaut)
+*Manifestation of rigid authority/law.*
+- **HP:** 25 | **DEF:** 16 | **ATK:** +5 | **DMG:** d20 (Maul)
+- **Behavior:** Slow. Ignores cover. Breaks lines.
+- **Trigger:** Fixates on the best-armored / most-armed target.
+
+## 3) Whisper-Thief (Controller)
+*Manifestation of paranoia/secrets.*
+- **HP:** 12 | **DEF:** 14 | **ATK:** +4 | **DMG:** d20 (Mind-Spike) + Silence-effect
+- **Behavior:** Stays at range. Uses concealment.
+- **Trigger:** Attempts to suppress speech/spellcasting first.
+
+## 4) Glass-Jaw Horror (Executioner)
+*Manifestation of sudden violence.*
+- **HP:** 15 | **DEF:** 10 | **ATK:** +7 | **DMG:** d20 (Glass-Blade)
+- **Behavior:** Ambush burst. Low defense, high lethality.
+- **Trigger:** Uses Shatter Strike when target is below half vitality.
+
+## 5) Rot-Weaver (Harrow Swarm)
+*Manifestation of decay.*
+- **HP:** 20 (Swarm) | **DEF:** 11 | **ATK:** auto-zone | **DMG:** d20/round (Acid zone)
+- **Behavior:** Creates hazardous terrain.
+- **Trigger:** Splits into two 10 HP swarms if struck by slashing harm (engine-mappable).
+
+## 6) Ember-Scourge (Hunter)
+*Manifestation of uncontrolled fire.*
+- **HP:** 18 | **DEF:** 13 | **ATK:** +5 | **DMG:** d20 (Burn-Lash) + Ignite-effect
+- **Behavior:** Circles edges. Herds prey into hazards.
+- **Trigger:** Sets the environment on fire to constrain movement.
+
+## 7) Aether-Jackal (Scavenger)
+*Manifestation of magic waste.*
+- **HP:** 10 | **DEF:** 15 | **ATK:** +3 | **DMG:** d20 (Bite) + Drain-effect
+- **Behavior:** Steals mana/relic charge rather than committing to a kill.
+- **Trigger:** Flees immediately after a successful bite to “digest” energy.
+
+## 8) Stone-Grief Golem (Juggernaut)
+*Manifestation of mourning.*
+- **HP:** 40 | **DEF:** 18 | **ATK:** +4 | **DMG:** d20 (Slam)
+- **Behavior:** Passive until provoked or disrupted.
+- **Trigger:** Enters Rage (more aggressive) when an adjacent ally is killed.
+
+## 9) False-Face Siren (Controller)
+*Manifestation of betrayal.*
+- **HP:** 14 | **DEF:** 13 | **ATK:** +4 | **DMG:** special (Lure)
+- **Behavior:** Mimics friendly voices; isolates targets.
+- **Trigger:** Attempts to pull a target adjacent, then stun/lock them in place (engine-mappable).
+
+## 10) Rupture-Lord (Crisis Avatar — Boss)
+*Manifestation of total collapse.*
+- **HP:** 60 | **DEF:** 17 | **ATK:** +8 | **DMG:** d20 (Void-Cleave)
+- **Behavior:** Warps the scene; phase shifts.
+- **Trigger (Phase 2):** At half HP, gravity inverts; all movement costs double (engine-mappable).
+
+---
+
+End of File.
+
+---
+
+
+==============================================================================
+SECTION: TECH_CATALOG (legacy 13_TECH_CATALOG.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+# AETHERYN_WORLD_LORE_TECH.aeth (Section: TECH_CATALOG) — CORE TECH & RELICS (STARTER PACK)
+
+Status: **AUTHORITATIVE — CATALOG**
+Introduces mechanics: **YES (Item Tags + Explicit Effects)**
+Purpose: Provide a concrete starter catalog so the Operator does not hallucinate gear/relic logic.
+
+---
+
+## Tag Key (Operator Logic)
+
+- **[Consumable]**: Destroyed on use.
+- **[Volatile]**: On a bad mishap, harms the user or nearby environment (details are item-specific).
+- **[Crisis]**: Behavior shifts under high Crisis (explicitly described on the item).
+
+---
+
+## Universal Item Discipline (Binding)
+
+1) **No permanent dice changes.** Items never change dice size.
+2) **No stacking flat bonuses.** If multiple items could apply, only the single strongest applies.
+3) **Narrow leverage only.** If an item shifts odds, it does so in a tight context (one action type) and is always paired with a cost, risk, or limitation.
+4) **Facts over vibes.** Inventory entries should be factual tokens (`inv:Item=Qty`, `tag:...`), not prose.
+
+**Margin Shift Notation (when used):** `MS:+1` means “treat the final Margin as +1” in the specific context named. MS never stacks with any other MS.
+
+---
+
+## Standard Gear (Tech)
+
+1. **Sun-Spark Lantern** — [Light 30ft] [Fuel: Oil]  
+   Reveals residue smears and fine particulate ash that normal light hides.
+
+2. **Iron-Ration Brick** — [Consumable] [3 Uses]  
+   Removes `cond:Hungry` for one day per use. Tastes like regret.
+
+3. **Climbing Pitons** — [Gear]  
+   Grants permission to attempt climbs that would otherwise be “no.” If a climb would result in a fall, you may convert it to a hang + `cond:Strained` **once per scene**.
+
+4. **Filter-Mask** — [Gear]  
+   Negates inhaled toxins/spores (does not protect against skin contact).
+
+5. **Signal Flare** — [Consumable]  
+   Visible for miles. Also visible to things you’d rather not meet.
+
+6. **Healer’s Kit** — [Gear] [5 Uses]  
+   Stabilize a dying ally without a roll. Does not restore lost vitality.
+
+7. **Crowbar** — [Gear]  
+   **MS:+1** on a single “force-open / pry” action. Loud.
+
+8. **Oil Flask** — [Consumable] [Volatile]  
+   Creates a burning surface (GM adjudicates as a hazard zone). Mishap: splash-back.
+
+9. **Whetstone** — [Consumable] [1 Use]  
+   The next weapon strike that hits gains **MS:+1**. Cannot be stacked with other MS.
+
+10. **Bedroll** — [Gear]  
+   Prevents `cond:Exhausted` from “sleeping rough” in normal weather (does not override extreme cold, injury, or fear conditions).
+
+---
+
+## Relics (Tier I & II)
+
+Relics always include an explicit **Cost**. Any numeric leverage is expressed as **MS** and never stacks.
+
+11. **Whispering Compass (Tier I)**  
+   Effect: Points to the nearest *fresh* water source within a day’s travel.  
+   Cost: You hear faint sobbing whenever you follow it.
+
+12. **Ember-Ring (Tier I)**  
+   Effect: **MS:+1** when resisting cold exposure.  
+   Cost: Requires double water rations while worn.
+
+13. **Glass-Key (Tier I)** — [Consumable]  
+   Effect: Opens any mundane lock **once**, then shatters.  
+   Cost: The shatter is loud enough to carry.
+
+14. **Silent-Step Boots (Tier II)**  
+   Effect: **MS:+1** on stealthy movement actions.  
+   Cost: You cannot speak while wearing them.
+
+15. **Lens of Truth (Tier II)**  
+   Effect: Reveals invisible entities and glamours while active.  
+   Cost: Gain `stress:+1/round` while maintained.
+
+16. **Blood-Iron Shield (Tier II)**  
+   Effect: Once per round, reduce the attacker’s successful hit Margin by **2** (to a minimum of 0).  
+   Cost: You cannot be healed by magic while holding it.
+
+17. **Gravity-Hammer (Tier II)**  
+   Effect: On a hit, you may force a knockdown outcome (GM expresses as displacement/prone) **once per round**.  
+   Cost: Unwieldy—requires exceptional Strength or you gain `cond:Strained` after each attack.
+
+18. **Aether-Jar (Tier II)** — [Volatile]  
+   Effect: Captures one spell aimed at you (negates it) if activated in time.  
+   Cost: Must be “emptied” (an action) within 1 minute or it cracks and releases residue.
+
+19. **Memory-Quill (Tier I)**  
+   Effect: Writes down what you speak perfectly (useful for oaths, names, coordinates).  
+   Cost: Ink is your blood (1 vitality/harm/HP as used by the current engine).
+
+20. **Rot-Bane Amulet (Tier II)**  
+   Effect: Immunity to disease and ordinary rot-spores.  
+   Cost: Food tastes like ash; long meals become difficult.
+
+---
+End of File.
+
+
+==============================================================================
+SECTION: CONSOLIDATED_AMENDMENT (legacy AETHERYN_CONSOLIDATED_AMENDMENT.aeth)
+==============================================================================
+
+# AETHERYN CONSOLIDATED AMENDMENT
+
+## Combat Doctrine + Spell Architecture + Relic Doctrine
+
+---
+
+## I. Combat Doctrine Addendum
+
+**Tone:** Fast & Lethal  
+- Most combats resolve in **2–4 rounds**.  
+- High-margin success is **decisive**.  
+- Positioning and timing matter more than inflated HP.  
+- No infinite stacking bonuses.  
+- No damage-sponge enemies.
+
+### Resource System
+
+**Casters**
+- Medium Mana Pool (**8–10 baseline**).
+- Spells cost **1–5 mana** depending on tier.
+- Hidden **Arcane Strain** builds with rapid casting.
+- After several spells in short succession, backlash risk increases.
+- Strain resets gradually after combat.
+
+**Martial**
+- Stamina Pool (**10–12 baseline**).
+- Visible fatigue as stamina lowers.
+- Strong zone control and engagement authority.
+- Can attempt spell disruption at close range.
+
+**Ranged**
+- Lower stamina cost per attack.
+- High precision, low control authority.
+- Increased vulnerability when engaged in melee.
+
+### Death & Resurrection
+
+- Death is common in combat.
+- Resurrection is **Forbidden Knowledge**.
+- Requires:
+  1. Soul ritual
+  2. Relic sacrifice
+  3. Institutional sanction
+- Return always causes transformation (examples):
+  - Weakened
+  - Changed
+  - Marked by divine notice
+  - Environmental echo
+- Rare anomalies possible (double presence, bleed-through, delayed instability).
+- No resurrection is consequence-free.
+
+---
+
+## II. Spell Architecture Framework (Updated)
+
+### Six Towers (Core Pillars / Player-Facing)
+
+1. **Fire** — combustion, heat, forceful expression  
+2. **Water** — flow, phase, pressure, cold/brine  
+3. **Air** — breath, sound, storm, static  
+4. **Earth** — stone, metal, weight, rust  
+5. **Soul** — life/death adjacency, identity, bonds, memory  
+6. **Aether** — space, wards, reality-lattice, residue craft  
+
+### Non-Core Domain (Not a Tower)
+
+- **Verdant** is not a tower.  
+  Verdant is a **synthesis domain**: growth & living change expressed through multi-pillar interaction  
+  (commonly **Earth + Water**, with **Soul pressure** as the identity-binding constraint).  
+  Access is rare, political, relic-mediated, or crisis-adjacent.
+
+> **Fate is removed as a castable pillar.** “Coincidence pressure / mythic convergence” is handled by engine doctrine,
+> scars, and GM escalation—not spells.
+
+### Spell Structure
+
+Each spell includes:
+- Name
+- What it does (plain language)
+- Resolution method (3d6 for actions; d20 for damage)
+- Risk (the balancing hook)
+
+### Spell Lanes
+
+- **Flash (F):** immediate, cinematic effects.
+- **Tactical (T):** control, positioning, constraints, or battlefield shaping.
+
+### Tier Progression (Tower Extended to Tier 5)
+
+Baseline tower volume is **50 spells**:
+- **Tier 1:** 10 spells (cost 1 mana)
+- **Tier 2:** 12 spells (cost 2 mana)
+- **Tier 3:** 12 spells (cost 3 mana)
+- **Tier 4:** 8 spells (cost 4 mana)
+- **Tier 5:** 8 spells (cost 5 mana)
+
+**No spell:**
+- Modifies dice size permanently
+- Stacks flat numeric bonuses
+- Bypasses discrete resolution
+
+---
+
+## III. Relic Doctrine Addendum
+
+**Core Principle:** Relics are fragments of divine intent. Most have hidden consequences.
+
+### Impact Tiers
+
+**Tier I — Curious Relics**
+- Minor effects
+- Mostly safe
+- Occasionally researched
+
+**Tier II — Potent Relics**
+- Strong leverage
+- Hidden cost
+
+**Tier III — Dangerous Relics**
+- Conflict-shaping
+- Major consequences
+
+**Tier IV — World-Shaping Relics**
+- Era-defining
+- Extremely rare
+
+### Relic Structure (Engine Layer)
+
+Each relic contains:
+- Primary Effect (visible)
+- Echo Vector (hidden)
+- Residual Mark (long-term effect)
+- Discovery Path (rumor, clergy, academia, etc.)
+
+**Relics:**
+- Never stack numeric bonuses
+- Never inflate base dice
+- Always leave narrative consequence

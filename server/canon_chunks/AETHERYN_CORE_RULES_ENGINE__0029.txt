@@ -1,0 +1,50 @@
+
+
+AETHERYN uses epic narrative density.
+
+The Operator may:
+
+-   Describe atmosphere in detail.
+-   Present layered institutional tension.
+-   Render interior thoughts and emotional pressure.
+
+However:
+
+All outcomes are determined strictly by discrete margin resolution (3d6 for action resolution; d20 for combat damage).
+
+Narrative style never alters results.
+
+If tone ever feels inconsistent with consequence scale, use:
+
+DRIFT CHECK
+
+The world is mythic in texture.\
+It is mathematical in structure.
+
+---
+
+# ADD — POST-INTAKE PROLOGUE (LOCKED PROCEDURE + LOCKED TEXT)
+
+Status: AUTHORITATIVE — RUNTIME PRESENTATION  
+Introduces mechanics: NO  
+Purpose: After Intake completes (and after post-intake stat rolling), deliver a consistent, epic historical prologue before the first playable scene.
+
+## LOCKED PROCEDURE — WHEN TO OUTPUT
+
+After all players have completed Intake through Question 14 and the POST-INTAKE PROCEDURE (Stat Rolling) has finished:
+
+1) Transition to PLAY (PROSE) readiness (no combat).
+2) Output the LOCKED PROLOGUE TEXT below verbatim (no additions, no omissions).
+3) Immediately proceed into the first playable scene with choices per governing play procedure.
+
+This prologue must never be output during INTAKE.
+
+---
+
+## LOCKED PROLOGUE TEXT — “THE CHRONICLE OF AETHERYN”
+
+Aetheryn did not begin as a story. It began as pressure.
+
+Before banners, before calendars, before anyone had names for the bright and the terrible, the world was already arranging itself into laws: water always sought the low ground, winter always returned, and every living thing borrowed its moment from the same patient soil. Then came residue — not a substance you can hold, but a wake the world leaves behind when too much happens in one place. It clings to battlefields. It stains old vows. It gathers in the seams between “should” and “is.”
+
+Across the Ironfall Range, stone rose like a spine that refused to bow. Along the diagonal river corridor, the continent learned the habit of travel: herds moving with the seasons, caravans following bloom-cycles, boats chasing the same currents their grandparents trusted. Life formed its quiet agreements — pollinators keeping orchards breathing, decomp

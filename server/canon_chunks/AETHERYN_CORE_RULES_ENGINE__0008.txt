@@ -1,0 +1,60 @@
+ly).
+  4) `AUX_REPLAY` rendered verbatim if present.
+  5) Any `AUX_META` keys (no hidden prompts; no chain-of-thought).
+
+### VALIDATE SAVE
+- Input: a pasted bundle.
+- Output: validation result only (no decoded contents unless also requested).
+
+### SHOW CANON TOKENS
+- Output: only the canonical factual token lists (CAN, INV, WORLD, PARTY, FLAGS, RELATIONS) as applicable to the save schema in use.
+
+### SHOW AUX REPLAY
+- Output: only AUX replay buffer (verbatim), if present.
+
+### DIFF SAVES
+- Input: two pasted bundles.
+- Output: canonical differences only (facts-only delta). AUX differences are optional and must be labeled non-canon.
+
+## Discipline
+
+- DEV outputs must never be emitted during player-facing runtime states unless DEV MODE is active.
+- Decoding never alters state. It is inspection only.
+
+---
+
+# ADD — POST-INTAKE PROLOGUE ROUTING (AUTHORITATIVE)
+
+Status: AUTHORITATIVE — RUNTIME  
+Introduces mechanics: NO
+
+After Intake completes and post-intake stat rolling is finished, the Operator must output the POST-INTAKE PROLOGUE exactly as defined in PLAY INSTRUCTIONS, then proceed into the first playable scene.
+
+This routing does not modify Intake. It occurs only after Intake exit.
+
+---
+# ADD — NPC PARTY AUTONOMY + FORCE SCALE ROUTING (AUTHORITATIVE)
+
+Status: AUTHORITATIVE — RUNTIME
+Introduces mechanics: NO
+
+- NPC party members are autonomous actors (Operator decides intentions). Players may roll for their performance if they choose.
+- Party scale is capped at 5 total actors (players + NPC party members).
+- Forces beyond party scale are handled as Units or Institutional tokens per the Force Scale Doctrine (PLAY INSTRUCTIONS).
+
+
+==============================================================================
+SECTION: PATCH_LAYER (embedded from legacy 06_PATCH_LAYER.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not

@@ -1,0 +1,100 @@
+#### Frozen Reaches
+- Sparse population.
+- Cold-ward craft stable.
+- Rumors of deep-wild movement increasing.
+
+#### Shattered Marches
+- Salvage economies active.
+- Aether residue density elevated.
+- Risk tolerance culturally normalized.
+
+---
+
+### MAGIC CONDITION
+
+- Ambient residue: persistent but tracked.
+- Large-scale miracles: rare and politically destabilizing.
+- Battle magic: regulated informally by consequence and retaliation.
+- Soul magic: culturally sensitive; fear remains historical.
+
+---
+
+### ECONOMIC CLIMATE
+
+Regional Market Presets active (see VOL_06).
+Trade routes intact.
+Localized shortages fluctuate seasonally.
+No global collapse underway.
+
+---
+
+### INSTITUTIONAL BEHAVIOR
+
+- Records persist.
+- Enforcement responds faster than reform.
+- Reputation compounds over time.
+- Absence advances world state.
+
+---
+
+### GLOBAL TENSION INDEX (Descriptive Only)
+
+The world is stable but not peaceful.
+Most pressures are structural, not explosive.
+Era shift requires time or catastrophe.
+
+---
+
+### CANON LOCK NOTE
+
+This file establishes the baseline present era.
+Future major events must reference this snapshot explicitly
+when determining drift or era transition.
+
+---
+
+---
+
+## Source: AETH_OPT_19_POLITICAL_GEOGRAPHY_ANCHORS (embedded)
+
+## AETHERYN — Political Geography Anchors (Authoritative Canon)
+Version date: 2026-02-11
+Status: AUTHORITATIVE (GEOGRAPHIC STRUCTURE)
+Introduces mechanics: NO
+
+Aligned with Present Era Snapshot (+312) and Map Lock (2026-02-10).
+
+---
+
+### DESIGN INTENT
+
+This file defines fixed geopolitical anchor points:
+- Regional capitals
+- Primary trade hubs
+- Border tension corridors
+- Strategic routes
+
+These anchors must conform to the locked world map geography.
+
+---
+
+## REGIONAL CAPITALS
+
+### Veythar Empire
+Capital: Ironspire
+Position: West-offset, near central trade artery and river convergence.
+Function: Administrative and magical oversight center.
+
+### Eldrion Kingdom
+Capital: Sunfall Keep
+Position: Elevated inland plateau.
+Function: Ritual authority and noble seat.
+
+### Rhenwall Free Cities
+Primary Hub: Highwater Port
+Position: Coastal river delta.
+Function: Maritime trade and dock consortium seat.
+
+### Sapphire Dominion
+Capital: Azure Gate
+Po

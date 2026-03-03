@@ -1,0 +1,11 @@
+Patched on 2026-03-01
+
+- Fixed a client-side syntax error in web/app/app_core.js caused by escaped quotes on turnReadyBtn and turnResolveBtn DOM lookups.
+- Verified syntax for project JavaScript files outside node_modules.
+- Smoke-tested server startup and HTTP root response.
+
+[2026-03-01] Patch: button-dead/cache desync hardening
+- Added no-store headers for HTML/CSS/JS/assets from the local server.
+- Disabled static ETag/Last-Modified reuse on web assets to stop stale client bundles.
+- Added version query strings to CSS/JS in index.html.
+- Added UI boot marker in console: [AETHERYN] UI build v44b-btn-cachefix1 loaded

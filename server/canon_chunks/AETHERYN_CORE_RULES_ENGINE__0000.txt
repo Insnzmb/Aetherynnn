@@ -1,0 +1,59 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+# AETHERYN — CORE RULES + ENGINE (RELEASE BUILD)
+
+This file is a **release consolidation** of the core runtime authorities for AETHERYN.
+It preserves the original internal ordering (Master Canon → Engine → Ops → Patch/Lock → Intake → Play → Save).
+
+**Release note (player-facing impact):**
+- Intake question “Character age” is **18 or older** in this release build.
+
+## Table of Contents
+- SECTION: MASTER_CANON_RULE
+- SECTION: ENGINE_CORE
+- SECTION: GM_OPERATIONS
+- SECTION: PATCH_LAYER
+- SECTION: OPERATOR_LOCKDOWN_PATCH
+- SECTION: DRIFT_DETECTION
+- SECTION: INTAKE_PROTOCOL
+- SECTION: PLAY_INSTRUCTIONS
+- SECTION: SAVE_SYSTEM
+
+## Reference Map
+AETHERYN was originally authored as many smaller files. This release bundle consolidates them.
+
+- If you see a reference to a file-like name (example: “PATCH_LAYER.aeth” or “10_SAVE_SYSTEM.aeth”) treat it as a
+  **section label inside this file**, unless it matches one of the actual upload files:
+  - AETHERYN_RUNTIME_PLAYER_LOCKED.aeth
+  - AETHERYN_CORE_RULES_ENGINE.aeth
+  - AETHERYN_WORLD_LORE_TECH.aeth
+  - AETHERYN_SPELLS.aeth
+
+
+==============================================================================
+SECTION: MASTER_CANON_RULE (embedded from legacy 01_MASTER_CANON_RULE.aeth)
+==============================================================================
+
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, 

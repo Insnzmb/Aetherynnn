@@ -1,0 +1,624 @@
+{
+  "base_image": "image.jpg",
+  "size_px": [
+    832,
+    1248
+  ],
+  "kingdoms": [
+    {
+      "id": "frostveil",
+      "name": "Frostveil Dominion"
+    },
+    {
+      "id": "eryndor",
+      "name": "Eryndor Confederacy"
+    },
+    {
+      "id": "verdantis",
+      "name": "Verdantis Crownlands"
+    },
+    {
+      "id": "ebonreach",
+      "name": "Ebonreach Covenant"
+    },
+    {
+      "id": "ashmarsh",
+      "name": "Ashmarsh Principalities"
+    },
+    {
+      "id": "emberlands",
+      "name": "Emberlands Imperium"
+    }
+  ],
+  "features": {
+    "mountains": [
+      {
+        "name": "Glacierwall Range",
+        "polygon": [
+          [
+            0.18,
+            0.2
+          ],
+          [
+            0.32,
+            0.16
+          ],
+          [
+            0.5,
+            0.14
+          ],
+          [
+            0.66,
+            0.16
+          ],
+          [
+            0.82,
+            0.22
+          ],
+          [
+            0.78,
+            0.26
+          ],
+          [
+            0.62,
+            0.24
+          ],
+          [
+            0.46,
+            0.22
+          ],
+          [
+            0.3,
+            0.24
+          ]
+        ]
+      },
+      {
+        "name": "Ashen Rift Mountains",
+        "polygon": [
+          [
+            0.5,
+            0.74
+          ],
+          [
+            0.56,
+            0.76
+          ],
+          [
+            0.62,
+            0.8
+          ],
+          [
+            0.64,
+            0.86
+          ],
+          [
+            0.6,
+            0.92
+          ],
+          [
+            0.52,
+            0.92
+          ],
+          [
+            0.46,
+            0.88
+          ],
+          [
+            0.44,
+            0.82
+          ],
+          [
+            0.46,
+            0.76
+          ]
+        ]
+      }
+    ],
+    "rivers": [
+      {
+        "name": "Silverflow River",
+        "polyline": [
+          [
+            0.58,
+            0.48
+          ],
+          [
+            0.66,
+            0.47
+          ],
+          [
+            0.74,
+            0.48
+          ],
+          [
+            0.82,
+            0.5
+          ]
+        ]
+      }
+    ]
+  },
+  "settlements": [
+    {
+      "id": 1,
+      "name": "Ashgate",
+      "type": "town",
+      "kingdom_id": "ashmarsh",
+      "xy": [
+        0.319712,
+        0.627404
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Emberfen",
+      "type": "town",
+      "kingdom_id": "ashmarsh",
+      "xy": [
+        0.545673,
+        0.688301
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Riftshadow",
+      "type": "town",
+      "kingdom_id": "ashmarsh",
+      "xy": [
+        0.409856,
+        0.560897
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Cindralith",
+      "type": "town",
+      "kingdom_id": "ashmarsh",
+      "xy": [
+        0.317308,
+        0.592147
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dustmere",
+      "type": "town",
+      "kingdom_id": "ashmarsh",
+      "xy": [
+        0.44351,
+        0.814103
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Cinder Plains",
+      "type": "town",
+      "kingdom_id": "ashmarsh",
+      "xy": [
+        0.295673,
+        0.841346
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Ridge of Echoes",
+      "type": "town",
+      "kingdom_id": "ashmarsh",
+      "xy": [
+        0.324519,
+        0.759615
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Obsidian Hold",
+      "type": "town",
+      "kingdom_id": "ashmarsh",
+      "xy": [
+        0.347356,
+        0.697917
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mirehold",
+      "type": "town",
+      "kingdom_id": "ebonreach",
+      "xy": [
+        0.56851,
+        0.908654
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Hollowgrave",
+      "type": "city",
+      "kingdom_id": "ebonreach",
+      "xy": [
+        0.729567,
+        0.560897
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Murkfield",
+      "type": "town",
+      "kingdom_id": "ebonreach",
+      "xy": [
+        0.626202,
+        0.794872
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Soulmarsh",
+      "type": "town",
+      "kingdom_id": "ebonreach",
+      "xy": [
+        0.463942,
+        0.459936
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Duskfen",
+      "type": "town",
+      "kingdom_id": "ebonreach",
+      "xy": [
+        0.50601,
+        0.915064
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Blackwater",
+      "type": "town",
+      "kingdom_id": "ebonreach",
+      "xy": [
+        0.69351,
+        0.921474
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Wraithwater",
+      "type": "town",
+      "kingdom_id": "ebonreach",
+      "xy": [
+        0.680288,
+        0.854968
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Scorchwind",
+      "type": "town",
+      "kingdom_id": "emberlands",
+      "xy": [
+        0.8125,
+        0.802083
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Furnacehold",
+      "type": "town",
+      "kingdom_id": "emberlands",
+      "xy": [
+        0.836538,
+        0.735577
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Emberdeep",
+      "type": "town",
+      "kingdom_id": "emberlands",
+      "xy": [
+        0.623798,
+        0.853365
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Dragoncrater",
+      "type": "town",
+      "kingdom_id": "emberlands",
+      "xy": [
+        0.664663,
+        0.672276
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Sulfur Harbor",
+      "type": "town",
+      "kingdom_id": "emberlands",
+      "xy": [
+        0.759615,
+        0.888622
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Ironblood",
+      "type": "town",
+      "kingdom_id": "emberlands",
+      "xy": [
+        0.695913,
+        0.888622
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Ashflow",
+      "type": "town",
+      "kingdom_id": "emberlands",
+      "xy": [
+        0.65024,
+        0.914263
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Redwaste",
+      "type": "town",
+      "kingdom_id": "emberlands",
+      "xy": [
+        0.760817,
+        0.771635
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Valemarch",
+      "type": "city",
+      "kingdom_id": "eryndor",
+      "xy": [
+        0.28125,
+        0.267628
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Tharwick",
+      "type": "city",
+      "kingdom_id": "eryndor",
+      "xy": [
+        0.418269,
+        0.483974
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Highfield",
+      "type": "town",
+      "kingdom_id": "eryndor",
+      "xy": [
+        0.49399,
+        0.413462
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Goldmere",
+      "type": "town",
+      "kingdom_id": "eryndor",
+      "xy": [
+        0.080529,
+        0.482372
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Redbrook",
+      "type": "town",
+      "kingdom_id": "eryndor",
+      "xy": [
+        0.436298,
+        0.318109
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Sunfall Keep",
+      "type": "town",
+      "kingdom_id": "eryndor",
+      "xy": [
+        0.383413,
+        0.584936
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Oldenmoor Hamlet",
+      "type": "town",
+      "kingdom_id": "eryndor",
+      "xy": [
+        0.460337,
+        0.389423
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Greenrise",
+      "type": "town",
+      "kingdom_id": "eryndor",
+      "xy": [
+        0.317308,
+        0.413462
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Riverend",
+      "type": "town",
+      "kingdom_id": "eryndor",
+      "xy": [
+        0.30649,
+        0.383013
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Northwind Watch",
+      "type": "outpost",
+      "kingdom_id": "frostveil",
+      "xy": [
+        0.391827,
+        0.345353
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Icewatch Hold",
+      "type": "fortress",
+      "kingdom_id": "frostveil",
+      "xy": [
+        0.307692,
+        0.063301
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Frostmere",
+      "type": "outpost",
+      "kingdom_id": "frostveil",
+      "xy": [
+        0.167067,
+        0.140224
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Varyn",
+      "type": "outpost",
+      "kingdom_id": "frostveil",
+      "xy": [
+        0.822115,
+        0.252404
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Skarhald",
+      "type": "outpost",
+      "kingdom_id": "frostveil",
+      "xy": [
+        0.375,
+        0.132212
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Whitebarrow",
+      "type": "outpost",
+      "kingdom_id": "frostveil",
+      "xy": [
+        0.680288,
+        0.369391
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Glacierspine Holdfast",
+      "type": "outpost",
+      "kingdom_id": "frostveil",
+      "xy": [
+        0.484375,
+        0.311699
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Ashwind Pass",
+      "type": "pass",
+      "kingdom_id": "frostveil",
+      "xy": [
+        0.655048,
+        0.313301
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Thornreach",
+      "type": "town",
+      "kingdom_id": "verdantis",
+      "xy": [
+        0.894231,
+        0.443109
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Eastfall",
+      "type": "town",
+      "kingdom_id": "verdantis",
+      "xy": [
+        0.63101,
+        0.438301
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Lowwood",
+      "type": "town",
+      "kingdom_id": "verdantis",
+      "xy": [
+        0.759615,
+        0.44391
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Heartwood Spire",
+      "type": "landmark",
+      "kingdom_id": "verdantis",
+      "xy": [
+        0.814904,
+        0.417468
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Silvergrove",
+      "type": "town",
+      "kingdom_id": "verdantis",
+      "xy": [
+        0.707933,
+        0.446314
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Verdantbay Port",
+      "type": "port",
+      "kingdom_id": "verdantis",
+      "xy": [
+        0.871394,
+        0.491186
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Glimmerfen",
+      "type": "town",
+      "kingdom_id": "verdantis",
+      "xy": [
+        0.615385,
+        0.507212
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Greencoast Port",
+      "type": "port",
+      "kingdom_id": "verdantis",
+      "xy": [
+        0.603365,
+        0.69391
+      ]
+    }
+  ]
+}

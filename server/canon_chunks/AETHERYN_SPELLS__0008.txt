@@ -1,0 +1,34 @@
+ind — Does: grit-laced cutting gust (needs grit). Risk: maims indiscriminately.
+40. [T4|4|T] Breath Tax — Does: stamina drain pressure zone. Risk: caster collapses too.
+41. [T4|4|T] Pressure Key — Does: unlock latch via pressure pulses. Risk: jams permanently.
+42. [T4|4|T] Cloudblind — Does: whiten air like sudden cloud. Risk: ally disorientation.
+
+## Tier 5 (8)
+43. [T5|5|T] Cyclone Anchor — Does: spinning zone locks movement lanes. Risk: wrecks structures.
+44. [T5|5|F] Sky-Split Verdict — Does: thunder+pressure strike. Risk: residue storm aftertaste.
+45. [T5|5|T] Wind-Null Sanctum — Does: perfect stillness bubble. Risk: uncanny; draws scrutiny.
+46. [T5|5|F] Lightning Right — Does: call static strike in metal-dense space. Risk: uncontrolled arcing.
+47. [T5|5|T] Storm Covenant — Does: oath sealed by shared breath. Risk: betrayal rebounds hard.
+48. [T5|5|F] Tempest Reversal — Does: invert a gust mid-flight. Risk: bone-snap potential.
+49. [T5|5|T] Horizon Shout — Does: voice carried impossibly far. Risk: everyone hears.
+50. [T5|5|T] Vacuum Corridor — Does: strip air along a short path. Risk: lethal edge.
+
+---
+
+# EARTH (50)
+
+## Tier 1 (10)
+1. [T1|1|T] Grain-Read — Does: feel weak points in material. Risk: sensory overload.
+2. [T1|1|F] Stoneknuckle — Does: harden body for one impact exchange. Risk: joint ache.
+3. [T1|1|T] Dust Shroud — Does: controlled dust veil. Risk: choking grit.
+4. [T1|1|T] Ore Sense — Does: detect nearby metal mass. Risk: city headache.
+5. [T1|1|F] Pebble Ping — Does: flick stone like a bullet (needs stone). Risk: ricochet.
+6. [T1|1|T] Weight Tell — Does: sense hollows/voids underfoot. Risk: false reads in ruins.
+7. [T1|1|F] Nail-Seat — Does: drive nail/spike instantly. Risk: splits wood.
+8. [T1|1|T] Mortar Touch — Does: seal a small crack temporarily. Risk: fails under stress.
+9. [T1|1|F] Rust Kiss — Does: accelerate surface rust on cheap iron. Risk: spreads to your gear.
+10. [T1|1|T] Stone Ear — Does: listen through walls via vibration. Risk: phantom echoes.
+
+## Tier 2 (12)
+11. [T2|2|T] Ironbind — Does: buckle/cinch metal around itself. Risk: permanent gear damage.
+12. [T2|2|F] Shatter Tap — Does: precise vibration crack. Risk: chain fracture 

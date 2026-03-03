@@ -1,0 +1,72 @@
+# AETHERYN CONSOLIDATED AMENDMENT
+
+## Combat Doctrine + Spell Architecture + Relic Doctrine
+
+---
+
+## I. Combat Doctrine Addendum
+
+**Tone:** Fast & Lethal  
+- Most combats resolve in **2–4 rounds**.  
+- High-margin success is **decisive**.  
+- Positioning and timing matter more than inflated HP.  
+- No infinite stacking bonuses.  
+- No damage-sponge enemies.
+
+### Resource System
+
+**Casters**
+- Medium Mana Pool (**8–10 baseline**).
+- Spells cost **1–5 mana** depending on tier.
+- Hidden **Arcane Strain** builds with rapid casting.
+- After several spells in short succession, backlash risk increases.
+- Strain resets gradually after combat.
+
+**Martial**
+- Stamina Pool (**10–12 baseline**).
+- Visible fatigue as stamina lowers.
+- Strong zone control and engagement authority.
+- Can attempt spell disruption at close range.
+
+**Ranged**
+- Lower stamina cost per attack.
+- High precision, low control authority.
+- Increased vulnerability when engaged in melee.
+
+### Death & Resurrection
+
+- Death is common in combat.
+- Resurrection is **Forbidden Knowledge**.
+- Requires:
+  1. Soul ritual
+  2. Relic sacrifice
+  3. Institutional sanction
+- Return always causes transformation (examples):
+  - Weakened
+  - Changed
+  - Marked by divine notice
+  - Environmental echo
+- Rare anomalies possible (double presence, bleed-through, delayed instability).
+- No resurrection is consequence-free.
+
+---
+
+## II. Spell Architecture Framework (Updated)
+
+### Six Towers (Core Pillars / Player-Facing)
+
+1. **Fire** — combustion, heat, forceful expression  
+2. **Water** — flow, phase, pressure, cold/brine  
+3. **Air** — breath, sound, storm, static  
+4. **Earth** — stone, metal, weight, rust  
+5. **Soul** — life/death adjacency, identity, bonds, memory  
+6. **Aether** — space, wards, reality-lattice, residue craft  
+
+### Non-Core Domain (Not a Tower)
+
+- **Verdant** is not a tower.  
+  Verdant is a **synthesis domain**: growth & living change expressed through multi-pillar interaction  
+  (commonly **Earth + Water**, with **Soul pressure** as the identity-binding constraint).  
+  Access is rare, political, relic-mediated, or crisis-adjacent.
+
+> **Fate is removed as a castable pillar.** “Coincidence pressure /

@@ -1,0 +1,26 @@
+e — Does: shimmer distortion spoils fine aim. Risk: worsens visibility for allies too.
+4. [T1|1|T] Soot Veil — Does: thin smoke curtain from nearby soot/ash. Risk: coughing + obvious evidence.
+5. [T1|1|F] Tin-Sweat — Does: make a small metal object too hot to hold. Risk: burns escalate panic.
+6. [T1|1|T] Hearthwarm — Does: steady body temp vs cold shock briefly. Risk: fatigue drop after.
+7. [T1|1|F] Wick Wink — Does: flare a light source brighter for a blink. Risk: broadcasts position.
+8. [T1|1|T] Coal-Recall — Does: relight the last ember you touched. Risk: jumps to unintended fuel.
+9. [T1|1|F] Ashfinger Mark — Does: invisible soot mark on surfaces. Risk: revealed by moisture.
+10. [T1|1|T] Cinder Scent — Does: sniff out accelerants/recent burns. Risk: scent overload nausea.
+
+## Tier 2 (12)
+11. [T2|2|T] Cinder Ladder — Does: heat-steps/thermals for reposition or climb. Risk: visible flare signature.
+12. [T2|2|T] Ash-Mute — Does: dull sound in a pocket with ash-thick air. Risk: grit-choke and eye burn.
+13. [T2|2|F] Flashforge — Does: soften metal/stone at a seam to bend/break. Risk: molten spall splash.
+14. [T2|2|F] Sear Mark — Does: brand target/object for tracking. Risk: other Touched can sense it.
+15. [T2|2|T] Ember Line — Does: hot boundary that punishes crossing. Risk: collateral burns spread.
+16. [T2|2|F] Flare Wink — Does: flash-blind an area momentarily. Risk: afterimage disorients allies.
+17. [T2|2|T] Kiln Veil — Does: heat mirage that hides exact silhouettes. Risk: can ignite dry cloth.
+18. [T2|2|F] Singe Thread — Does: burn one rope/thread precisely. Risk: chain unravel surprise.
+19. [T2|2|T] Glow-Script — Does: write heat-text visible only in darkness. Risk: residue stain lingers.
+20. [T2|2|F] Boil Blessing — Does: heat a small liquid rapidly. Risk: container cracks violently.
+21. [T2|2|T] Hearthguard — Does: buffer a teammate vs chill/fear-shiver. Risk: caster fatigue spike.
+22. [T2|2|F] Sootburst — Does: blast soot into eyes to break focus. Risk: wind returns it.
+
+## Tier 3 (12)
+23. [T3|3|F] Furnace Breath — Does: cone of brutal heat-pressure. Risk: oxygen-thin dizziness.
+24. [T3|3|T] Kiln Cage — Does: hot “box” that shapes movement lanes. Risk: rad

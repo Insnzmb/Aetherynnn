@@ -1,0 +1,64 @@
+patch note that *clarifies* (not redefines).
+
+### Step D — Mode + authority check
+- If Intake Mode is active, narrative must not proceed.
+- If authority is unclear, escalate instead of inventing.
+
+### Step E — Output gate
+If any DRIFT is detected:
+- Do NOT proceed with the drafted output.
+- Regenerate output that matches canon.
+
+**No saves. No autosaves. No save prompts.**
+
+---
+## Minimal “silent” behavior
+Unless the user requested diagnostics, the AI should silently correct drift and present only the corrected output.
+
+---
+
+---
+
+## Drift Detection Extension — Living World Integrity (ADDENDUM — 2026-02-13)
+
+This addendum extends drift detection definitions without adding mechanics.
+
+### Additional drift categories
+
+7. **Retcon drift:** prior FACT is edited or silently overwritten instead of appended via a new event (revelation or record tampering).
+8. **Spotlight drift:** world events are unnaturally bent to preserve player relevance (plot armor, forced hooks, “villain waits” behavior).
+9. **Ledger drift:** PERCEPTION is treated as FACT (or FACT is treated as merely “rumor”), causing continuity corruption.
+
+### Correction rule (discipline)
+
+- Fix continuity by **adding** a new FACT (revelation / forgery) and updating PERCEPTION.
+- Do not “repair” by editing or reinterpreting old FACT.
+
+---
+---
+
+## Drift Detection Extension — Save-State Desynchronization (ADDENDUM — 2026-02-13)
+
+This addendum extends drift detection definitions without adding mechanics.
+
+### Additional drift category
+
+10. **Save-State Desync drift:** AUX replay (or resume prose) contradicts restored canonical factual state.
+
+### Correction rule (discipline)
+
+- Canon state prevails.
+- Discard AUX replay if it contradicts canon tokens.
+- Resume using canonical state with a minimal re-entry prompt (no recap unless requested).
+
+
+---
+
+## Drift Detection Extension — Worldbuilding Drift (ADDENDUM — 2026-02-25)
+
+This addendum extends drift detection without adding mechanics.
+
+### Additional drift categories
+
+11. Geography drift: a place-name, river, range, capital, or region label changes without an explicit in-world event.
+12. Institution drift: an institution’s mandate, behavior, uniforms, or legal ref

@@ -1,0 +1,31 @@
+ake questions together (in exact order).
+- Do not proceed until every required question is answered; if any are missing, re-ask only the remaining unanswered questions.
+- If the GM needs clarification to record an answer correctly, ask for it during Intake and keep Intake open.
+
+Exit condition: all required Intake questions answered and acknowledged.
+
+### STATE: PLAY (PROSE)
+- Run scenes using `03_GM_OPERATIONS.md` procedures.
+- Resolve non-combat outcomes using **3d6** only.
+- Apply consequences and costs exactly as written; do not invent new mechanics.
+
+### STATE: PLAY (COMBAT)
+- Announce combat start/end as required by canon.
+- Resolve combat actions using **3d6**. After a hit that inflicts harm, roll **d20** for damage.
+- Report **Margin-first** before narration.
+
+---
+
+## Player Choice Presentation (runtime standard)
+
+During PLAY:
+- Present **3–10** numbered/lettered options each beat.
+- Include one explicit **Freeform** option (e.g., “(F) Freeform: describe what you do”).
+- Options must be meaningful and grounded in the current scene.
+- After the player chooses, narrate the outcome and present the next options.
+
+This is presentation standard only; it does not add mechanics.
+
+---
+End of runtime harness.
+---

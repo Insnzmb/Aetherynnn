@@ -1,0 +1,47 @@
+* 5
+**Magic Resistance:** Medium
+**Move:** Slow; ground-shaking steps
+**Senses:** Detects famine, blight, repeated harvest failure
+
+**Description:**
+A massive earthen body stitched with straw and plow iron. It has no head—only a beating knot of roots in its chest, pulsing like a heart in soil.
+
+**Behavior:**
+Drawn to long-term hunger: villages enduring too many failed harvests, requisitions, caravan collapse. It attacks storehouses and mills, and sometimes the people guarding them—like a correction enacted by force.
+
+**Combat:**
+- **Silo Smash:** Area slam; knocks down and destroys cover/structures.
+- **Plow-Arm Sweep:** Wide arc; can hit multiple targets.
+- **Root Snare:** Vines seize ankles; restrained targets pulled toward the chest-root.
+- **Famine Pull (Passive):** Food and water carried nearby spoil faster during the fight (apply sparingly as narrative attrition).
+
+**Defeat:**
+Killable by **focused strikes on the chest-root**, fire to cauterize regrowth, and coordinated distraction. It becomes far more manageable when locals fight alongside the party.
+
+**Signs:**
+Footprints in fields that fill with water, then go black. Grain that tastes like dirt. Scarecrows turned to face the road.
+
+---
+
+#### THE BRINK-CARRION
+*(Named after the first caravan it empties: “The Sixth Cart,” “The Last Mile,” “The Strap-Wolves.”)*
+
+**Type:** Crisis Pack / Travel-Pressure Predator
+**Threat:** High (scales with poor choices)
+**HP:** 95 per body (usually 2–4 bodies)
+**DR:** 2
+**Magic Resistance:** Low–Medium
+**Move:** Fast, coordinated
+**Senses:** Detects exhaustion, injury, and isolation
+
+**Description:**
+Lean, hairless bodies like wolves made of stitched travel gear—straps, boot leather, broken harness. Their ribs are ringed with buckles. Their teeth are clasps.
+
+**Behavior:**
+They don’t seek fair fights. They test distance, cut off exits, and commit only when someone limps, panics, or falls behind. They are the crisis’s answer to unsafe roads.
+
+**Combat:**
+- **Hamstring Snap:** Targets legs; reduces mobility, forces separation.
+- **Pack Drag:** Two bodies coordinate to pull a target away.
+- **Harness Bind:** Temporary restraint; straps tighten when struggled against.
+- **Road

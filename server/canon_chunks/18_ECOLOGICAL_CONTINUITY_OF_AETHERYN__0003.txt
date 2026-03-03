@@ -1,0 +1,72 @@
+y when the prey is isolated, cornered, or clearly vulnerable.
+
+Creatures do not “take turns.” They spend energy when the trade makes sense.
+
+---
+
+### WHEN PREDATORS ATTACK PEOPLE (EXTREMELY RARE, BUT POSSIBLE)
+
+Predators and dangerous scavengers may attack PCs, NPCs, or AI-PCs only under rare, realistic triggers:
+- **Starvation or drought** (normal prey collapses)
+- **Cornered / trapped** (no retreat)
+- **Defending young / den / kill**
+- **Injury or disease** causing abnormal aggression
+- **Habituation to human food** (camp-raiding patterns)
+- **Magical disturbance** (residue spikes, ward-sick behavior, panic scent)
+
+When these triggers are absent, predators prefer cheaper prey.
+
+---
+
+### CLIMATE–ECOSYSTEM INDEX
+
+- Temperate Lowlands & Mixed Forest
+- Cold Reaches & Permafrost Zones
+- Arid Sands & Salt Flats
+- Wetlands, Floodplains, and River Deltas
+- High Stone, Uplands, and Wind-Shelves
+- Deep Wilds (Low Human Presence)
+
+---
+
+### TEMPERATE LOWLANDS & MIXED FOREST
+
+#### PREY & FORAGERS
+
+##### THORNBACK GRAZER
+**Trophic Role:** Primary Consumer (Herbivore)
+**Population:** Common
+
+A six-limbed, low-slung grazer with overlapping keratin plates along its spine.
+Its forelimbs split into paired digging talons used to unearth root clusters.
+
+**Behavior:**
+Thornbacks move in loose herds, grazing continuously to maintain body heat.
+They avoid dense forest interiors, favoring edges and old roads.
+
+**Eaten By (typical):**
+- Lanth Mirehound (juveniles, isolated)
+- River Glasser (at crossings, calves)
+- Hollow-Eye Sentinel (rare, opportunistic)
+
+**Human Interaction:**
+Farmers divert them with salt blocks. Killing one is costly but feeds villages.
+Their shed plates are used in armor backing.
+
+**Environmental Signs:**
+Stripped root-fields, churned soil, plate fragments near resting sites.
+
+#### PREDATORS & SCAVENGERS
+
+##### LANTH MIREHOUND
+**Trophic Role:** Secondary Consumer (Opportunistic Predator)
+**Population:** Uncommon
+
+A long-bodied, boneless predator that moves by rippling contraction.
+Its skull is rigid; the rest of its body flows.
+
+**Diet (typical):**
+Small mammals, ground birds, sick or isolated grazers, carrion when available.
+
+**Behavior:**
+Hunts by vibration sens

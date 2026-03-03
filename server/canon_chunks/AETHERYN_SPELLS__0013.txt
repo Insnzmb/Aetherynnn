@@ -1,0 +1,55 @@
+ Does: strip a claimed title briefly. Risk: caster vertigo.
+46. [T5|5|F] Anima Severance — Does: force spirit to let go briefly. Risk: catastrophic misuse.
+47. [T5|5|T] Wound of Memory — Does: make someone feel what they did (one scene). Risk: hits you too.
+48. [T5|5|T] Choir of the Lost — Does: echoes answer one question. Risk: grief-lies.
+49. [T5|5|T] Death’s Courtesy — Does: dying passes without terror. Risk: stains caster sleep.
+50. [T5|5|T] Soul-Tithe Seal — Does: pay vitality to stabilize another’s soul. Risk: you become fragile.
+
+---
+
+## EXPANSION APPENDIX — ADDING SPELLS WITHOUT DRIFT
+
+When adding new spells, do ALL of the following:
+1) Use the Spell Minting Grammar (Verb + Medium + Constraint).
+2) Assign Tier (Cost) and Lane (F/T).
+3) Add a distinct Risk that prevents “free leverage.”
+4) Ensure the new spell does not duplicate an existing spell’s effect profile in the same class.
+
+End of file.
+
+
+==============================================================================
+SECTION: AETHER SPELL CATALOG (legacy 22_SPELL_CATALOG_AETHER_V1.aeth)
+==============================================================================
+
+# AETHERYN_SPELLS.aeth (Section: AETHER)
+
+Status: AUTHORITATIVE — CONTENT CATALOG  
+Introduces mechanics: YES (Spell options only; uses existing resolution; no system changes)  
+Scope: Combat + Non-combat utility spells for infinite-play campaigns  
+Pillars covered: Aether (Space / Wards / Reality-Lattice)
+
+---
+
+## GLOBAL SPELL RULES (BINDING)
+
+- Tier = Mana Cost: Tier 1→5 costs 1→5 mana.
+- Lanes:
+  - Flash (F) = immediate effect
+  - Tactical (T) = shapes space/tempo/constraints
+- Resolution:
+  - Combat: resolve spell outcomes with 3d6 (and roll d20 for damage where applicable).
+  - Non-combat: resolve with the current non-combat mode’s resolution.
+- Hard prohibitions (all spells):
+  - No permanent dice-size modification
+  - No stacking flat numeric bonuses
+  - No bypass of discrete resolution / no “auto-win” language
+  - Narrative may be epic; results remain discrete and mechanically honest
+
+---
+
+## SPELL MINTING GRAMMAR (REMINDER)
+
+Spell Name = (Verb) + (Medium) + (Constraint)
+
+- Verb examples: bind, shear, hush, sever, crown, stitch,

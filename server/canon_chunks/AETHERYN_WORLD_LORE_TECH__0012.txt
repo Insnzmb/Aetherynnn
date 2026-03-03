@@ -1,0 +1,55 @@
+0. **Bedroll** — [Gear]  
+   Prevents `cond:Exhausted` from “sleeping rough” in normal weather (does not override extreme cold, injury, or fear conditions).
+
+---
+
+## Relics (Tier I & II)
+
+Relics always include an explicit **Cost**. Any numeric leverage is expressed as **MS** and never stacks.
+
+11. **Whispering Compass (Tier I)**  
+   Effect: Points to the nearest *fresh* water source within a day’s travel.  
+   Cost: You hear faint sobbing whenever you follow it.
+
+12. **Ember-Ring (Tier I)**  
+   Effect: **MS:+1** when resisting cold exposure.  
+   Cost: Requires double water rations while worn.
+
+13. **Glass-Key (Tier I)** — [Consumable]  
+   Effect: Opens any mundane lock **once**, then shatters.  
+   Cost: The shatter is loud enough to carry.
+
+14. **Silent-Step Boots (Tier II)**  
+   Effect: **MS:+1** on stealthy movement actions.  
+   Cost: You cannot speak while wearing them.
+
+15. **Lens of Truth (Tier II)**  
+   Effect: Reveals invisible entities and glamours while active.  
+   Cost: Gain `stress:+1/round` while maintained.
+
+16. **Blood-Iron Shield (Tier II)**  
+   Effect: Once per round, reduce the attacker’s successful hit Margin by **2** (to a minimum of 0).  
+   Cost: You cannot be healed by magic while holding it.
+
+17. **Gravity-Hammer (Tier II)**  
+   Effect: On a hit, you may force a knockdown outcome (GM expresses as displacement/prone) **once per round**.  
+   Cost: Unwieldy—requires exceptional Strength or you gain `cond:Strained` after each attack.
+
+18. **Aether-Jar (Tier II)** — [Volatile]  
+   Effect: Captures one spell aimed at you (negates it) if activated in time.  
+   Cost: Must be “emptied” (an action) within 1 minute or it cracks and releases residue.
+
+19. **Memory-Quill (Tier I)**  
+   Effect: Writes down what you speak perfectly (useful for oaths, names, coordinates).  
+   Cost: Ink is your blood (1 vitality/harm/HP as used by the current engine).
+
+20. **Rot-Bane Amulet (Tier II)**  
+   Effect: Immunity to disease and ordinary rot-spores.  
+   Cost: Food tastes like ash; long meals become difficult.
+
+---
+End of File.
+
+
+==============================================================================
+SECTION: CONSOLIDATED_AMENDMENT (legacy 

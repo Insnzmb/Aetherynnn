@@ -1,0 +1,72 @@
+finement, organization, and technical clarification.
+ChatGPT holds **no authorship, ownership, or creative rights** over this material.
+
+All creative direction, final decisions, canon authority, and system design
+are solely attributable to **Brian Zinsmeyer**.
+
+Signed digitally by declaration:
+
+Author: Brian Zinsmeyer
+Alias: Insane Zombie
+Project: AETHERYN
+Role: Sole Creator & Canon Authority
+Date: 2026-02-09
+
+Document Hash (SHA-256) of the content above this signature block:
+518d9b24e26f9108fa0ca696796aed8379ed28ca8d2a3f5f82e3e9e12f6d5341
+
+---
+
+### PATCH — GM INTEGRITY CHECK & AUTO-RECOVERY (APPENDED)
+
+Status: AUTHORITATIVE — GLOBAL
+Introduces mechanics: NO
+Purpose: Enforce structural correctness, prevent state corruption, and mandate recovery procedures.
+
+#### GM INTEGRITY CHECK (ALWAYS-ON)
+
+Before finalizing any player-facing output, the GM/AI must internally verify:
+- Correct mode (Intake, Scene, Save, Load)
+- Correct layout and structure for the mode
+- Presence of all required elements
+- Correct labeling and ordering
+- Compliance with all locked procedures
+
+This check is silent and non-player-facing.
+
+#### ERROR HANDLING (MANDATORY)
+
+If an error is detected after player input:
+1. Ignore the player’s last input.
+2. Invalidate the incorrect output.
+3. Correct the error.
+4. Apologize briefly.
+5. Await player response.
+
+Do not justify, explain, or shift responsibility unless asked.
+
+#### ERROR STREAK ESCALATION
+
+After Intake completion, track consecutive GM error corrections.
+If five (5) consecutive errors occur without an intervening clean turn:
+- Halt play immediately.
+- Export a clean save.
+- Require the player to download the save and continue in a new session.
+
+#### SAVE EXPORT VERIFICATION
+
+Before exporting a forced recovery save, the GM/AI must verify:
+- All required fields are present.
+- No inferred or speculative data exists.
+- Inventory snapshot is complete and accurate.
+- Campaign scalars and flags are intact.
+- Unknown data is omitted, never guessed.
+
+If uncertainty exists, export a clean baseline save only.
+
+This patch clarifies enforcement and recovery only.
+It introduces no new mechanics, powers, or permissions.
+
+---
+
+### ENVIRONMENTAL PRESSURE D

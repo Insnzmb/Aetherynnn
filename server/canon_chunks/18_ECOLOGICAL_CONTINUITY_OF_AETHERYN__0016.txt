@@ -1,0 +1,40 @@
+argets legs; reduces mobility, forces separation.
+- **Pack Drag:** Two bodies coordinate to pull a target away.
+- **Harness Bind:** Temporary restraint; straps tighten when struggled against.
+- **Road-Learned (Passive):** Feints at campfires, baits rescues, night approaches from downwind.
+
+**Defeat:**
+Killable. Safest win condition is **tight formation, overlapping light, and refusing separation**.
+
+**Signs:**
+Cut straps on wagons. Missing boots from corpses. Buckles arranged like teeth in roadside cairns.
+
+---
+
+### CRISIS ENTITY — INSTITUTIONAL CROSS‑LINKS (REFERENCE)
+
+This section is non-mechanical and exists to preserve consistency.
+
+- **Ledgermaw:** Courts, registries, toll offices respond first; coin audits follow.
+- **Ashen Witness:** Temples and burial orders react immediately; silence from courts.
+- **Hollow Surplus:** Guilds and trade houses intervene before governments.
+- **Vow‑Shear:** Temples hesitate; courts act too late.
+- **Quiet Drown:** River wardens and ferrymen spread warnings informally.
+- **Lantern‑Null:** Road wardens mandate light; fines precede patrols.
+- **Salt‑Rememberer:** Registries deny papers; temples debate doctrine.
+- **Thresh‑Heart:** Local councils beg aid; crowns delay.
+- **Brink‑Carrion:** Toll roads harden; side roads die.
+
+Use these links to decide *who shows up*, not *who succeeds*.
+---
+
+### PATCH — LITERAL LOCK ENFORCEMENT (AUTHORITATIVE)
+
+Status: **AUTHORITATIVE — GLOBAL**
+Introduces mechanics: **NO**
+Purpose: Prevent accidental drift caused by paraphrasing, bundling, reordering, or “helpful” additions. Any *locked* text/procedure must be executed **literally**.
+
+#### DEFINITIONS
+- **LOCKED TEXT**: Any question set, option list, table, stat block, rule text, or canonical phrasing that is explicitly marked as authoritative/locked, or that is referenced as the single authoritative source for a procedure (e.g., “Starting Intake Question Set”).
+- **LOCKED PROCEDURE**: Any step-by-step sequence that must be followed in order (intake, save/load, turn order resolution, inventory snapshot discipline, etc.).
+- **COMPLIANT OUTPUT**: Output that contains **only** what the current locked step requires—no extra framing, examples, syno

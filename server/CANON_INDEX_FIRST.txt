@@ -1,0 +1,44 @@
+AETHERYN CANON INDEX (READ THIS FIRST)
+
+Authority / Load Order (highest to lower):
+01. 01_MASTER_CANON_RULE.md
+02. 02_ENGINE_CORE.md
+03. 03_GM_OPERATIONS.md
+04. 06_PATCH_LAYER.md
+05. 07_OPERATOR_LOCKDOWN_PATCH.md
+06. 15_AUTOMATIC_DRIFT_DETECTION.md
+07. 08_INTAKE_PROTOCOL_CONSOLIDATED.md
+08. 09_PLAY_INSTRUCTIONS.md
+09. 10_SAVE_SYSTEM.md
+10. 14_WORLD_BIBLE_INDEX.md
+11. 11_WORLD_LORE_HISTORY.md
+12. 16_REGIONAL_GAZETTEER.md
+13. 24_INSTITUTIONS_AND_FACTIONS.md
+14. 25_ECONOMY_AND_MARKETS.md
+15. 26_SCARS_AND_STARTER_HOOKS.md
+16. 12_GODSLAYER_EVENT_AMENDMENT.md
+17. 18_ECOLOGICAL_CONTINUITY_OF_AETHERYN.md
+18. 19_MONSTER_DOCTRINE_OF_AETHERYN.md
+19. 13_TECH_CATALOG.md
+20. 21_SPELL_CATALOG_ELEMENTAL_SOUL_V1.md
+21. 22_SPELL_CATALOG_AETHER_V1.md
+22. 17_RUNTIME_START.md
+23. AETHERYN_CONSOLIDATED_AMENDMENT.md
+24. AETHERYN_CORE_RULES_ENGINE.txt
+25. AETHERYN_RUNTIME_PLAYER_LOCKED.txt
+26. AETHERYN_PLAYER_GUIDE.txt
+27. AETHERYN_SPELLS.txt
+28. AETHERYN_WORLD_LORE_TECH.txt
+29. 20_RELEASE_MANIFEST.md
+
+Pinned canon rule (web build):
+- The server pins 14_WORLD_BIBLE_INDEX__0000 in retrieval, so world anchors are always present.
+
+How to use chunks:
+- All canon files are split into small chunks in server/canon_chunks/.
+- The ruleskeeper retrieves the most relevant chunks per player action, plus pinned anchors.
+- If canon is silent, resolve conservatively; do not invent new systems.
+
+Chunk retrieval rule:
+- Use player input + current canon tokens as query.
+- Load top chunks (default 6) and obey them as binding where they apply.

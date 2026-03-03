@@ -1,0 +1,12 @@
+
+11. Geography drift: a place-name, river, range, capital, or region label changes without an explicit in-world event.
+12. Institution drift: an institution’s mandate, behavior, uniforms, or legal reflexes change between scenes without cause.
+13. Cultural drift: a region’s speech, taboos, trade goods, or day-to-day habits “average out” into generic fantasy.
+14. Chronology drift: dates or era labels contradict the active baseline (Neutral Year +312) without explicitly invoking archival dispute.
+
+### Correction rule (discipline)
+
+- If the conflict is accidental, correct silently and continue.
+- If the conflict is story-relevant (forged records, Quiet Erasure, disputed archives), explicitly mark the statement as PERCEPTION or ARCHIVAL and preserve the active baseline as FACT.
+
+---

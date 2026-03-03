@@ -1,0 +1,26 @@
+ in fabric/strap/rope. Risk: a weak spot appears elsewhere.
+6.  [T1|1|T] Anchor Step — Does: steady yourself against shove/fall for one beat. Risk: muscle cramp backlash.
+7.  [T1|1|F] Mirror Flicker — Does: duplicate a simple gesture/mark as a decoy beat. Risk: breaks obviously up close.
+8.  [T1|1|T] Angle Map — Does: sense clean straight paths/angles in a room. Risk: nausea in crowded geometry.
+9.  [T1|1|F] Pocket Palm — Does: hide a palm-sized item for a heartbeat. Risk: drop/fumble if startled.
+10. [T1|1|T] Threshold Muffle — Does: soften sound around a doorway briefly. Risk: muffles ally cues too.
+
+## Tier 2 (12)
+
+11. [T2|2|F] Veilstep — Does: short blink reposition (a few paces) if line-of-sight exists. Risk: ankle twist on imperfect arrival.
+12. [T2|2|T] Sigil Lock — Does: make a door/window resist opening briefly. Risk: leaves obvious “touched” residue.
+13. [T2|2|F] Lattice Snare — Does: catch a weapon-hand/wrist for a beat (contest in combat). Risk: forearm strain spike.
+14. [T2|2|T] Pocket Hide — Does: conceal a small cache from casual search. Risk: fails hard under panic/haste.
+15. [T2|2|F] Rift Shear — Does: cut rope/strap precisely without a blade. Risk: nearby fibers fray unpredictably.
+16. [T2|2|T] Anchor Plank — Does: stabilize a precarious ledge/plank briefly. Risk: later collapse worsens.
+17. [T2|2|F] Sigil Swap — Does: swap positions with a handheld object you’re touching. Risk: disorientation + wrong-hand arrival.
+18. [T2|2|T] Prism Glare — Does: a thin glare-screen spoils aim through it. Risk: spoils your aim too.
+19. [T2|2|F] Veil Hush — Does: silence your own footfall/breath for a short beat. Risk: cough rebound after.
+20. [T2|2|T] Ward Ring — Does: small circle that punishes crossing (burning discomfort). Risk: allies suffer too.
+21. [T2|2|F] Lattice Tug — Does: yank a small object toward you if unobstructed. Risk: arrives fast enough to injure.
+22. [T2|2|T] Prism Bend — Does: deflect casual sightlines; you’re “harder to notice” at a glance. Risk: fails under direct stare.
+
+## Tier 3 (12)
+
+23. [T3|3|F] Rift Stumble — Does: force a target one “wrong step” (micro-displacement; contested). Risk: may displace you instead.
+24. [T3|3|T] Lattice 

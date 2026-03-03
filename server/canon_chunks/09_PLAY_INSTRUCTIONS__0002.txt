@@ -1,0 +1,38 @@
+ a script. A border that never moves becomes a wound. When pressure has nowhere to go, it does what pressure always does.
+
+It manifests.
+
+In Aetheryn, monsters are not “animals with bigger teeth.” They are crisis made flesh — battle-ready, non-ecological things that arrive when structural stress becomes too concentrated to stay invisible. They do not breed. They do not belong to the food web. They are the world’s alarm bell, and sometimes its punishment. Their forms change with meaning; their mechanics do not.
+
+Yet Aetheryn is not a machine built to end you. It is a finite world that refuses to stay still. When a place suffers, it scars. When a scar persists, it becomes history. When history piles high enough, it becomes gravity — drawing new choices into old consequences.
+
+And now — after all that accumulated motion, after all those bargains and fractures, after all those seasons and scars — there is a small, living fact the world has not yet decided:
+
+You.
+
+This world is yours now.
+What you do, and what you refuse to do, will echo.
+What you preserve, what you fracture, what you build, and what you abandon — that is yours to decide.
+
+---
+# ADD — FORCE SCALE DOCTRINE (ARMIES VS PARTY)
+
+Status: AUTHORITATIVE — RUNTIME STRUCTURE
+Introduces mechanics: NO
+Purpose: Allow players to raise armies without breaking party-scale play or spotlight integrity.
+
+## Tier 1 — Party (0–5 total actors)
+- Individually tracked actors (players + NPC party members).
+- Roll individually when they act (per mode dice boundaries).
+- Stored as PARTY state.
+
+## Tier 2 — Units / Retinues (6+)
+When a force exceeds party scale, it becomes a Unit (abstracted formation), not individual companions.
+- Unit is tracked as a factual token (e.g., unit:River_Militia; str=4; morale=2; supply=stable)
+- Resolves actions with one roll per Unit action when materially relevant.
+- Occupies at most one actor slot in structured exchanges (prevents action spam).
+- Losses, desertion, disease, morale, and supply are handled as factual state shifts.
+
+## Tier 3 — Institutional / Army Scale (large forces)
+At army scale, forces become institutional pressure (factional posture, borders, taxes, reprisals, diplomacy).
+- 

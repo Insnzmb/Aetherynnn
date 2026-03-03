@@ -1,0 +1,34 @@
+und you. Risk: self-injury.
+30. [T3|3|F] Stormhand Grasp — Does: yank weapon via pressure claw. Risk: tears straps/fingers.
+31. [T3|3|T] Siren Draft — Does: airflow carries lure-sound. Risk: lures wrong things.
+32. [T3|3|T] Hawk Eye Lift — Does: brief elevated perch of air. Risk: vertigo drop.
+33. [T3|3|F] Breath Thief — Does: interrupt a chant by stealing timing. Risk: cruelty-stain feeling.
+34. [T3|3|T] Dust Choir — Does: dust motes reveal motion trails. Risk: false trails.
+
+## Tier 4 (8)
+35. [T4|4|F] Vacuum Bite — Does: air theft breaks chanting. Risk: near-lethal misuse.
+36. [T4|4|T] Tempest Crown — Does: turbulent air punishes approach. Risk: collateral damage.
+37. [T4|4|T] Thunder Blanket — Does: low boom masks movement. Risk: panic crowd response.
+38. [T4|4|T] Cyclone Rope — Does: spinning air restrains briefly. Risk: snaps violently.
+39. [T4|4|F] Glasswind — Does: grit-laced cutting gust (needs grit). Risk: maims indiscriminately.
+40. [T4|4|T] Breath Tax — Does: stamina drain pressure zone. Risk: caster collapses too.
+41. [T4|4|T] Pressure Key — Does: unlock latch via pressure pulses. Risk: jams permanently.
+42. [T4|4|T] Cloudblind — Does: whiten air like sudden cloud. Risk: ally disorientation.
+
+## Tier 5 (8)
+43. [T5|5|T] Cyclone Anchor — Does: spinning zone locks movement lanes. Risk: wrecks structures.
+44. [T5|5|F] Sky-Split Verdict — Does: thunder+pressure strike. Risk: residue storm aftertaste.
+45. [T5|5|T] Wind-Null Sanctum — Does: perfect stillness bubble. Risk: uncanny; draws scrutiny.
+46. [T5|5|F] Lightning Right — Does: call static strike in metal-dense space. Risk: uncontrolled arcing.
+47. [T5|5|T] Storm Covenant — Does: oath sealed by shared breath. Risk: betrayal rebounds hard.
+48. [T5|5|F] Tempest Reversal — Does: invert a gust mid-flight. Risk: bone-snap potential.
+49. [T5|5|T] Horizon Shout — Does: voice carried impossibly far. Risk: everyone hears.
+50. [T5|5|T] Vacuum Corridor — Does: strip air along a short path. Risk: lethal edge.
+
+---
+
+# EARTH (50)
+
+## Tier 1 (10)
+1. [T1|1|T] Grain-Read — Does: feel weak points in material. Risk: sensory overload.
+2. [T1|1|F] Stoneknuckle — Does: harden body for one impact exchange. Risk: joint ache.

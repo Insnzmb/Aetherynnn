@@ -1,0 +1,55 @@
+sion to attempt climbs that would otherwise be “no.” If a climb would result in a fall, you may convert it to a hang + `cond:Strained` **once per scene**.
+
+4. **Filter-Mask** — [Gear]  
+   Negates inhaled toxins/spores (does not protect against skin contact).
+
+5. **Signal Flare** — [Consumable]  
+   Visible for miles. Also visible to things you’d rather not meet.
+
+6. **Healer’s Kit** — [Gear] [5 Uses]  
+   Stabilize a dying ally without a roll. Does not restore lost vitality.
+
+7. **Crowbar** — [Gear]  
+   **MS:+1** on a single “force-open / pry” action. Loud.
+
+8. **Oil Flask** — [Consumable] [Volatile]  
+   Creates a burning surface (GM adjudicates as a hazard zone). Mishap: splash-back.
+
+9. **Whetstone** — [Consumable] [1 Use]  
+   The next weapon strike that hits gains **MS:+1**. Cannot be stacked with other MS.
+
+10. **Bedroll** — [Gear]  
+   Prevents `cond:Exhausted` from “sleeping rough” in normal weather (does not override extreme cold, injury, or fear conditions).
+
+---
+
+## Relics (Tier I & II)
+
+Relics always include an explicit **Cost**. Any numeric leverage is expressed as **MS** and never stacks.
+
+11. **Whispering Compass (Tier I)**  
+   Effect: Points to the nearest *fresh* water source within a day’s travel.  
+   Cost: You hear faint sobbing whenever you follow it.
+
+12. **Ember-Ring (Tier I)**  
+   Effect: **MS:+1** when resisting cold exposure.  
+   Cost: Requires double water rations while worn.
+
+13. **Glass-Key (Tier I)** — [Consumable]  
+   Effect: Opens any mundane lock **once**, then shatters.  
+   Cost: The shatter is loud enough to carry.
+
+14. **Silent-Step Boots (Tier II)**  
+   Effect: **MS:+1** on stealthy movement actions.  
+   Cost: You cannot speak while wearing them.
+
+15. **Lens of Truth (Tier II)**  
+   Effect: Reveals invisible entities and glamours while active.  
+   Cost: Gain `stress:+1/round` while maintained.
+
+16. **Blood-Iron Shield (Tier II)**  
+   Effect: Once per round, reduce the attacker’s successful hit Margin by **2** (to a minimum of 0).  
+   Cost: You cannot be healed by magic while holding it.
+
+17. **Gravity-Hammer (Tier II)**  
+   Effect: On a hit, you may force a knockdown outcome (GM expresses as displacement/prone) 

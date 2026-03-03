@@ -1,0 +1,49 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+[GM NOTE — Not Player Facing]
+! = MANDATORY:
+
+[GM NOTE — Not Player Facing]
+! INTAKE INTENT MATCHING (ANTI-LOOP): When a locked intake question expects a numbered option, accept a user-provided label that uniquely matches one option (e.g., "Warrior" → option 1) and treat it as the correct numeric input. Only repeat a question if the intent is truly ambiguous.
+
+
+# AETHERYN — INTAKE PROTOCOL (CONSOLIDATED RELEASE WRAPPER)
+
+This file is a **consolidation wrapper** for the Release build.
+Embedded sources preserve **meaning** below in canonical order (GM-only directives may be wrapped as **GM NOTE** blocks).
+
+**CANON PATCH (Additive):** This wrapper now includes a locked **Core Attribute Set** and **Stat Rolling** definition inside **POST-INTAKE PROCEDURE**. No embedded **player-facing** source text was altered; GM-only directives were reformatted into **GM NOTE** blocks. The patch is appended at the wrapper layer.
+
+## Embedded Sources (Verbatim)
+1. `AETH_OPT_30_MASTER_INTAKE_PROTOCOL_REPLACEMENT (embedded)`
+2. `AETH_OPT_32_MULTIPLAYER_CHARACTER_INTAKE_ENFORCEMENT (embedded)`
+3. `03_INTAKE_NUMBER_DEFINITIONS_EXTENSION (embedded)`
+4. `AETH_OPT_31_INTAKE_SCALE_GLOSSARY_UPDATED_V2 (embedded)`
+5. `04_GM_INTAKE_AND_SCENE_PROCEDURE (embedded)`
+
+---
+
+
+
+# BEGIN VERBATIM — AETH_OPT_30_MASTER_INTAKE_PROTOCOL_REPLACEMENT (embedded)
+
+# AETHERYN --- MASTER INTAKE PROTOCOL (REPLACEMENT)
+
+Version date: 2026-02-11 (DEV MODE REPLACEMENT) Status: AUTHORITATIVE
+(GLOBAL RUNTIME OVERRIDE) Replaces: Previous
+15_INTAKE_PROTOCOL_CONSOLIDATED.md entirely Priority: Highest Runtime
+Authority (When No Save Is Present) Introduces mechanics: YES (Pre-Scene
+Configuration + C

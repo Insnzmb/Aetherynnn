@@ -1,0 +1,55 @@
+ used by the current combat layer.
+
+## Universal Crisis Note
+
+- Crisis 0–5: Standard Form
+- Crisis 6+: Ruptured Form (adds **[Volatile]** on death; see Section IV)
+
+---
+
+## 1) Hollow Husk (Skirmisher)
+*Manifestation of starvation/neglect.*
+- **HP:** 8 | **DEF:** 12 | **ATK:** +3 | **DMG:** d20 (Claw)
+- **Behavior:** Swarms. Flees if alone.
+- **Trigger:** Targets anyone with `cond:Exhausted` first.
+
+## 2) Iron-Bound Sentinel (Juggernaut)
+*Manifestation of rigid authority/law.*
+- **HP:** 25 | **DEF:** 16 | **ATK:** +5 | **DMG:** d20 (Maul)
+- **Behavior:** Slow. Ignores cover. Breaks lines.
+- **Trigger:** Fixates on the best-armored / most-armed target.
+
+## 3) Whisper-Thief (Controller)
+*Manifestation of paranoia/secrets.*
+- **HP:** 12 | **DEF:** 14 | **ATK:** +4 | **DMG:** d20 (Mind-Spike) + Silence-effect
+- **Behavior:** Stays at range. Uses concealment.
+- **Trigger:** Attempts to suppress speech/spellcasting first.
+
+## 4) Glass-Jaw Horror (Executioner)
+*Manifestation of sudden violence.*
+- **HP:** 15 | **DEF:** 10 | **ATK:** +7 | **DMG:** d20 (Glass-Blade)
+- **Behavior:** Ambush burst. Low defense, high lethality.
+- **Trigger:** Uses Shatter Strike when target is below half vitality.
+
+## 5) Rot-Weaver (Harrow Swarm)
+*Manifestation of decay.*
+- **HP:** 20 (Swarm) | **DEF:** 11 | **ATK:** auto-zone | **DMG:** d20/round (Acid zone)
+- **Behavior:** Creates hazardous terrain.
+- **Trigger:** Splits into two 10 HP swarms if struck by slashing harm (engine-mappable).
+
+## 6) Ember-Scourge (Hunter)
+*Manifestation of uncontrolled fire.*
+- **HP:** 18 | **DEF:** 13 | **ATK:** +5 | **DMG:** d20 (Burn-Lash) + Ignite-effect
+- **Behavior:** Circles edges. Herds prey into hazards.
+- **Trigger:** Sets the environment on fire to constrain movement.
+
+## 7) Aether-Jackal (Scavenger)
+*Manifestation of magic waste.*
+- **HP:** 10 | **DEF:** 15 | **ATK:** +3 | **DMG:** d20 (Bite) + Drain-effect
+- **Behavior:** Steals mana/relic charge rather than committing to a kill.
+- **Trigger:** Flees immediately after a successful bite to “digest” energy.
+
+## 8) Stone-Grief Golem (Juggernaut)
+*Manifestation of mourning.*
+- **HP:** 40 | **DEF:** 18 | **ATK:** +4 | **DMG:** d20 (Slam)
+- **Behavior:** 

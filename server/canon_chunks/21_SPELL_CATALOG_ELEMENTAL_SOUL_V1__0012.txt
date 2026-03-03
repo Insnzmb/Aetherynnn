@@ -1,0 +1,29 @@
+sk: worse substitute behavior.
+37. [T4|4|T] Identity Lock — Does: prevent false-face from “sticking.” Risk: hits innocent masks.
+38. [T4|4|T] Warden’s Oathmark — Does: brand duty into a willing ally. Risk: permanent subtle change.
+39. [T4|4|F] Echo Extraction — Does: pull one lingering emotion from a room. Risk: you carry it.
+40. [T4|4|T] Soul Cage — Does: trap a spirit-impression in place. Risk: attracts predators.
+41. [T4|4|T] Mercy Drown — Does: dampen cruelty impulse in a crowd. Risk: crowd indecision.
+42. [T4|4|F] Name Fray — Does: loosen a foe’s identity certainty briefly. Risk: reality pushback.
+
+## Tier 5 (8)
+43. [T5|5|T] Threshold Petition — Does: contact at the edge (not resurrection). Risk: forbidden-adjacent attention.
+44. [T5|5|T] Ghost-Iron Oath — Does: unbreakable duty-bond for one purpose. Risk: permanent alteration.
+45. [T5|5|F] Name Unmaking — Does: strip a claimed title briefly. Risk: caster vertigo.
+46. [T5|5|F] Anima Severance — Does: force spirit to let go briefly. Risk: catastrophic misuse.
+47. [T5|5|T] Wound of Memory — Does: make someone feel what they did (one scene). Risk: hits you too.
+48. [T5|5|T] Choir of the Lost — Does: echoes answer one question. Risk: grief-lies.
+49. [T5|5|T] Death’s Courtesy — Does: dying passes without terror. Risk: stains caster sleep.
+50. [T5|5|T] Soul-Tithe Seal — Does: pay vitality to stabilize another’s soul. Risk: you become fragile.
+
+---
+
+## EXPANSION APPENDIX — ADDING SPELLS WITHOUT DRIFT
+
+When adding new spells, do ALL of the following:
+1) Use the Spell Minting Grammar (Verb + Medium + Constraint).
+2) Assign Tier (Cost) and Lane (F/T).
+3) Add a distinct Risk that prevents “free leverage.”
+4) Ensure the new spell does not duplicate an existing spell’s effect profile in the same class.
+
+End of file.

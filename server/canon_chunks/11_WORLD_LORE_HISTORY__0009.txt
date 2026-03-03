@@ -1,0 +1,64 @@
+See: AETH_OPT_24_LONG_CAMPAIGN_DYNAMICS (embedded))
+
+---
+
+---
+
+## CANON PATCH — CHRONOLOGY COHERENCE (AUTHORITATIVE)
+Date: 2026-02-25
+Introduces mechanics: NO
+
+The v12 merged sources include a late-era date inconsistency (a known merge artifact):
+- Present Era Snapshot pins the baseline present at Neutral Year +312.
+- The older Chronicle text contains a handful of +year labels that extend beyond that baseline.
+
+Resolution rule (binding):
+- Neutral Year +312 is the active present baseline (Hardened Quiet).
+- Any Chronicle entries dated beyond +312 are treated as archival projections / contested copies unless and until play explicitly advances the era.
+- Where a single digit is clearly a transcription drift (e.g., +388 vs +288), the corrected date is listed in the “Patched Present-Era Timeline” below.
+
+This patch preserves the original Chronicle verbatim (to prevent loss) while providing a single coherent dating baseline for play.
+
+---
+
+## FILE: 07_WORLD_HISTORY.md
+
+### AETHERYN — WORLD HISTORY (ACTIVE BASELINE)
+Chronology: Neutral Year System (− → +)
+Active Present: +312 (The Hardened Quiet)
+
+#### Patched Present-Era Timeline (Focused, Play-Usable)
+
++0 — Neutral Anchor
+Dating is standardized.
+
++88 — The Ledger Fire
+A provincial archive burns; debts vanish; grudges persist.
+
++212 — Formation of the Argent Sentinels
+Containment specialists unify across borders.
+
++241 — Last Public Prophet Executed (patch from archival copy “+941”)
+Riots follow; then silence becomes policy.
+
++288 — Quiet Erasure Doctrine (patch from archival copy “+388”)
+Records are altered; witnesses displaced; the world learns to doubt its own paper.
+
++301 — The Warrant of Corridor
+Joint patrol authority is granted along the Diagonal River Corridor after three consecutive residue spikes.
+
++307 — Ashwind Pass Closure Week
+A temporary closure becomes a habit; tolls double; smuggling becomes community service.
+
++311 — The Winter of Wrong Smoke
+Across multiple regions, smoke drifts against wind. No official cause recorded.
+
++312 — The Hardened Quiet (Present)
+The world is stable, not safe. Institutions endure because the alternative is remembered.
+
+---
+
+
+---
+
+## CANON PATCH — EXPANDED WORLD TIMELINE (

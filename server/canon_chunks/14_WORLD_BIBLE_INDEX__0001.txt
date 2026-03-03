@@ -1,0 +1,47 @@
+b: Highwater Port.
+4) Sapphire Dominion — Capital: Azure Gate.
+5) Southern Sands — Capital: Kharat Crossing.
+6) Frozen Reaches — Anchor Settlement: Frosthold.
+7) Shattered Marches — Anchor Hub: Blackglass Reach.
+
+Strategic routes (world-scale):
+- The Diagonal River Corridor (primary artery)
+- The Ironfall Range Spine (barrier + choke points)
+- Southern Caravan Loop (desert ring trade)
+
+---
+
+## D. Present-Era Institutional Actors (World-Scale)
+
+Major blocs:
+- Veythar Imperial Residuum Office (surveillance + residue tracking)
+- Eldrion Sun-Court (ritual legitimacy + agrarian sanctification)
+- Rhenwall Dock Consortium (maritime arbitration + galvanics)
+- Sapphire Dominion Registry Authority (records + permits + infrastructure hardening)
+- Southern Sands Caravan Compact (route protection + logistics)
+- Frozen Reach Wardens (frontier survival + burial compliance)
+- March Salvage Assemblies (ruins + residue salvage)
+
+Cross-regional actors:
+- The Quiet Ledger (scribe/rumor network)
+- The Ashbound Circle (small Soul-practitioner network; denied, monitored)
+- Independent Ward-Smiths (traveling Aether craft)
+
+---
+
+## E. Web Map Compatibility Layer (Local Atlas)
+
+The web client includes a local “atlas” with its own labels (e.g., Frostveil Dominion, Eryndor Confederacy). These atlas labels are treated as local sub-polities / provinces within the broader macro-regions above.
+
+Rule for play:
+- If the player is using the web map, narration should prefer local atlas place-names for immediate geography.
+- If the player asks world politics, history, or far-travel, use the macro-region names.
+- Never silently swap names. If both matter, state the relationship once (“This local dominion answers to…”), then stay consistent.
+
+Local atlas anchors (non-exhaustive; canonical to the web map UI):
+- For the full atlas settlement node list, see: 16_REGIONAL_GAZETTEER.md → “Local Settlement Nodes (Atlas v2)”.
+- Regions/labels: Frostveil Dominion; Eryndor Confederacy; Verdantis Crownlands; Ebonreach Covenant; Ashmarsh Principalities; Emberlands Imperium.
+- Mountains: Glacierwall Range; Ashen Rift Mountains.
+- River: Silverflow River.
+- Pass: Ashwind Pass.
+- Settlements/anchors: Icewatch Hold;

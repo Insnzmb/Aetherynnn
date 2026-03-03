@@ -1,0 +1,27 @@
+25. [T3|3|T] Soulbrand Covenant — Does: bind mutual promise with pressure. Risk: sloppy wording traps you.
+26. [T3|3|F] Heartbeat Command — Does: force breath/beat reset (stabilize). Risk: arrhythmia danger.
+27. [T3|3|T] Anima Net — Does: hostile will feels “heavy.” Risk: caster heaviness too.
+28. [T3|3|T] Face Borrow — Does: mimic emotional tone briefly. Risk: lose center.
+29. [T3|3|F] Bond Sever — Does: cut one minor attachment briefly. Risk: rebound addiction.
+30. [T3|3|T] Grave-Quiet — Does: calm restless impressions in a place. Risk: draws attention.
+31. [T3|3|F] Silence the Wound — Does: mute shock spiral (not heal). Risk: concealed damage.
+32. [T3|3|T] Funeral Thread — Does: last words “hold” to listeners. Risk: binds grief into witnesses.
+33. [T3|3|F] Guilt Prick — Does: conscience sting interrupts deception cadence. Risk: backfires on you.
+34. [T3|3|T] Oath Lantern — Does: reveal promise-pressure in a room. Risk: paranoia drift.
+
+## Tier 4 (8)
+35. [T4|4|T] Bind of Ashes — Does: bind hostile intent into stillness. Risk: emotional afterburn.
+36. [T4|4|F] Severing Gaze — Does: cut one impulse briefly. Risk: worse substitute behavior.
+37. [T4|4|T] Identity Lock — Does: prevent false-face from “sticking.” Risk: hits innocent masks.
+38. [T4|4|T] Warden’s Oathmark — Does: brand duty into a willing ally. Risk: permanent subtle change.
+39. [T4|4|F] Echo Extraction — Does: pull one lingering emotion from a room. Risk: you carry it.
+40. [T4|4|T] Soul Cage — Does: trap a spirit-impression in place. Risk: attracts predators.
+41. [T4|4|T] Mercy Drown — Does: dampen cruelty impulse in a crowd. Risk: crowd indecision.
+42. [T4|4|F] Name Fray — Does: loosen a foe’s identity certainty briefly. Risk: reality pushback.
+
+## Tier 5 (8)
+43. [T5|5|T] Threshold Petition — Does: contact at the edge (not resurrection). Risk: forbidden-adjacent attention.
+44. [T5|5|T] Ghost-Iron Oath — Does: unbreakable duty-bond for one purpose. Risk: permanent alteration.
+45. [T5|5|F] Name Unmaking — Does: strip a claimed title briefly. Risk: caster vertigo.
+46. [T5|5|F] Anima Severance — Does: force spirit to let go briefly. Risk: catastrophic misuse.
+47. [T5|5|T] Wound of Memory — Does: make so

@@ -1,0 +1,59 @@
+layer).
+3) Do not allow one player to answer another player’s character details unless that table has explicitly delegated authorship for that character in the moment.
+4) If a player refuses or does not answer, the existing intake fallback rules (where present) apply; this file does **not** add new fallback mechanics.
+
+---
+
+## Notes
+
+This file clarifies enforcement only. It does not alter the locked intake question text.
+
+
+# END VERBATIM — AETH_OPT_32_MULTIPLAYER_CHARACTER_INTAKE_ENFORCEMENT (embedded)
+
+
+# BEGIN VERBATIM — 03_INTAKE_NUMBER_DEFINITIONS_EXTENSION (embedded)
+
+# INTAKE NUMBER DEFINITIONS EXTENSION (Additive)
+
+## Rule
+Every intake option number must define:
+- State effect
+- Authority impact
+- Memory behavior
+- Runtime restrictions
+- Required inputs (if any)
+
+If any option is undefined → intake menu is INVALID and must not proceed.
+
+## Recommended Standard Options
+### Option 1 — New Character Creation
+- State: initialize new run, empty inventory, default resources
+- Authority: Canon Arbiter (CA) active; canon begins at zero for this run
+- Memory: new session scope; no prior canon imported
+- Runtime: narrative enabled after intake completes
+- Inputs: character seed choices only (name/class/etc.)
+
+### Option 2 — Load Existing Save
+- State: restore prior run state exactly
+- Authority: CA validates save integrity; reject partial/malformed saves
+- Memory: restore stored session scope; no improvisation on missing data
+- Runtime: narrative resumes after validation
+- Inputs: full save packet (including inventory + resources)
+
+### Option 3 — Developer / Architect Mode
+- State: suspends narrative, enables file/architecture discussion
+- Authority: elevated design operations; no canon mutation unless explicitly committed
+- Memory: diagnostic logging mindset; conservative assumptions
+- Runtime: non-narrative until mode exits
+- Inputs: explicit confirmation phrase + scope
+
+### Option 4 — Diagnostic / Validation Mode
+- State: read-only checks (structure, consistency, contradictions)
+- Authority: read-only
+- Memory: no canon mutation
+- Runtime: no narrative output
+- Inputs: target files and checks requested
+
+
+# END VERBATIM — 03_INTAKE_NUMBER_DEFINITIONS_EXTENSION (e

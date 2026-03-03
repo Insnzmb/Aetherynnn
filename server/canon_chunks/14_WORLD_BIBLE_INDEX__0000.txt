@@ -1,0 +1,53 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# 14_WORLD_BIBLE_INDEX.md
+Status: CANON — WORLD ANCHOR (DRIFT-RESISTANT)
+Introduces mechanics: NO
+Purpose: A short, dense “world constitution” that pins names, spellings, regions, institutions, dating, and map invariants.
+
+---
+
+## A. Immutable World Constants
+
+1) Towers (Magic Domains): Fire, Water, Air, Earth, Soul, Aether.
+2) Residue: the wake of reality under pressure. It lingers, it matters.
+3) Monsters: crisis-made manifestations; non-ecological; do not breed; mechanics are locked (see 19_MONSTER_DOCTRINE_OF_AETHERYN.md).
+4) Death Law: necromantic persistence is historically real; burial practice is conservative for survival reasons.
+5) Oath Pressure: spoken/witnessed vows have historically bent reality; modern law privileges written record over speech.
+
+---
+
+## B. Dating & Era
+
+Dating system: Neutral Year (− → +), anchored at +0 (standardized dating).
+Current baseline year: +312.
+Current era designation: The Hardened Quiet.
+
+Important clarification (web runtime): the server “World Clock” (day/season/month derived from 'day:' + 'clock:' tokens) is session-time, not the Neutral Year. The Neutral Year is lore-history and does not advance automatically unless play records an era event.
+
+---
+
+## C. Macro-Regions (World-Scale Polities)
+
+These are the canonical world-scale regions used by history, doctrine, and institutions:
+
+1) Veythar Empire — Capital: Ironspire.
+2) Eldrion Kingdom — Capital: Sunfall Keep.
+3) Rhenwall Free Cities — Primary Hub: Highwater Port.
+4) Sapphire Dominion — Capital: Azure Gate.
+5) Southern Sands — Capital: Kharat Crossing.
+6) Frozen Reaches — Anchor Settlement: Frosthold.
+7) Shattered Marches — Anchor Hub: Blackg

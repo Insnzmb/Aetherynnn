@@ -1,0 +1,70 @@
+ and seamless resume.
+
+## Default Behavior
+
+- AUTOSAVE defaults to **ON**.
+- The player may toggle AUTOSAVE at any time (outside LOCKED procedures) with:
+  - `AUTOSAVE OFF`
+  - `AUTOSAVE ON`
+
+## Canon Token (Factual)
+
+Store the preference as a factual token (prune-safe and inspectable):
+
+- `flag:autosave=on`
+- `flag:autosave=off`
+
+## Emission Rule (Automatic)
+
+At the **end of a Scene** (scene concluded), if all conditions are true:
+
+1) AUTOSAVE is ON (`flag:autosave=on`)  
+2) Scene_Count is even (2, 4, 6, …)  
+3) Mode is not COMBAT  
+4) No unresolved roll is pending  
+
+→ Emit exactly one `AETHSAVE_BUNDLE_V1` opaque save bundle.
+
+## Manual Save
+
+Manual `SAVE NOW` is always allowed and emits a bundle immediately (subject to Save Bundle Integrity Gate).
+
+## Scene Concluded (Operational Definition)
+
+A scene is concluded when:
+- The current multi-beat situation reaches a pivot/transition, and
+- No roll is pending, and
+- The next output would begin a new situation frame (new location, new institutional posture, new objective, or a clear time jump).
+---
+
+# ADD — DEV MODE: SAVE BUNDLE INSPECTION COMMANDS (NON-PLAYER-FACING)
+
+Status: AUTHORITATIVE — DEV MODE ONLY  
+Introduces mechanics: NO  
+Purpose: Allow the Architect and Operator to inspect opaque save bundles without contaminating canon or player UX.
+
+## Availability
+
+These commands are valid **only when DEV MODE is active** per governing activation protocol.
+Outside DEV MODE, refuse briefly per DEV MODE boundary rules.
+
+## Commands
+
+### DECODE SAVE
+- Input: a pasted `AETHSAVE_BUNDLE_V1` block.
+- Output (DEV MODE only):
+  1) Validation summary (pass/fail + reason).
+  2) Parsed top-line header fields: AETHVER / STAMP / MODE / SCENEID / CHECKSUM.
+  3) `CANON_SAVE` rendered as structured text (facts only).
+  4) `AUX_REPLAY` rendered verbatim if present.
+  5) Any `AUX_META` keys (no hidden prompts; no chain-of-thought).
+
+### VALIDATE SAVE
+- Input: a pasted bundle.
+- Output: validation result only (no decoded contents unless also requested).
+
+### SHOW CANON TOKENS
+- Output: only the canonical factual token lists (CAN, INV, WORLD, PARTY, FLAGS, RELATIONS) as applicable to the save schema in use.
+
+### SHOW AUX REPLAY
+- Outp

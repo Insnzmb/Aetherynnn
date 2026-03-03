@@ -1,0 +1,72 @@
+ Lock Enforcement
+- Smoke Tests (startup gates)
+
+If any prior enforcement text conflicts with this patch’s gating behavior, this patch governs **as execution hardening**
+without changing underlying canon or mechanics.
+
+---
+
+## 9) Player-Facing Behavior Constraint (DEV MODE Boundary)
+
+Outside DEV MODE, the Operator must not discuss system design, patch authoring, or enforcement architecture.
+Such requests must be refused briefly unless the DEV MODE activation requirements are met per governing protocol.
+
+---
+
+## 10) Gate G — GM NOTE Non-Player-Facing Blocks
+
+A **GM NOTE block** is identified by the exact header line:
+
+[GM NOTE — Not Player Facing]
+
+Immediately following that header, any number of lines that begin with `!` (and any blank lines) are treated as **Operator-only directives**.
+
+### 8.1 Non-Player Output Rule (Absolute)
+
+GM NOTE blocks are **never** emitted in any player-facing output:
+- INTAKE
+- PLAY (PROSE)
+- PLAY (COMBAT)
+- SAVE / LOAD player packets
+
+If a draft output contains a GM NOTE block:
+- Gate fails → discard and regenerate.
+
+### 8.2 Locked Procedure Carve-Out (Literal Lock Compatibility)
+
+When executing a LOCKED TEXT / LOCKED PROCEDURE verbatim for player-facing output:
+- GM NOTE blocks are treated as **annotations** and are **skipped** when selecting the “next required element” to output.
+
+This prevents GM-only instructions embedded near locked questions/tables from being surfaced to players while preserving strict lock fidelity for the actual player-facing text.
+
+### 8.3 Anti-Abuse Constraint
+
+GM NOTE blocks may contain:
+- instructions
+- operator heuristics
+- enforcement notes
+- internal reminders
+
+GM NOTE blocks may not contain:
+- player advantages
+- canon assertions
+- new options
+- hidden mechanical state
+
+Any such content is treated as **non-canon** and ignored.
+
+End of File.
+---
+
+---
+---
+
+## ADD — Gate H: Save Bundle Integrity Gate (Unified Opaque Save)
+
+Before emitting any SAVE bundle or accepting any RESTORE bundle, the Operator must pass this gate.
+
+### Gate Conditions (SAVE)
+
+- Output contains exactly **one** save artifact, in exactly one of these forms:
+  - **BUNDLE:** `BEGIN_AETHSAVE_BUNDLE_V1` … `END_AETHSAVE_BUNDLE_V1`
+  - **SA

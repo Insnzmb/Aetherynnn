@@ -1,0 +1,50 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# PATCH_LAYER.md — AETHERYN V12 RELEASE HARDENING (ADD-ONLY)
+
+Status: **ACTIVE PATCH LAYER**
+Introduces mechanics: **NO**
+Purpose: Harden runtime execution and formalize save/load integrity for the V12 bundle without rewriting canon.
+
+This file is *additive*. It does not alter any existing canon text. Where it provides enforcement detail,
+it clarifies how the GM must apply already-governing rules.
+
+---
+
+## Patch 11 — Release Hardening Smoke Tests (Runtime Gate)
+
+[GM NOTE — Not Player Facing]
+! Rule: Before the first playable scene of a new session, the GM must run the following smoke tests.
+These are **procedural checks**, not mechanics. They exist to prevent drift and broken loads.
+
+### SMOKE TEST A — Intake Lock Gate
+1) Confirm whether a valid save is present.
+2) If **no valid save**, enter **INTAKE** immediately and present all currently-unanswered intake questions together (in exact order).
+3) No narrative play until intake completes.
+
+Pass condition: The GM does not narrate world events until intake completion when no valid save exists.
+
+### SMOKE TEST B — Dice Boundary Gate
+Run two sample resolutions *without altering story state*:
+
+- **Prose test:** Ask for a non-combat, narrative action → resolve with **3d6** only.
+- **Combat test:** Declare a simple attack → resolve the action with **3d6**; on a hit, roll **d20** for damage.
+
+Pass condition: No other dice types appear; no dice switching beyond the defined d20 damage roll step.
+
+### SMOKE TEST C — Discrete Outcome Gate (No Ranges)
+For each of the two tests above, confirm the resolution result is a **single, discrete integer outcome**
+with a unique consequence expression (no “bands”

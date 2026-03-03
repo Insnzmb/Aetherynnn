@@ -1,0 +1,74 @@
+------------------------------------
+
+# MIGRATION CORRIDORS
+
+-   Diagonal River Corridor (north--south seasonal flow)
+-   Southern Caravan Loop (succulent bloom cycle)
+-   Ironfall Ridge Spine (altitude-driven herd movement)
+-   Northern Freeze Arc (cold-cycle short migration)
+
+Residue zones alter but do not randomize migration paths.
+
+------------------------------------------------------------------------
+
+# FOOD WEB PRINCIPLE
+
+Producer → Herbivore → Predator → Apex → Scavenger → Decomposer → Soil →
+Producer
+
+Removal of any tier forces redistribution across adjacent tiers.
+Stability depends on keystone species integrity.
+
+------------------------------------------------------------------------
+
+# NARRATIVE INTEGRATION GUIDELINE
+
+Ecology must appear through:
+
+-   Seasonal timing shifts
+-   Predator movement patterns
+-   Insect presence or absence
+-   Carcass persistence
+-   Migration timing
+-   Crop health variation
+
+Never exposition. Always implication.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# MONSTER INTERACTION CLARIFICATION (ADDENDUM)
+
+Monsters are **not** part of the ecological food web defined in this file.
+
+Ecology governs:
+1. Primary Producers (flora)
+2. Pollinators & Decomposers
+3. Herbivores
+4. Mesopredators
+5. Apex Predators
+6. Scavengers
+7. Human Disruption Layer
+
+Monsters govern:
+- Crisis-responsive, battle-ready entities that manifest from accumulated structural stress
+- Non-ecological entities that may appear, dissipate, or reconfigure
+- Encounters whose *mechanics* are locked while *expression* reflects current Crisis
+
+Canonical reference:
+→ FILE: AETHERYN_WORLD_LORE_TECH.aeth (Section: MONSTER_DOCTRINE)
+
+Integration guideline (no mechanics):
+- Ecology provides *conditions* (seasonal timing, migration shifts, residue storms) that can *contextualize* monster manifestation.
+- Monster outcomes can create *aftereffects* that appear ecologically (carcass persistence shifts, scavenger surge, altered animal movement) **without reclassifying monsters as fauna**.
+
+End of Addendum.
+
+
+End of File.
+
+---
+
+
+============================================

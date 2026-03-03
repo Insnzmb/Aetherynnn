@@ -1,0 +1,8 @@
+mely hard to shut down cleanly.
+46. [T5|5|F] Sigil Break — Does: destroy a powerful ward/lock/anchor if you touch its keystone. Risk: backlash brands you to watchers.
+47. [T5|5|T] Veil Null — Does: suppress magic tells/residue in an area briefly. Risk: also hides enemy residue.
+48. [T5|5|F] Mirror Verdict — Does: reflect one spell-like effect back toward its source (contest/GM). Risk: rebound can double-hit.
+49. [T5|5|T] Anchor Worldline — Does: fix a position as “cannot be moved” briefly (you or ally). Risk: tendon strain + later recoil.
+50. [T5|5|F] Rift Scar — Does: carve a decisive cut in battlefield geometry (new gap or hard separation). Risk: permanent scar chance + divine attention spike.
+
+---

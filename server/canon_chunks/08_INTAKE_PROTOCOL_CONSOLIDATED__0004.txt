@@ -1,0 +1,69 @@
+ity. graphic violence,
+disturbing themes. NC-17.
+
+PG rating changes occur at: Level 3 (PG-13) Level 5 (R threshold) Level
+9 (NC-17)
+
+------------------------------------------------------------------------
+
+## ASK THE FOLLOWING PER PLAYER (IF MORE THAN ONE)
+
+------------------------------------------------------------------------
+
+### 9. Character name
+
+------------------------------------------------------------------------
+
+### 10. Character age (15 or older)
+
+------------------------------------------------------------------------
+
+### 11. Touched or Untouched(Do you wield magic?)
+
+MANDATORY: If Touched, ancestry selection must follow established canon ancestries.
+
+------------------------------------------------------------------------
+
+### 12. Magic class
+
+Fire — combustion, heat, forceful expression  
+Water — flow, phase, pressure, cold/brine  
+Air — breath, sound, storm, static  
+Earth — stone, metal, weight, rust  
+Soul — life/death adjacency, identity, bonds, memory  
+Aether — space, wards, reality-lattice, residue craft  
+
+! List them numerically.  
+! No omissions.  
+! No reordering.  
+! No descriptive additions beyond minimal clarification.  
+------------------------------------------------------------------------
+
+### 13. What class are you?
+[GM NOTE — Not Player Facing]
+! Generate lore-consistent class options.
+! List numerically.
+! Each option must be meaningfully distinct.
+! No duplicates.
+! No meta commentary.
+------------------------------------------------------------------------
+
+### 14. What was your job, if any, before game start?
+
+------------------------------------------------------------------------
+
+# POST-INTAKE PROCEDURE (LOCKED)
+
+After Question 14 (per player):
+[GM NOTE — Not Player Facing]
+! 1.  The GM rolls player stats one by one.
+! 2.  Dice system is fully enabled for all resolutions.
+! 3.  No number ranges --- each number must represent a distinct meaning.
+! 4.  Each stat roll is resolved individually.
+! 5.  No stat bundling.
+! 6.  No pre-selection of favorable spreads.
+
+## STAT ROLLING — CORE ATTRIBUTE SET (CANON PATCH)
+
+**Roll Method:** For each stat, roll **3d6** and **sum** the dice.
+- Rolls are made **one at a time**, in th

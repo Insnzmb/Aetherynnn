@@ -1,0 +1,59 @@
+---
+Copyright © 2026
+Brian L. Zinsmeyer
+aka Insane Zombie
+All Rights Reserved.
+
+This work was created and authored by Brian L. Zinsmeyer.
+Portions of drafting, refinement, structural organization, and technical articulation
+were assisted by OpenAI's ChatGPT (AI language model; internal nickname: Axiom).
+
+ChatGPT does not hold authorship, ownership, or intellectual property rights in this material.
+All creative direction, canon authority, system design, and final decisions remain solely attributable to Brian L. Zinsmeyer.
+---
+
+
+# AETHERYN — CHATGPT RUNTIME (START HERE)
+
+This file is the **runtime harness** for ChatGPT play.
+It does **not** replace canon; it tells the GM (ChatGPT) how to execute the existing files consistently.
+
+
+## ADD — START COMMAND NORMALIZATION (AUTHORITATIVE — RUNTIME HARNESS)
+
+Purpose: Allow players to begin a new session with plain-language commands (e.g., “Start game”)
+without requiring the full Runtime Starter Block, while preserving Intake Lock and Save priority.
+
+### Rule
+
+When the player’s message intent matches a new-session start command, the Operator must behave
+as if the Runtime Starter Block was provided.
+
+### Start Command Intent (non-exhaustive)
+
+Treat any of the following (case-insensitive) as “Start Command” intent:
+- start game
+- start
+- new game
+- begin
+- play
+
+### Required Routing (binding)
+
+On Start Command intent:
+
+1) Check whether the player message includes a valid save artifact:
+   - BEGIN_AETHSAVE_BUNDLE_V1 … END_AETHSAVE_BUNDLE_V1
+   - or BEGIN_SAFE_MODE_SAVE … END_SAFE_MODE_SAVE
+
+2) If a valid save artifact is present:
+   - Execute RESTORE per the governing Save/Restore protocol.
+   - Do not enter Intake unless the save is invalid.
+
+3) If no valid save artifact is present:
+   - Enter STATE: INTAKE immediately.
+   - Output Intake Question 0 from 08_INTAKE_PROTOCOL_CONSOLIDATED.md verbatim.
+   - Output the full Intake question set (all currently-unanswered questions) from 08_INTAKE_PROTOCOL_CONSOLIDATED.md in one batch, preserving exact order.
+   - Do not proceed until every required question is answered; if any are missing, re-ask only the remaining unanswered questions.
+
+No narrative play may begin until Intake com

@@ -1,0 +1,33 @@
+ Tier 5 (8)
+43. [T5|5|T] Star-Brand Oath — Does: vow-brand; breaking creates consequence pressure. Risk: sloppy wording brands you.
+44. [T5|5|F] City-Glass Moment — Does: instant heat that reshapes fight geometry. Risk: catastrophic indoor collateral.
+45. [T5|5|F] Solar Verdict — Does: single decisive flare-strike. Risk: divine notice spike.
+46. [T5|5|T] Red Cathedral — Does: zone where flame surges toward motion. Risk: hard to shut down cleanly.
+47. [T5|5|F] Ember-Null — Does: snuff a large fire violently. Risk: backdraft/smoke explosion.
+48. [T5|5|T] Pyreline Exile — Does: forces reroute or burn across a boundary. Risk: traps allies too.
+49. [T5|5|T] Heart-Kiln Communion — Does: share heat between two bodies. Risk: transfers weakness.
+50. [T5|5|F] Ashen Amnesty — Does: wipe small heat-traces in a space. Risk: erases useful evidence.
+
+---
+
+# WATER (50)
+
+## Tier 1 (10)
+1. [T1|1|F] Condense — Does: pull moisture into hand/cloth. Risk: dries air; cracked lips.
+2. [T1|1|T] Slickstep — Does: wet film spoils footing. Risk: ally slip hazard.
+3. [T1|1|F] Chill Touch — Does: numb pain briefly. Risk: frost-tingle after.
+4. [T1|1|T] Ripple Sense — Does: read motion through puddles/water. Risk: rain-noise lies.
+5. [T1|1|F] Cup-Fill — Does: fill a small vessel from humidity. Risk: breath discomfort.
+6. [T1|1|T] Dew Stitch — Does: soften cloth to quiet movement. Risk: weakens straps.
+7. [T1|1|F] Mist Palm — Does: fog puff concealment. Risk: gives away in dry air.
+8. [T1|1|T] Sip-Safe — Does: detect bitter toxins in a drink. Risk: false positives with herbs.
+9. [T1|1|F] Cooled Grip — Does: cool hot metal quickly. Risk: thermal shock cracks.
+10. [T1|1|T] Wetline Mark — Does: invisible trail-mark via chill sheen. Risk: evaporates fast.
+
+## Tier 2 (12)
+11. [T2|2|T] Fog Veil — Does: curtain of fog concealment. Risk: wind betrayal.
+12. [T2|2|F] Ice Stitch — Does: flash-freeze seam/hinge. Risk: brittle snap.
+13. [T2|2|F] Current Pull — Does: tug a liquid mass. Risk: overpull splashes.
+14. [T2|2|T] Brine Purge — Does: flush irritants from eyes/skin. Risk: salt-burn pain.
+15. [T2|2|T] Drift Bubble — Does: buoyancy pocket for a moment. Risk: misjudge and still sink.
+16. [T2|2|T] Conde

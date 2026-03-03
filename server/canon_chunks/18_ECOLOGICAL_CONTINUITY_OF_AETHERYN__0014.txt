@@ -1,0 +1,55 @@
+ can consume it to heal.
+- **Late Reflection (Passive):** The first attack against it each round has reduced effect—people swing where it was.
+
+**Defeat:**
+Killable, but easiest when lured away from wards/lights and fought in **ugly, unlit places** where it can’t feed.
+
+**Signs:**
+Lanterns burning down too fast. Wards failing “cleanly” with no backlash. Shadows pointing the wrong way.
+
+---
+
+#### THE SALT-REMEMBERER
+*(Called “The Brine-Scribe,” “The Mouth of Names,” “The Sea-Archive.”)*
+
+**Type:** Crisis Herald / Name-Pressure Entity
+**Threat:** Extreme
+**HP:** 170
+**DR:** 3
+**Magic Resistance:** Medium–High
+**Move:** Slow glide; unstoppable in straight pursuit
+**Senses:** Detects spoken names, titles, identity claims
+
+**Description:**
+A long, pale body like a seal-skinned corpse dragged from surf, covered in etched letters that rewrite themselves. It tastes the air with a tongue like wet paper.
+
+**Behavior:**
+It appears when names are misused: forged seals, stolen titles, false lineages, identity fraud, necromantic name-tampering. It chooses a “correct” version of a person and enforces it with violence.
+
+**Combat:**
+- **Name-Bite:** On hit, allies hesitate—brief confusion, miscalling, mistaken identity (tactical disruption).
+- **Salt Scour:** Cone spray that blinds and burns wounds.
+- **Erase (1/scene):** Forces a target to lose one identity-linked advantage (disguise ruined, papers invalidated, emblem stripped).
+- **Witness Hunger (Passive):** Stronger in public—more names spoken, more attention.
+
+**Defeat:**
+Killable. It weakens if the party **stops using titles and lies**, speaks plainly, and destroys forged seals/papers it is keyed to.
+
+**Signs:**
+Salt crust on inland windows. Names “slipping” in conversation. Letters appearing in condensation.
+
+---
+
+#### THE THRESH-HEART
+*(Named by farmers: “The Barn-Beat,” “The Field-Walker,” “The Root-Thumper.”)*
+
+**Type:** Crisis Titan / Hunger-Pressure Manifest
+**Threat:** Severe (very hard, but winnable)
+**HP:** 210
+**DR:** 5
+**Magic Resistance:** Medium
+**Move:** Slow; ground-shaking steps
+**Senses:** Detects famine, blight, repeated harvest failure
+
+**Description:**
+A massive earthen body stitched with straw and plow

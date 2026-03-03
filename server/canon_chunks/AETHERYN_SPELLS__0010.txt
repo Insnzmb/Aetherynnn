@@ -1,0 +1,34 @@
+ records.
+33. [T3|3|F] Collapse Nudge — Does: fail a chosen weak point. Risk: unpredictable cascade.
+34. [T3|3|T] Bedrock Calm — Does: steady shaking ground momentarily. Risk: petrification tingle.
+
+## Tier 4 (8)
+35. [T4|4|T] Obsidian Gate — Does: barrier plane denies passage. Risk: severe injury hazard.
+36. [T4|4|F] Bedrock Hand — Does: stone grip seizes limb/weapon. Risk: crushing injury.
+37. [T4|4|T] Stone Labyrinth — Does: low walls form a maze. Risk: traps everyone.
+38. [T4|4|T] Iron Choir — Does: metal resonance reveals hidden motion. Risk: deafening.
+39. [T4|4|T] Grave Seal — Does: harden soil into lid/wall. Risk: suffocation hazard.
+40. [T4|4|F] Rust Crown — Does: corrode nearby cheap iron quickly. Risk: ally gear harmed.
+41. [T4|4|T] Pillar Stitch — Does: stabilize a sagging support briefly. Risk: transfers stress.
+42. [T4|4|F] Shard Bloom — Does: erupt sharp stone petals. Risk: indiscriminate hazard.
+
+## Tier 5 (8)
+43. [T5|5|T] Mountain’s Refusal — Does: ground resists crossing briefly. Risk: permanent scar potential.
+44. [T5|5|F] Worldspike Sigil — Does: anchor spike locks geometry. Risk: bone backlash if shattered.
+45. [T5|5|T] Cathedral Pillar — Does: raise one massive support column. Risk: buckles neighbors.
+46. [T5|5|F] Graveseam Verdict — Does: fissure snap-line opens briefly. Risk: irreversible terrain harm.
+47. [T5|5|T] Iron Vow — Does: bind duty into an object. Risk: object becomes curse-vector.
+48. [T5|5|T] Ore-Witching — Does: hidden metal caches “answer” faintly. Risk: attracts thieves.
+49. [T5|5|F] Stone-Nulled Blade — Does: deaden a weapon edge into bluntness. Risk: snaps weapon.
+50. [T5|5|T] Bedrock Mercy — Does: stabilize collapsing ground under allies. Risk: caster petrification.
+
+---
+
+# SOUL (50)
+
+## Tier 1 (10)
+1. [T1|1|F] Pulse Stitch — Does: stop bleeding; stabilize surface trauma. Risk: pain rebound.
+2. [T1|1|T] Quiet Vein — Does: lower panic response briefly. Risk: emotional whiplash.
+3. [T1|1|T] Name-Thread — Does: sense anchored vs performed identity. Risk: false certainty.
+4. [T1|1|F] Borrowed Breath — Does: share air briefly. Risk: contamination transfer.
+5. [T1|1|T] Hand Steady — Does: damp tremor for fine work. Risk: shakes

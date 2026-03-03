@@ -1,0 +1,55 @@
+f uncertainty exists, export a clean baseline save only.
+
+This patch clarifies enforcement and recovery only.
+It introduces no new mechanics, powers, or permissions.
+
+---
+
+### ENVIRONMENTAL PRESSURE DOCTRINE (RHYTHM-PRESERVING)
+
+Environmental degradation is not a separate meter. It is a **pressure multiplier** that accelerates consequences in existing systems.
+
+#### Scars
+A **Scar** is recorded when war, residue, extraction, neglect, or catastrophe produces visible, lasting damage in an **anchored region**.
+
+Scars must be:
+- Region-anchored
+- Causally linked
+- Narratively visible
+
+#### Pressure Bands (regional)
+Bands change by **Scar Density** (GM-tracked, not player-facing).
+
+- **Band I — Strain:** subtle instability; minor trust erosion if unaddressed.
+- **Band II — Depletion:** trade reliability drops; fear trends upward; residue volatility worsens.
+- **Band III — Destabilization:** migration pressure; easier recruitment; Crisis escalation check required if political unrest is present.
+- **Band IV — Collapse:** institutional mobilization mandatory; automatic Crisis +1 review trigger; fragmentation increases.
+- **Band V — Scarred Territory:** permanent map annotation; long-term economic reduction; residue amplification risk.
+
+#### Band IV Persistence Rule (Non-Normalization)
+If **Band IV** persists in a region for **6 sessions** without resolution, it must **convert** into a **permanent regional trait** and the active band must **reset**:
+
+- Record a named Trait (Scar / Blight / Drought-Charter / Ashwind Corridor / Salt-Soil, etc.) with one concrete ongoing constraint.
+- Set the region’s baseline to **Band II** (stressed but survivable).
+- Any return to Band IV must be a **fresh event**, not passive continuation.
+
+This prevents “Collapse” from becoming the region’s default normal.
+
+#### Coupling (enforced)
+At Band III+, apply:
+- faster rumor spread
+- higher institutional urgency
+- higher residue volatility
+At Band IV, institutions must respond within 1 session.
+
+(See: AETH_OPT_24_LONG_CAMPAIGN_DYNAMICS (embedded))
+
+---
+
+---
+
+## CANON PATCH — CHRONOLOGY COHERENCE (AUTHORITATIVE)
+Date: 2026-02-25
+Introduces mechanics: NO
+
+The v12 merged sources include a late-er

@@ -1,0 +1,37 @@
+is environmental scar tissue, not an active defense.
+
+#### From Lethal Speech → Institutional Delay
+There was a time when words killed. When premature declaration, oath, or prophecy could destabilize reality, restraint became adaptive.
+Delay replaced decisiveness; process replaced judgment.
+
+> The world did not become orderly.
+> It became cautious, layered, and slow—because speed once ended civilizations.
+
+#### From the Ash Census → Modern Licensing
+Uncounted magic use destabilized settlements and trade routes. The Ash Census did not regulate magic—it made it *visible*.
+Modern registries, licenses, guild charters, and practice permits descend directly from census logic: **what cannot be counted cannot be trusted**.
+
+#### From the Oath Collapse → Contract Hierarchy
+When spoken oaths bent reality, conflicting vows tore it. Speech proved unstable as a binding force.
+Modern law privileges written terms over spoken, witnessed record over belief, seals over names, and registries over memory—because the hierarchy prevents reality fracture, not merely fraud.
+
+#### From Necromantic Persistence → Burial & Death Law
+Early recurrence events demonstrated that death was not self-terminating.
+Burning, breaking, erasure of names, and death registries were survival responses. Modern burial law is conservative because failure is catastrophic, not symbolic.
+
+#### From Magical Saturation → Ambient Resistance
+Repeated large-scale casting thickened the world with residue. Magic still functions, but it rarely expresses cleanly in conflict. This resistance is environmental scar tissue, not an active defense.
+
+#### From Lethal Speech → Institutional Delay
+There was a time when words killed. When premature declaration, oath, or prophecy could destabilize reality, restraint became adaptive.
+Delay replaced decisiveness; process replaced judgment.
+
+> The world did not become orderly.
+> It became cautious, layered, and slow—because speed once ended civilizations.
+---
+
+### PATCH — LITERAL LOCK ENFORCEMENT (AUTHORITATIVE)
+
+Status: **AUTHORITATIVE — GLOBAL**
+Introduces mechanics: **NO**
+Purpose: Prevent accidental drift caused by paraphrasing, bundling, reordering, or “helpful” additions. Any *
